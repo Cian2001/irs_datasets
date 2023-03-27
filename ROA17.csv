@@ -1,1171 +1,1081 @@
-﻿"Statistic","Year","Month of Year","UNIT","VALUE"
-"Fatal Collisions","2005","All months","Number","360"
-"Fatal Collisions","2005","January","Number","31"
-"Fatal Collisions","2005","February","Number","34"
-"Fatal Collisions","2005","March","Number","23"
-"Fatal Collisions","2005","April","Number","20"
-"Fatal Collisions","2005","May","Number","36"
-"Fatal Collisions","2005","June","Number","20"
-"Fatal Collisions","2005","July","Number","38"
-"Fatal Collisions","2005","August","Number","23"
-"Fatal Collisions","2005","September","Number","29"
-"Fatal Collisions","2005","October","Number","38"
-"Fatal Collisions","2005","November","Number","31"
-"Fatal Collisions","2005","December","Number","37"
-"Fatal Collisions","2006","All months","Number","321"
-"Fatal Collisions","2006","January","Number","34"
-"Fatal Collisions","2006","February","Number","26"
-"Fatal Collisions","2006","March","Number","25"
-"Fatal Collisions","2006","April","Number","29"
-"Fatal Collisions","2006","May","Number","25"
-"Fatal Collisions","2006","June","Number","31"
-"Fatal Collisions","2006","July","Number","33"
-"Fatal Collisions","2006","August","Number","17"
-"Fatal Collisions","2006","September","Number","21"
-"Fatal Collisions","2006","October","Number","25"
-"Fatal Collisions","2006","November","Number","24"
-"Fatal Collisions","2006","December","Number","31"
-"Fatal Collisions","2007","All months","Number","309"
-"Fatal Collisions","2007","January","Number","21"
-"Fatal Collisions","2007","February","Number","24"
-"Fatal Collisions","2007","March","Number","32"
-"Fatal Collisions","2007","April","Number","25"
-"Fatal Collisions","2007","May","Number","19"
-"Fatal Collisions","2007","June","Number","28"
-"Fatal Collisions","2007","July","Number","30"
-"Fatal Collisions","2007","August","Number","24"
-"Fatal Collisions","2007","September","Number","26"
-"Fatal Collisions","2007","October","Number","24"
-"Fatal Collisions","2007","November","Number","20"
-"Fatal Collisions","2007","December","Number","36"
-"Fatal Collisions","2008","All months","Number","254"
-"Fatal Collisions","2008","January","Number","25"
-"Fatal Collisions","2008","February","Number","27"
-"Fatal Collisions","2008","March","Number","18"
-"Fatal Collisions","2008","April","Number","19"
-"Fatal Collisions","2008","May","Number","16"
-"Fatal Collisions","2008","June","Number","23"
-"Fatal Collisions","2008","July","Number","24"
-"Fatal Collisions","2008","August","Number","25"
-"Fatal Collisions","2008","September","Number","19"
-"Fatal Collisions","2008","October","Number","21"
-"Fatal Collisions","2008","November","Number","20"
-"Fatal Collisions","2008","December","Number","17"
-"Fatal Collisions","2009","All months","Number","220"
-"Fatal Collisions","2009","January","Number","17"
-"Fatal Collisions","2009","February","Number","12"
-"Fatal Collisions","2009","March","Number","22"
-"Fatal Collisions","2009","April","Number","19"
-"Fatal Collisions","2009","May","Number","25"
-"Fatal Collisions","2009","June","Number","15"
-"Fatal Collisions","2009","July","Number","17"
-"Fatal Collisions","2009","August","Number","19"
-"Fatal Collisions","2009","September","Number","14"
-"Fatal Collisions","2009","October","Number","21"
-"Fatal Collisions","2009","November","Number","21"
-"Fatal Collisions","2009","December","Number","18"
-"Fatal Collisions","2010","All months","Number","185"
-"Fatal Collisions","2010","January","Number","14"
-"Fatal Collisions","2010","February","Number","14"
-"Fatal Collisions","2010","March","Number","12"
-"Fatal Collisions","2010","April","Number","17"
-"Fatal Collisions","2010","May","Number","25"
-"Fatal Collisions","2010","June","Number","11"
-"Fatal Collisions","2010","July","Number","13"
-"Fatal Collisions","2010","August","Number","15"
-"Fatal Collisions","2010","September","Number","11"
-"Fatal Collisions","2010","October","Number","34"
-"Fatal Collisions","2010","November","Number","13"
-"Fatal Collisions","2010","December","Number","6"
-"Fatal Collisions","2011","All months","Number","172"
-"Fatal Collisions","2011","January","Number","16"
-"Fatal Collisions","2011","February","Number","18"
-"Fatal Collisions","2011","March","Number","14"
-"Fatal Collisions","2011","April","Number","8"
-"Fatal Collisions","2011","May","Number","10"
-"Fatal Collisions","2011","June","Number","14"
-"Fatal Collisions","2011","July","Number","17"
-"Fatal Collisions","2011","August","Number","14"
-"Fatal Collisions","2011","September","Number","13"
-"Fatal Collisions","2011","October","Number","14"
-"Fatal Collisions","2011","November","Number","18"
-"Fatal Collisions","2011","December","Number","16"
-"Fatal Collisions","2012","All months","Number","152"
-"Fatal Collisions","2012","January","Number","10"
-"Fatal Collisions","2012","February","Number","13"
-"Fatal Collisions","2012","March","Number","11"
-"Fatal Collisions","2012","April","Number","16"
-"Fatal Collisions","2012","May","Number","12"
-"Fatal Collisions","2012","June","Number","24"
-"Fatal Collisions","2012","July","Number","15"
-"Fatal Collisions","2012","August","Number","8"
-"Fatal Collisions","2012","September","Number","10"
-"Fatal Collisions","2012","October","Number","13"
-"Fatal Collisions","2012","November","Number","8"
-"Fatal Collisions","2012","December","Number","12"
-"Fatal Collisions","2013","All months","Number","179"
-"Fatal Collisions","2013","January","Number","18"
-"Fatal Collisions","2013","February","Number","13"
-"Fatal Collisions","2013","March","Number","14"
-"Fatal Collisions","2013","April","Number","12"
-"Fatal Collisions","2013","May","Number","14"
-"Fatal Collisions","2013","June","Number","13"
-"Fatal Collisions","2013","July","Number","18"
-"Fatal Collisions","2013","August","Number","17"
-"Fatal Collisions","2013","September","Number","16"
-"Fatal Collisions","2013","October","Number","13"
-"Fatal Collisions","2013","November","Number","15"
-"Fatal Collisions","2013","December","Number","16"
-"Fatal Collisions","2014","All months","Number","178"
-"Fatal Collisions","2014","January","Number","15"
-"Fatal Collisions","2014","February","Number","13"
-"Fatal Collisions","2014","March","Number","14"
-"Fatal Collisions","2014","April","Number","13"
-"Fatal Collisions","2014","May","Number","18"
-"Fatal Collisions","2014","June","Number","14"
-"Fatal Collisions","2014","July","Number","16"
-"Fatal Collisions","2014","August","Number","14"
-"Fatal Collisions","2014","September","Number","11"
-"Fatal Collisions","2014","October","Number","15"
-"Fatal Collisions","2014","November","Number","18"
-"Fatal Collisions","2014","December","Number","17"
-"Fatal Collisions","2015","All months","Number","155"
-"Fatal Collisions","2015","January","Number","9"
-"Fatal Collisions","2015","February","Number","13"
-"Fatal Collisions","2015","March","Number","11"
-"Fatal Collisions","2015","April","Number","7"
-"Fatal Collisions","2015","May","Number","12"
-"Fatal Collisions","2015","June","Number","13"
-"Fatal Collisions","2015","July","Number","17"
-"Fatal Collisions","2015","August","Number","14"
-"Fatal Collisions","2015","September","Number","16"
-"Fatal Collisions","2015","October","Number","11"
-"Fatal Collisions","2015","November","Number","13"
-"Fatal Collisions","2015","December","Number","19"
-"Fatal Collisions","2016","All months","Number","174"
-"Fatal Collisions","2016","January","Number","14"
-"Fatal Collisions","2016","February","Number","10"
-"Fatal Collisions","2016","March","Number","16"
-"Fatal Collisions","2016","April","Number","13"
-"Fatal Collisions","2016","May","Number","20"
-"Fatal Collisions","2016","June","Number","12"
-"Fatal Collisions","2016","July","Number","16"
-"Fatal Collisions","2016","August","Number","13"
-"Fatal Collisions","2016","September","Number","17"
-"Fatal Collisions","2016","October","Number","19"
-"Fatal Collisions","2016","November","Number","9"
-"Fatal Collisions","2016","December","Number","15"
-"Fatal Collisions","2017","All months","Number","140"
-"Fatal Collisions","2017","January","Number","14"
-"Fatal Collisions","2017","February","Number","10"
-"Fatal Collisions","2017","March","Number","19"
-"Fatal Collisions","2017","April","Number","6"
-"Fatal Collisions","2017","May","Number","8"
-"Fatal Collisions","2017","June","Number","13"
-"Fatal Collisions","2017","July","Number","14"
-"Fatal Collisions","2017","August","Number","10"
-"Fatal Collisions","2017","September","Number","10"
-"Fatal Collisions","2017","October","Number","11"
-"Fatal Collisions","2017","November","Number","13"
-"Fatal Collisions","2017","December","Number","12"
-"Fatal Collisions","2018","All months","Number","132"
-"Fatal Collisions","2018","January","Number","11"
-"Fatal Collisions","2018","February","Number","10"
-"Fatal Collisions","2018","March","Number","13"
-"Fatal Collisions","2018","April","Number","15"
-"Fatal Collisions","2018","May","Number","4"
-"Fatal Collisions","2018","June","Number","15"
-"Fatal Collisions","2018","July","Number","8"
-"Fatal Collisions","2018","August","Number","11"
-"Fatal Collisions","2018","September","Number","10"
-"Fatal Collisions","2018","October","Number","9"
-"Fatal Collisions","2018","November","Number","11"
-"Fatal Collisions","2018","December","Number","15"
-"Fatal Collisions","2019","All months","Number","129"
-"Fatal Collisions","2019","January","Number","10"
-"Fatal Collisions","2019","February","Number","14"
-"Fatal Collisions","2019","March","Number","9"
-"Fatal Collisions","2019","April","Number","9"
-"Fatal Collisions","2019","May","Number","8"
-"Fatal Collisions","2019","June","Number","11"
-"Fatal Collisions","2019","July","Number","8"
-"Fatal Collisions","2019","August","Number","8"
-"Fatal Collisions","2019","September","Number","17"
-"Fatal Collisions","2019","October","Number","10"
-"Fatal Collisions","2019","November","Number","11"
-"Fatal Collisions","2019","December","Number","14"
-"Injury Collisions","2005","All months","Number","6173"
-"Injury Collisions","2005","January","Number","442"
-"Injury Collisions","2005","February","Number","427"
-"Injury Collisions","2005","March","Number","475"
-"Injury Collisions","2005","April","Number","509"
-"Injury Collisions","2005","May","Number","525"
-"Injury Collisions","2005","June","Number","504"
-"Injury Collisions","2005","July","Number","534"
-"Injury Collisions","2005","August","Number","535"
-"Injury Collisions","2005","September","Number","539"
-"Injury Collisions","2005","October","Number","566"
-"Injury Collisions","2005","November","Number","572"
-"Injury Collisions","2005","December","Number","545"
-"Injury Collisions","2006","All months","Number","5697"
-"Injury Collisions","2006","January","Number","488"
-"Injury Collisions","2006","February","Number","380"
-"Injury Collisions","2006","March","Number","442"
-"Injury Collisions","2006","April","Number","373"
-"Injury Collisions","2006","May","Number","462"
-"Injury Collisions","2006","June","Number","440"
-"Injury Collisions","2006","July","Number","479"
-"Injury Collisions","2006","August","Number","506"
-"Injury Collisions","2006","September","Number","497"
-"Injury Collisions","2006","October","Number","537"
-"Injury Collisions","2006","November","Number","514"
-"Injury Collisions","2006","December","Number","579"
-"Injury Collisions","2007","All months","Number","5158"
-"Injury Collisions","2007","January","Number","438"
-"Injury Collisions","2007","February","Number","397"
-"Injury Collisions","2007","March","Number","438"
-"Injury Collisions","2007","April","Number","361"
-"Injury Collisions","2007","May","Number","423"
-"Injury Collisions","2007","June","Number","420"
-"Injury Collisions","2007","July","Number","471"
-"Injury Collisions","2007","August","Number","462"
-"Injury Collisions","2007","September","Number","430"
-"Injury Collisions","2007","October","Number","451"
-"Injury Collisions","2007","November","Number","449"
-"Injury Collisions","2007","December","Number","418"
-"Injury Collisions","2008","All months","Number","6482"
-"Injury Collisions","2008","January","Number","544"
-"Injury Collisions","2008","February","Number","563"
-"Injury Collisions","2008","March","Number","535"
-"Injury Collisions","2008","April","Number","518"
-"Injury Collisions","2008","May","Number","574"
-"Injury Collisions","2008","June","Number","508"
-"Injury Collisions","2008","July","Number","501"
-"Injury Collisions","2008","August","Number","483"
-"Injury Collisions","2008","September","Number","542"
-"Injury Collisions","2008","October","Number","558"
-"Injury Collisions","2008","November","Number","585"
-"Injury Collisions","2008","December","Number","571"
-"Injury Collisions","2009","All months","Number","6395"
-"Injury Collisions","2009","January","Number","548"
-"Injury Collisions","2009","February","Number","421"
-"Injury Collisions","2009","March","Number","471"
-"Injury Collisions","2009","April","Number","517"
-"Injury Collisions","2009","May","Number","558"
-"Injury Collisions","2009","June","Number","519"
-"Injury Collisions","2009","July","Number","611"
-"Injury Collisions","2009","August","Number","572"
-"Injury Collisions","2009","September","Number","520"
-"Injury Collisions","2009","October","Number","561"
-"Injury Collisions","2009","November","Number","561"
-"Injury Collisions","2009","December","Number","536"
-"Injury Collisions","2010","All months","Number","5595"
-"Injury Collisions","2010","January","Number","405"
-"Injury Collisions","2010","February","Number","417"
-"Injury Collisions","2010","March","Number","474"
-"Injury Collisions","2010","April","Number","454"
-"Injury Collisions","2010","May","Number","502"
-"Injury Collisions","2010","June","Number","463"
-"Injury Collisions","2010","July","Number","509"
-"Injury Collisions","2010","August","Number","493"
-"Injury Collisions","2010","September","Number","520"
-"Injury Collisions","2010","October","Number","566"
-"Injury Collisions","2010","November","Number","495"
-"Injury Collisions","2010","December","Number","297"
-"Injury Collisions","2011","All months","Number","5058"
-"Injury Collisions","2011","January","Number","411"
-"Injury Collisions","2011","February","Number","387"
-"Injury Collisions","2011","March","Number","407"
-"Injury Collisions","2011","April","Number","373"
-"Injury Collisions","2011","May","Number","358"
-"Injury Collisions","2011","June","Number","451"
-"Injury Collisions","2011","July","Number","444"
-"Injury Collisions","2011","August","Number","468"
-"Injury Collisions","2011","September","Number","443"
-"Injury Collisions","2011","October","Number","468"
-"Injury Collisions","2011","November","Number","455"
-"Injury Collisions","2011","December","Number","393"
-"Injury Collisions","2012","All months","Number","5458"
-"Injury Collisions","2012","January","Number","447"
-"Injury Collisions","2012","February","Number","396"
-"Injury Collisions","2012","March","Number","478"
-"Injury Collisions","2012","April","Number","455"
-"Injury Collisions","2012","May","Number","442"
-"Injury Collisions","2012","June","Number","446"
-"Injury Collisions","2012","July","Number","460"
-"Injury Collisions","2012","August","Number","464"
-"Injury Collisions","2012","September","Number","469"
-"Injury Collisions","2012","October","Number","487"
-"Injury Collisions","2012","November","Number","468"
-"Injury Collisions","2012","December","Number","446"
-"Injury Collisions","2013","All months","Number","4797"
-"Injury Collisions","2013","January","Number","427"
-"Injury Collisions","2013","February","Number","341"
-"Injury Collisions","2013","March","Number","349"
-"Injury Collisions","2013","April","Number","328"
-"Injury Collisions","2013","May","Number","377"
-"Injury Collisions","2013","June","Number","408"
-"Injury Collisions","2013","July","Number","446"
-"Injury Collisions","2013","August","Number","398"
-"Injury Collisions","2013","September","Number","419"
-"Injury Collisions","2013","October","Number","455"
-"Injury Collisions","2013","November","Number","420"
-"Injury Collisions","2013","December","Number","429"
-"Injury Collisions","2014","All months","Number","5618"
-"Injury Collisions","2014","January","Number","430"
-"Injury Collisions","2014","February","Number","397"
-"Injury Collisions","2014","March","Number","407"
-"Injury Collisions","2014","April","Number","443"
-"Injury Collisions","2014","May","Number","452"
-"Injury Collisions","2014","June","Number","466"
-"Injury Collisions","2014","July","Number","470"
-"Injury Collisions","2014","August","Number","480"
-"Injury Collisions","2014","September","Number","496"
-"Injury Collisions","2014","October","Number","504"
-"Injury Collisions","2014","November","Number","569"
-"Injury Collisions","2014","December","Number","504"
-"Injury Collisions","2015","All months","Number","5676"
-"Injury Collisions","2015","January","Number","478"
-"Injury Collisions","2015","February","Number","417"
-"Injury Collisions","2015","March","Number","460"
-"Injury Collisions","2015","April","Number","396"
-"Injury Collisions","2015","May","Number","488"
-"Injury Collisions","2015","June","Number","465"
-"Injury Collisions","2015","July","Number","471"
-"Injury Collisions","2015","August","Number","470"
-"Injury Collisions","2015","September","Number","502"
-"Injury Collisions","2015","October","Number","499"
-"Injury Collisions","2015","November","Number","502"
-"Injury Collisions","2015","December","Number","528"
-"Injury Collisions","2016","All months","Number","5717"
-"Injury Collisions","2016","January","Number","516"
-"Injury Collisions","2016","February","Number","456"
-"Injury Collisions","2016","March","Number","415"
-"Injury Collisions","2016","April","Number","397"
-"Injury Collisions","2016","May","Number","460"
-"Injury Collisions","2016","June","Number","475"
-"Injury Collisions","2016","July","Number","524"
-"Injury Collisions","2016","August","Number","459"
-"Injury Collisions","2016","September","Number","527"
-"Injury Collisions","2016","October","Number","484"
-"Injury Collisions","2016","November","Number","493"
-"Injury Collisions","2016","December","Number","511"
-"Injury Collisions","2017","All months","Number","5914"
-"Injury Collisions","2017","January","Number","449"
-"Injury Collisions","2017","February","Number","409"
-"Injury Collisions","2017","March","Number","510"
-"Injury Collisions","2017","April","Number","387"
-"Injury Collisions","2017","May","Number","522"
-"Injury Collisions","2017","June","Number","483"
-"Injury Collisions","2017","July","Number","482"
-"Injury Collisions","2017","August","Number","475"
-"Injury Collisions","2017","September","Number","546"
-"Injury Collisions","2017","October","Number","508"
-"Injury Collisions","2017","November","Number","597"
-"Injury Collisions","2017","December","Number","546"
-"Injury Collisions","2018","All months","Number","5974"
-"Injury Collisions","2018","January","Number","461"
-"Injury Collisions","2018","February","Number","436"
-"Injury Collisions","2018","March","Number","428"
-"Injury Collisions","2018","April","Number","446"
-"Injury Collisions","2018","May","Number","533"
-"Injury Collisions","2018","June","Number","521"
-"Injury Collisions","2018","July","Number","540"
-"Injury Collisions","2018","August","Number","474"
-"Injury Collisions","2018","September","Number","508"
-"Injury Collisions","2018","October","Number","544"
-"Injury Collisions","2018","November","Number","549"
-"Injury Collisions","2018","December","Number","534"
-"Injury Collisions","2019","All months","Number","5698"
-"Injury Collisions","2019","January","Number","493"
-"Injury Collisions","2019","February","Number","385"
-"Injury Collisions","2019","March","Number","483"
-"Injury Collisions","2019","April","Number","391"
-"Injury Collisions","2019","May","Number","468"
-"Injury Collisions","2019","June","Number","466"
-"Injury Collisions","2019","July","Number","504"
-"Injury Collisions","2019","August","Number","479"
-"Injury Collisions","2019","September","Number","534"
-"Injury Collisions","2019","October","Number","509"
-"Injury Collisions","2019","November","Number","535"
-"Injury Collisions","2019","December","Number","451"
-"All Fatal and Injury Collisions","2005","All months","Number","6533"
-"All Fatal and Injury Collisions","2005","January","Number","473"
-"All Fatal and Injury Collisions","2005","February","Number","461"
-"All Fatal and Injury Collisions","2005","March","Number","498"
-"All Fatal and Injury Collisions","2005","April","Number","529"
-"All Fatal and Injury Collisions","2005","May","Number","561"
-"All Fatal and Injury Collisions","2005","June","Number","524"
-"All Fatal and Injury Collisions","2005","July","Number","572"
-"All Fatal and Injury Collisions","2005","August","Number","558"
-"All Fatal and Injury Collisions","2005","September","Number","568"
-"All Fatal and Injury Collisions","2005","October","Number","604"
-"All Fatal and Injury Collisions","2005","November","Number","603"
-"All Fatal and Injury Collisions","2005","December","Number","582"
-"All Fatal and Injury Collisions","2006","All months","Number","6018"
-"All Fatal and Injury Collisions","2006","January","Number","522"
-"All Fatal and Injury Collisions","2006","February","Number","406"
-"All Fatal and Injury Collisions","2006","March","Number","467"
-"All Fatal and Injury Collisions","2006","April","Number","402"
-"All Fatal and Injury Collisions","2006","May","Number","487"
-"All Fatal and Injury Collisions","2006","June","Number","471"
-"All Fatal and Injury Collisions","2006","July","Number","512"
-"All Fatal and Injury Collisions","2006","August","Number","523"
-"All Fatal and Injury Collisions","2006","September","Number","518"
-"All Fatal and Injury Collisions","2006","October","Number","562"
-"All Fatal and Injury Collisions","2006","November","Number","538"
-"All Fatal and Injury Collisions","2006","December","Number","610"
-"All Fatal and Injury Collisions","2007","All months","Number","5467"
-"All Fatal and Injury Collisions","2007","January","Number","459"
-"All Fatal and Injury Collisions","2007","February","Number","421"
-"All Fatal and Injury Collisions","2007","March","Number","470"
-"All Fatal and Injury Collisions","2007","April","Number","386"
-"All Fatal and Injury Collisions","2007","May","Number","442"
-"All Fatal and Injury Collisions","2007","June","Number","448"
-"All Fatal and Injury Collisions","2007","July","Number","501"
-"All Fatal and Injury Collisions","2007","August","Number","486"
-"All Fatal and Injury Collisions","2007","September","Number","456"
-"All Fatal and Injury Collisions","2007","October","Number","475"
-"All Fatal and Injury Collisions","2007","November","Number","469"
-"All Fatal and Injury Collisions","2007","December","Number","454"
-"All Fatal and Injury Collisions","2008","All months","Number","6736"
-"All Fatal and Injury Collisions","2008","January","Number","569"
-"All Fatal and Injury Collisions","2008","February","Number","590"
-"All Fatal and Injury Collisions","2008","March","Number","553"
-"All Fatal and Injury Collisions","2008","April","Number","537"
-"All Fatal and Injury Collisions","2008","May","Number","590"
-"All Fatal and Injury Collisions","2008","June","Number","531"
-"All Fatal and Injury Collisions","2008","July","Number","525"
-"All Fatal and Injury Collisions","2008","August","Number","508"
-"All Fatal and Injury Collisions","2008","September","Number","561"
-"All Fatal and Injury Collisions","2008","October","Number","579"
-"All Fatal and Injury Collisions","2008","November","Number","605"
-"All Fatal and Injury Collisions","2008","December","Number","588"
-"All Fatal and Injury Collisions","2009","All months","Number","6615"
-"All Fatal and Injury Collisions","2009","January","Number","565"
-"All Fatal and Injury Collisions","2009","February","Number","433"
-"All Fatal and Injury Collisions","2009","March","Number","493"
-"All Fatal and Injury Collisions","2009","April","Number","536"
-"All Fatal and Injury Collisions","2009","May","Number","583"
-"All Fatal and Injury Collisions","2009","June","Number","534"
-"All Fatal and Injury Collisions","2009","July","Number","628"
-"All Fatal and Injury Collisions","2009","August","Number","591"
-"All Fatal and Injury Collisions","2009","September","Number","534"
-"All Fatal and Injury Collisions","2009","October","Number","582"
-"All Fatal and Injury Collisions","2009","November","Number","582"
-"All Fatal and Injury Collisions","2009","December","Number","554"
-"All Fatal and Injury Collisions","2010","All months","Number","5780"
-"All Fatal and Injury Collisions","2010","January","Number","419"
-"All Fatal and Injury Collisions","2010","February","Number","431"
-"All Fatal and Injury Collisions","2010","March","Number","486"
-"All Fatal and Injury Collisions","2010","April","Number","471"
-"All Fatal and Injury Collisions","2010","May","Number","527"
-"All Fatal and Injury Collisions","2010","June","Number","474"
-"All Fatal and Injury Collisions","2010","July","Number","522"
-"All Fatal and Injury Collisions","2010","August","Number","508"
-"All Fatal and Injury Collisions","2010","September","Number","531"
-"All Fatal and Injury Collisions","2010","October","Number","600"
-"All Fatal and Injury Collisions","2010","November","Number","508"
-"All Fatal and Injury Collisions","2010","December","Number","303"
-"All Fatal and Injury Collisions","2011","All months","Number","5230"
-"All Fatal and Injury Collisions","2011","January","Number","427"
-"All Fatal and Injury Collisions","2011","February","Number","405"
-"All Fatal and Injury Collisions","2011","March","Number","421"
-"All Fatal and Injury Collisions","2011","April","Number","381"
-"All Fatal and Injury Collisions","2011","May","Number","368"
-"All Fatal and Injury Collisions","2011","June","Number","465"
-"All Fatal and Injury Collisions","2011","July","Number","461"
-"All Fatal and Injury Collisions","2011","August","Number","482"
-"All Fatal and Injury Collisions","2011","September","Number","456"
-"All Fatal and Injury Collisions","2011","October","Number","482"
-"All Fatal and Injury Collisions","2011","November","Number","473"
-"All Fatal and Injury Collisions","2011","December","Number","409"
-"All Fatal and Injury Collisions","2012","All months","Number","5610"
-"All Fatal and Injury Collisions","2012","January","Number","457"
-"All Fatal and Injury Collisions","2012","February","Number","409"
-"All Fatal and Injury Collisions","2012","March","Number","489"
-"All Fatal and Injury Collisions","2012","April","Number","471"
-"All Fatal and Injury Collisions","2012","May","Number","454"
-"All Fatal and Injury Collisions","2012","June","Number","470"
-"All Fatal and Injury Collisions","2012","July","Number","475"
-"All Fatal and Injury Collisions","2012","August","Number","472"
-"All Fatal and Injury Collisions","2012","September","Number","479"
-"All Fatal and Injury Collisions","2012","October","Number","500"
-"All Fatal and Injury Collisions","2012","November","Number","476"
-"All Fatal and Injury Collisions","2012","December","Number","458"
-"All Fatal and Injury Collisions","2013","All months","Number","4976"
-"All Fatal and Injury Collisions","2013","January","Number","445"
-"All Fatal and Injury Collisions","2013","February","Number","354"
-"All Fatal and Injury Collisions","2013","March","Number","363"
-"All Fatal and Injury Collisions","2013","April","Number","340"
-"All Fatal and Injury Collisions","2013","May","Number","391"
-"All Fatal and Injury Collisions","2013","June","Number","421"
-"All Fatal and Injury Collisions","2013","July","Number","464"
-"All Fatal and Injury Collisions","2013","August","Number","415"
-"All Fatal and Injury Collisions","2013","September","Number","435"
-"All Fatal and Injury Collisions","2013","October","Number","468"
-"All Fatal and Injury Collisions","2013","November","Number","435"
-"All Fatal and Injury Collisions","2013","December","Number","445"
-"All Fatal and Injury Collisions","2014","All months","Number","5796"
-"All Fatal and Injury Collisions","2014","January","Number","445"
-"All Fatal and Injury Collisions","2014","February","Number","410"
-"All Fatal and Injury Collisions","2014","March","Number","421"
-"All Fatal and Injury Collisions","2014","April","Number","456"
-"All Fatal and Injury Collisions","2014","May","Number","470"
-"All Fatal and Injury Collisions","2014","June","Number","480"
-"All Fatal and Injury Collisions","2014","July","Number","486"
-"All Fatal and Injury Collisions","2014","August","Number","494"
-"All Fatal and Injury Collisions","2014","September","Number","507"
-"All Fatal and Injury Collisions","2014","October","Number","519"
-"All Fatal and Injury Collisions","2014","November","Number","587"
-"All Fatal and Injury Collisions","2014","December","Number","521"
-"All Fatal and Injury Collisions","2015","All months","Number","5831"
-"All Fatal and Injury Collisions","2015","January","Number","487"
-"All Fatal and Injury Collisions","2015","February","Number","430"
-"All Fatal and Injury Collisions","2015","March","Number","471"
-"All Fatal and Injury Collisions","2015","April","Number","403"
-"All Fatal and Injury Collisions","2015","May","Number","500"
-"All Fatal and Injury Collisions","2015","June","Number","478"
-"All Fatal and Injury Collisions","2015","July","Number","488"
-"All Fatal and Injury Collisions","2015","August","Number","484"
-"All Fatal and Injury Collisions","2015","September","Number","518"
-"All Fatal and Injury Collisions","2015","October","Number","510"
-"All Fatal and Injury Collisions","2015","November","Number","515"
-"All Fatal and Injury Collisions","2015","December","Number","547"
-"All Fatal and Injury Collisions","2016","All months","Number","5891"
-"All Fatal and Injury Collisions","2016","January","Number","530"
-"All Fatal and Injury Collisions","2016","February","Number","466"
-"All Fatal and Injury Collisions","2016","March","Number","431"
-"All Fatal and Injury Collisions","2016","April","Number","410"
-"All Fatal and Injury Collisions","2016","May","Number","480"
-"All Fatal and Injury Collisions","2016","June","Number","487"
-"All Fatal and Injury Collisions","2016","July","Number","540"
-"All Fatal and Injury Collisions","2016","August","Number","472"
-"All Fatal and Injury Collisions","2016","September","Number","544"
-"All Fatal and Injury Collisions","2016","October","Number","503"
-"All Fatal and Injury Collisions","2016","November","Number","502"
-"All Fatal and Injury Collisions","2016","December","Number","526"
-"All Fatal and Injury Collisions","2017","All months","Number","6054"
-"All Fatal and Injury Collisions","2017","January","Number","463"
-"All Fatal and Injury Collisions","2017","February","Number","419"
-"All Fatal and Injury Collisions","2017","March","Number","529"
-"All Fatal and Injury Collisions","2017","April","Number","393"
-"All Fatal and Injury Collisions","2017","May","Number","530"
-"All Fatal and Injury Collisions","2017","June","Number","496"
-"All Fatal and Injury Collisions","2017","July","Number","496"
-"All Fatal and Injury Collisions","2017","August","Number","485"
-"All Fatal and Injury Collisions","2017","September","Number","556"
-"All Fatal and Injury Collisions","2017","October","Number","519"
-"All Fatal and Injury Collisions","2017","November","Number","610"
-"All Fatal and Injury Collisions","2017","December","Number","558"
-"All Fatal and Injury Collisions","2018","All months","Number","6106"
-"All Fatal and Injury Collisions","2018","January","Number","472"
-"All Fatal and Injury Collisions","2018","February","Number","446"
-"All Fatal and Injury Collisions","2018","March","Number","441"
-"All Fatal and Injury Collisions","2018","April","Number","461"
-"All Fatal and Injury Collisions","2018","May","Number","537"
-"All Fatal and Injury Collisions","2018","June","Number","536"
-"All Fatal and Injury Collisions","2018","July","Number","548"
-"All Fatal and Injury Collisions","2018","August","Number","485"
-"All Fatal and Injury Collisions","2018","September","Number","518"
-"All Fatal and Injury Collisions","2018","October","Number","553"
-"All Fatal and Injury Collisions","2018","November","Number","560"
-"All Fatal and Injury Collisions","2018","December","Number","549"
-"All Fatal and Injury Collisions","2019","All months","Number","5827"
-"All Fatal and Injury Collisions","2019","January","Number","503"
-"All Fatal and Injury Collisions","2019","February","Number","399"
-"All Fatal and Injury Collisions","2019","March","Number","492"
-"All Fatal and Injury Collisions","2019","April","Number","400"
-"All Fatal and Injury Collisions","2019","May","Number","476"
-"All Fatal and Injury Collisions","2019","June","Number","477"
-"All Fatal and Injury Collisions","2019","July","Number","512"
-"All Fatal and Injury Collisions","2019","August","Number","487"
-"All Fatal and Injury Collisions","2019","September","Number","551"
-"All Fatal and Injury Collisions","2019","October","Number","519"
-"All Fatal and Injury Collisions","2019","November","Number","546"
-"All Fatal and Injury Collisions","2019","December","Number","465"
-"Killed Casualties","2005","All months","Number","396"
-"Killed Casualties","2005","January","Number","33"
-"Killed Casualties","2005","February","Number","37"
-"Killed Casualties","2005","March","Number","26"
-"Killed Casualties","2005","April","Number","23"
-"Killed Casualties","2005","May","Number","41"
-"Killed Casualties","2005","June","Number","22"
-"Killed Casualties","2005","July","Number","41"
-"Killed Casualties","2005","August","Number","24"
-"Killed Casualties","2005","September","Number","31"
-"Killed Casualties","2005","October","Number","44"
-"Killed Casualties","2005","November","Number","34"
-"Killed Casualties","2005","December","Number","40"
-"Killed Casualties","2006","All months","Number","365"
-"Killed Casualties","2006","January","Number","40"
-"Killed Casualties","2006","February","Number","31"
-"Killed Casualties","2006","March","Number","27"
-"Killed Casualties","2006","April","Number","37"
-"Killed Casualties","2006","May","Number","30"
-"Killed Casualties","2006","June","Number","32"
-"Killed Casualties","2006","July","Number","38"
-"Killed Casualties","2006","August","Number","17"
-"Killed Casualties","2006","September","Number","23"
-"Killed Casualties","2006","October","Number","32"
-"Killed Casualties","2006","November","Number","27"
-"Killed Casualties","2006","December","Number","31"
-"Killed Casualties","2007","All months","Number","338"
-"Killed Casualties","2007","January","Number","22"
-"Killed Casualties","2007","February","Number","25"
-"Killed Casualties","2007","March","Number","34"
-"Killed Casualties","2007","April","Number","30"
-"Killed Casualties","2007","May","Number","24"
-"Killed Casualties","2007","June","Number","29"
-"Killed Casualties","2007","July","Number","31"
-"Killed Casualties","2007","August","Number","28"
-"Killed Casualties","2007","September","Number","28"
-"Killed Casualties","2007","October","Number","26"
-"Killed Casualties","2007","November","Number","23"
-"Killed Casualties","2007","December","Number","38"
-"Killed Casualties","2008","All months","Number","279"
-"Killed Casualties","2008","January","Number","25"
-"Killed Casualties","2008","February","Number","32"
-"Killed Casualties","2008","March","Number","20"
-"Killed Casualties","2008","April","Number","19"
-"Killed Casualties","2008","May","Number","19"
-"Killed Casualties","2008","June","Number","28"
-"Killed Casualties","2008","July","Number","26"
-"Killed Casualties","2008","August","Number","28"
-"Killed Casualties","2008","September","Number","19"
-"Killed Casualties","2008","October","Number","22"
-"Killed Casualties","2008","November","Number","22"
-"Killed Casualties","2008","December","Number","19"
-"Killed Casualties","2009","All months","Number","238"
-"Killed Casualties","2009","January","Number","18"
-"Killed Casualties","2009","February","Number","15"
-"Killed Casualties","2009","March","Number","24"
-"Killed Casualties","2009","April","Number","20"
-"Killed Casualties","2009","May","Number","28"
-"Killed Casualties","2009","June","Number","15"
-"Killed Casualties","2009","July","Number","19"
-"Killed Casualties","2009","August","Number","20"
-"Killed Casualties","2009","September","Number","14"
-"Killed Casualties","2009","October","Number","22"
-"Killed Casualties","2009","November","Number","25"
-"Killed Casualties","2009","December","Number","18"
-"Killed Casualties","2010","All months","Number","212"
-"Killed Casualties","2010","January","Number","15"
-"Killed Casualties","2010","February","Number","14"
-"Killed Casualties","2010","March","Number","12"
-"Killed Casualties","2010","April","Number","19"
-"Killed Casualties","2010","May","Number","28"
-"Killed Casualties","2010","June","Number","11"
-"Killed Casualties","2010","July","Number","21"
-"Killed Casualties","2010","August","Number","19"
-"Killed Casualties","2010","September","Number","13"
-"Killed Casualties","2010","October","Number","36"
-"Killed Casualties","2010","November","Number","14"
-"Killed Casualties","2010","December","Number","10"
-"Killed Casualties","2011","All months","Number","186"
-"Killed Casualties","2011","January","Number","21"
-"Killed Casualties","2011","February","Number","18"
-"Killed Casualties","2011","March","Number","15"
-"Killed Casualties","2011","April","Number","8"
-"Killed Casualties","2011","May","Number","11"
-"Killed Casualties","2011","June","Number","15"
-"Killed Casualties","2011","July","Number","18"
-"Killed Casualties","2011","August","Number","16"
-"Killed Casualties","2011","September","Number","13"
-"Killed Casualties","2011","October","Number","15"
-"Killed Casualties","2011","November","Number","18"
-"Killed Casualties","2011","December","Number","18"
-"Killed Casualties","2012","All months","Number","162"
-"Killed Casualties","2012","January","Number","10"
-"Killed Casualties","2012","February","Number","13"
-"Killed Casualties","2012","March","Number","12"
-"Killed Casualties","2012","April","Number","16"
-"Killed Casualties","2012","May","Number","13"
-"Killed Casualties","2012","June","Number","26"
-"Killed Casualties","2012","July","Number","15"
-"Killed Casualties","2012","August","Number","12"
-"Killed Casualties","2012","September","Number","10"
-"Killed Casualties","2012","October","Number","15"
-"Killed Casualties","2012","November","Number","8"
-"Killed Casualties","2012","December","Number","12"
-"Killed Casualties","2013","All months","Number","188"
-"Killed Casualties","2013","January","Number","19"
-"Killed Casualties","2013","February","Number","14"
-"Killed Casualties","2013","March","Number","15"
-"Killed Casualties","2013","April","Number","12"
-"Killed Casualties","2013","May","Number","17"
-"Killed Casualties","2013","June","Number","13"
-"Killed Casualties","2013","July","Number","18"
-"Killed Casualties","2013","August","Number","19"
-"Killed Casualties","2013","September","Number","17"
-"Killed Casualties","2013","October","Number","13"
-"Killed Casualties","2013","November","Number","15"
-"Killed Casualties","2013","December","Number","16"
-"Killed Casualties","2014","All months","Number","192"
-"Killed Casualties","2014","January","Number","16"
-"Killed Casualties","2014","February","Number","13"
-"Killed Casualties","2014","March","Number","15"
-"Killed Casualties","2014","April","Number","14"
-"Killed Casualties","2014","May","Number","18"
-"Killed Casualties","2014","June","Number","18"
-"Killed Casualties","2014","July","Number","18"
-"Killed Casualties","2014","August","Number","15"
-"Killed Casualties","2014","September","Number","11"
-"Killed Casualties","2014","October","Number","17"
-"Killed Casualties","2014","November","Number","20"
-"Killed Casualties","2014","December","Number","17"
-"Killed Casualties","2015","All months","Number","162"
-"Killed Casualties","2015","January","Number","12"
-"Killed Casualties","2015","February","Number","13"
-"Killed Casualties","2015","March","Number","11"
-"Killed Casualties","2015","April","Number","7"
-"Killed Casualties","2015","May","Number","12"
-"Killed Casualties","2015","June","Number","13"
-"Killed Casualties","2015","July","Number","19"
-"Killed Casualties","2015","August","Number","14"
-"Killed Casualties","2015","September","Number","16"
-"Killed Casualties","2015","October","Number","11"
-"Killed Casualties","2015","November","Number","14"
-"Killed Casualties","2015","December","Number","20"
-"Killed Casualties","2016","All months","Number","186"
-"Killed Casualties","2016","January","Number","15"
-"Killed Casualties","2016","February","Number","10"
-"Killed Casualties","2016","March","Number","17"
-"Killed Casualties","2016","April","Number","14"
-"Killed Casualties","2016","May","Number","20"
-"Killed Casualties","2016","June","Number","12"
-"Killed Casualties","2016","July","Number","21"
-"Killed Casualties","2016","August","Number","13"
-"Killed Casualties","2016","September","Number","18"
-"Killed Casualties","2016","October","Number","20"
-"Killed Casualties","2016","November","Number","9"
-"Killed Casualties","2016","December","Number","17"
-"Killed Casualties","2017","All months","Number","156"
-"Killed Casualties","2017","January","Number","16"
-"Killed Casualties","2017","February","Number","11"
-"Killed Casualties","2017","March","Number","20"
-"Killed Casualties","2017","April","Number","7"
-"Killed Casualties","2017","May","Number","8"
-"Killed Casualties","2017","June","Number","14"
-"Killed Casualties","2017","July","Number","16"
-"Killed Casualties","2017","August","Number","10"
-"Killed Casualties","2017","September","Number","13"
-"Killed Casualties","2017","October","Number","11"
-"Killed Casualties","2017","November","Number","14"
-"Killed Casualties","2017","December","Number","16"
-"Killed Casualties","2018","All months","Number","139"
-"Killed Casualties","2018","January","Number","12"
-"Killed Casualties","2018","February","Number","10"
-"Killed Casualties","2018","March","Number","14"
-"Killed Casualties","2018","April","Number","17"
-"Killed Casualties","2018","May","Number","4"
-"Killed Casualties","2018","June","Number","16"
-"Killed Casualties","2018","July","Number","8"
-"Killed Casualties","2018","August","Number","12"
-"Killed Casualties","2018","September","Number","10"
-"Killed Casualties","2018","October","Number","9"
-"Killed Casualties","2018","November","Number","12"
-"Killed Casualties","2018","December","Number","15"
-"Killed Casualties","2019","All months","Number","140"
-"Killed Casualties","2019","January","Number","14"
-"Killed Casualties","2019","February","Number","14"
-"Killed Casualties","2019","March","Number","11"
-"Killed Casualties","2019","April","Number","9"
-"Killed Casualties","2019","May","Number","11"
-"Killed Casualties","2019","June","Number","11"
-"Killed Casualties","2019","July","Number","8"
-"Killed Casualties","2019","August","Number","8"
-"Killed Casualties","2019","September","Number","18"
-"Killed Casualties","2019","October","Number","10"
-"Killed Casualties","2019","November","Number","11"
-"Killed Casualties","2019","December","Number","15"
-"Injured Casualties","2005","All months","Number","9318"
-"Injured Casualties","2005","January","Number","683"
-"Injured Casualties","2005","February","Number","591"
-"Injured Casualties","2005","March","Number","718"
-"Injured Casualties","2005","April","Number","726"
-"Injured Casualties","2005","May","Number","800"
-"Injured Casualties","2005","June","Number","752"
-"Injured Casualties","2005","July","Number","886"
-"Injured Casualties","2005","August","Number","876"
-"Injured Casualties","2005","September","Number","826"
-"Injured Casualties","2005","October","Number","892"
-"Injured Casualties","2005","November","Number","826"
-"Injured Casualties","2005","December","Number","742"
-"Injured Casualties","2006","All months","Number","8575"
-"Injured Casualties","2006","January","Number","723"
-"Injured Casualties","2006","February","Number","547"
-"Injured Casualties","2006","March","Number","633"
-"Injured Casualties","2006","April","Number","602"
-"Injured Casualties","2006","May","Number","709"
-"Injured Casualties","2006","June","Number","674"
-"Injured Casualties","2006","July","Number","762"
-"Injured Casualties","2006","August","Number","767"
-"Injured Casualties","2006","September","Number","746"
-"Injured Casualties","2006","October","Number","797"
-"Injured Casualties","2006","November","Number","750"
-"Injured Casualties","2006","December","Number","865"
-"Injured Casualties","2007","All months","Number","7806"
-"Injured Casualties","2007","January","Number","639"
-"Injured Casualties","2007","February","Number","564"
-"Injured Casualties","2007","March","Number","666"
-"Injured Casualties","2007","April","Number","565"
-"Injured Casualties","2007","May","Number","625"
-"Injured Casualties","2007","June","Number","693"
-"Injured Casualties","2007","July","Number","721"
-"Injured Casualties","2007","August","Number","741"
-"Injured Casualties","2007","September","Number","657"
-"Injured Casualties","2007","October","Number","654"
-"Injured Casualties","2007","November","Number","661"
-"Injured Casualties","2007","December","Number","620"
-"Injured Casualties","2008","All months","Number","9758"
-"Injured Casualties","2008","January","Number","818"
-"Injured Casualties","2008","February","Number","845"
-"Injured Casualties","2008","March","Number","808"
-"Injured Casualties","2008","April","Number","783"
-"Injured Casualties","2008","May","Number","919"
-"Injured Casualties","2008","June","Number","794"
-"Injured Casualties","2008","July","Number","770"
-"Injured Casualties","2008","August","Number","757"
-"Injured Casualties","2008","September","Number","778"
-"Injured Casualties","2008","October","Number","815"
-"Injured Casualties","2008","November","Number","833"
-"Injured Casualties","2008","December","Number","838"
-"Injured Casualties","2009","All months","Number","9742"
-"Injured Casualties","2009","January","Number","812"
-"Injured Casualties","2009","February","Number","588"
-"Injured Casualties","2009","March","Number","755"
-"Injured Casualties","2009","April","Number","809"
-"Injured Casualties","2009","May","Number","827"
-"Injured Casualties","2009","June","Number","763"
-"Injured Casualties","2009","July","Number","976"
-"Injured Casualties","2009","August","Number","879"
-"Injured Casualties","2009","September","Number","812"
-"Injured Casualties","2009","October","Number","856"
-"Injured Casualties","2009","November","Number","878"
-"Injured Casualties","2009","December","Number","787"
-"Injured Casualties","2010","All months","Number","8270"
-"Injured Casualties","2010","January","Number","571"
-"Injured Casualties","2010","February","Number","622"
-"Injured Casualties","2010","March","Number","686"
-"Injured Casualties","2010","April","Number","687"
-"Injured Casualties","2010","May","Number","755"
-"Injured Casualties","2010","June","Number","669"
-"Injured Casualties","2010","July","Number","755"
-"Injured Casualties","2010","August","Number","747"
-"Injured Casualties","2010","September","Number","801"
-"Injured Casualties","2010","October","Number","853"
-"Injured Casualties","2010","November","Number","717"
-"Injured Casualties","2010","December","Number","407"
-"Injured Casualties","2011","All months","Number","7235"
-"Injured Casualties","2011","January","Number","548"
-"Injured Casualties","2011","February","Number","540"
-"Injured Casualties","2011","March","Number","563"
-"Injured Casualties","2011","April","Number","547"
-"Injured Casualties","2011","May","Number","527"
-"Injured Casualties","2011","June","Number","646"
-"Injured Casualties","2011","July","Number","686"
-"Injured Casualties","2011","August","Number","684"
-"Injured Casualties","2011","September","Number","639"
-"Injured Casualties","2011","October","Number","659"
-"Injured Casualties","2011","November","Number","655"
-"Injured Casualties","2011","December","Number","541"
-"Injured Casualties","2012","All months","Number","7942"
-"Injured Casualties","2012","January","Number","642"
-"Injured Casualties","2012","February","Number","596"
-"Injured Casualties","2012","March","Number","707"
-"Injured Casualties","2012","April","Number","694"
-"Injured Casualties","2012","May","Number","630"
-"Injured Casualties","2012","June","Number","682"
-"Injured Casualties","2012","July","Number","679"
-"Injured Casualties","2012","August","Number","670"
-"Injured Casualties","2012","September","Number","639"
-"Injured Casualties","2012","October","Number","718"
-"Injured Casualties","2012","November","Number","670"
-"Injured Casualties","2012","December","Number","615"
-"Injured Casualties","2013","All months","Number","6880"
-"Injured Casualties","2013","January","Number","623"
-"Injured Casualties","2013","February","Number","491"
-"Injured Casualties","2013","March","Number","523"
-"Injured Casualties","2013","April","Number","452"
-"Injured Casualties","2013","May","Number","533"
-"Injured Casualties","2013","June","Number","587"
-"Injured Casualties","2013","July","Number","677"
-"Injured Casualties","2013","August","Number","600"
-"Injured Casualties","2013","September","Number","601"
-"Injured Casualties","2013","October","Number","635"
-"Injured Casualties","2013","November","Number","560"
-"Injured Casualties","2013","December","Number","598"
-"Injured Casualties","2014","All months","Number","8079"
-"Injured Casualties","2014","January","Number","636"
-"Injured Casualties","2014","February","Number","577"
-"Injured Casualties","2014","March","Number","575"
-"Injured Casualties","2014","April","Number","642"
-"Injured Casualties","2014","May","Number","653"
-"Injured Casualties","2014","June","Number","680"
-"Injured Casualties","2014","July","Number","685"
-"Injured Casualties","2014","August","Number","741"
-"Injured Casualties","2014","September","Number","681"
-"Injured Casualties","2014","October","Number","726"
-"Injured Casualties","2014","November","Number","791"
-"Injured Casualties","2014","December","Number","692"
-"Injured Casualties","2015","All months","Number","7840"
-"Injured Casualties","2015","January","Number","678"
-"Injured Casualties","2015","February","Number","556"
-"Injured Casualties","2015","March","Number","643"
-"Injured Casualties","2015","April","Number","535"
-"Injured Casualties","2015","May","Number","690"
-"Injured Casualties","2015","June","Number","646"
-"Injured Casualties","2015","July","Number","667"
-"Injured Casualties","2015","August","Number","676"
-"Injured Casualties","2015","September","Number","689"
-"Injured Casualties","2015","October","Number","665"
-"Injured Casualties","2015","November","Number","668"
-"Injured Casualties","2015","December","Number","727"
-"Injured Casualties","2016","All months","Number","7710"
-"Injured Casualties","2016","January","Number","696"
-"Injured Casualties","2016","February","Number","610"
-"Injured Casualties","2016","March","Number","597"
-"Injured Casualties","2016","April","Number","530"
-"Injured Casualties","2016","May","Number","622"
-"Injured Casualties","2016","June","Number","642"
-"Injured Casualties","2016","July","Number","722"
-"Injured Casualties","2016","August","Number","626"
-"Injured Casualties","2016","September","Number","720"
-"Injured Casualties","2016","October","Number","618"
-"Injured Casualties","2016","November","Number","650"
-"Injured Casualties","2016","December","Number","677"
-"Injured Casualties","2017","All months","Number","7778"
-"Injured Casualties","2017","January","Number","576"
-"Injured Casualties","2017","February","Number","522"
-"Injured Casualties","2017","March","Number","672"
-"Injured Casualties","2017","April","Number","536"
-"Injured Casualties","2017","May","Number","704"
-"Injured Casualties","2017","June","Number","623"
-"Injured Casualties","2017","July","Number","655"
-"Injured Casualties","2017","August","Number","635"
-"Injured Casualties","2017","September","Number","698"
-"Injured Casualties","2017","October","Number","636"
-"Injured Casualties","2017","November","Number","805"
-"Injured Casualties","2017","December","Number","716"
-"Injured Casualties","2018","All months","Number","8011"
-"Injured Casualties","2018","January","Number","598"
-"Injured Casualties","2018","February","Number","575"
-"Injured Casualties","2018","March","Number","595"
-"Injured Casualties","2018","April","Number","602"
-"Injured Casualties","2018","May","Number","733"
-"Injured Casualties","2018","June","Number","706"
-"Injured Casualties","2018","July","Number","730"
-"Injured Casualties","2018","August","Number","634"
-"Injured Casualties","2018","September","Number","685"
-"Injured Casualties","2018","October","Number","723"
-"Injured Casualties","2018","November","Number","725"
-"Injured Casualties","2018","December","Number","705"
-"Injured Casualties","2019","All months","Number","7579"
-"Injured Casualties","2019","January","Number","625"
-"Injured Casualties","2019","February","Number","506"
-"Injured Casualties","2019","March","Number","644"
-"Injured Casualties","2019","April","Number","526"
-"Injured Casualties","2019","May","Number","616"
-"Injured Casualties","2019","June","Number","647"
-"Injured Casualties","2019","July","Number","680"
-"Injured Casualties","2019","August","Number","653"
-"Injured Casualties","2019","September","Number","719"
-"Injured Casualties","2019","October","Number","679"
-"Injured Casualties","2019","November","Number","691"
-"Injured Casualties","2019","December","Number","593"
-"All Killed and Injured Casualties","2005","All months","Number","9714"
-"All Killed and Injured Casualties","2005","January","Number","716"
-"All Killed and Injured Casualties","2005","February","Number","628"
-"All Killed and Injured Casualties","2005","March","Number","744"
-"All Killed and Injured Casualties","2005","April","Number","749"
-"All Killed and Injured Casualties","2005","May","Number","841"
-"All Killed and Injured Casualties","2005","June","Number","774"
-"All Killed and Injured Casualties","2005","July","Number","927"
-"All Killed and Injured Casualties","2005","August","Number","900"
-"All Killed and Injured Casualties","2005","September","Number","857"
-"All Killed and Injured Casualties","2005","October","Number","936"
-"All Killed and Injured Casualties","2005","November","Number","860"
-"All Killed and Injured Casualties","2005","December","Number","782"
-"All Killed and Injured Casualties","2006","All months","Number","8940"
-"All Killed and Injured Casualties","2006","January","Number","763"
-"All Killed and Injured Casualties","2006","February","Number","578"
-"All Killed and Injured Casualties","2006","March","Number","660"
-"All Killed and Injured Casualties","2006","April","Number","639"
-"All Killed and Injured Casualties","2006","May","Number","739"
-"All Killed and Injured Casualties","2006","June","Number","706"
-"All Killed and Injured Casualties","2006","July","Number","800"
-"All Killed and Injured Casualties","2006","August","Number","784"
-"All Killed and Injured Casualties","2006","September","Number","769"
-"All Killed and Injured Casualties","2006","October","Number","829"
-"All Killed and Injured Casualties","2006","November","Number","777"
-"All Killed and Injured Casualties","2006","December","Number","896"
-"All Killed and Injured Casualties","2007","All months","Number","8144"
-"All Killed and Injured Casualties","2007","January","Number","661"
-"All Killed and Injured Casualties","2007","February","Number","589"
-"All Killed and Injured Casualties","2007","March","Number","700"
-"All Killed and Injured Casualties","2007","April","Number","595"
-"All Killed and Injured Casualties","2007","May","Number","649"
-"All Killed and Injured Casualties","2007","June","Number","722"
-"All Killed and Injured Casualties","2007","July","Number","752"
-"All Killed and Injured Casualties","2007","August","Number","769"
-"All Killed and Injured Casualties","2007","September","Number","685"
-"All Killed and Injured Casualties","2007","October","Number","680"
-"All Killed and Injured Casualties","2007","November","Number","684"
-"All Killed and Injured Casualties","2007","December","Number","658"
-"All Killed and Injured Casualties","2008","All months","Number","10037"
-"All Killed and Injured Casualties","2008","January","Number","843"
-"All Killed and Injured Casualties","2008","February","Number","877"
-"All Killed and Injured Casualties","2008","March","Number","828"
-"All Killed and Injured Casualties","2008","April","Number","802"
-"All Killed and Injured Casualties","2008","May","Number","938"
-"All Killed and Injured Casualties","2008","June","Number","822"
-"All Killed and Injured Casualties","2008","July","Number","796"
-"All Killed and Injured Casualties","2008","August","Number","785"
-"All Killed and Injured Casualties","2008","September","Number","797"
-"All Killed and Injured Casualties","2008","October","Number","837"
-"All Killed and Injured Casualties","2008","November","Number","855"
-"All Killed and Injured Casualties","2008","December","Number","857"
-"All Killed and Injured Casualties","2009","All months","Number","9980"
-"All Killed and Injured Casualties","2009","January","Number","830"
-"All Killed and Injured Casualties","2009","February","Number","603"
-"All Killed and Injured Casualties","2009","March","Number","779"
-"All Killed and Injured Casualties","2009","April","Number","829"
-"All Killed and Injured Casualties","2009","May","Number","855"
-"All Killed and Injured Casualties","2009","June","Number","778"
-"All Killed and Injured Casualties","2009","July","Number","995"
-"All Killed and Injured Casualties","2009","August","Number","899"
-"All Killed and Injured Casualties","2009","September","Number","826"
-"All Killed and Injured Casualties","2009","October","Number","878"
-"All Killed and Injured Casualties","2009","November","Number","903"
-"All Killed and Injured Casualties","2009","December","Number","805"
-"All Killed and Injured Casualties","2010","All months","Number","8482"
-"All Killed and Injured Casualties","2010","January","Number","586"
-"All Killed and Injured Casualties","2010","February","Number","636"
-"All Killed and Injured Casualties","2010","March","Number","698"
-"All Killed and Injured Casualties","2010","April","Number","706"
-"All Killed and Injured Casualties","2010","May","Number","783"
-"All Killed and Injured Casualties","2010","June","Number","680"
-"All Killed and Injured Casualties","2010","July","Number","776"
-"All Killed and Injured Casualties","2010","August","Number","766"
-"All Killed and Injured Casualties","2010","September","Number","814"
-"All Killed and Injured Casualties","2010","October","Number","889"
-"All Killed and Injured Casualties","2010","November","Number","731"
-"All Killed and Injured Casualties","2010","December","Number","417"
-"All Killed and Injured Casualties","2011","All months","Number","7421"
-"All Killed and Injured Casualties","2011","January","Number","569"
-"All Killed and Injured Casualties","2011","February","Number","558"
-"All Killed and Injured Casualties","2011","March","Number","578"
-"All Killed and Injured Casualties","2011","April","Number","555"
-"All Killed and Injured Casualties","2011","May","Number","538"
-"All Killed and Injured Casualties","2011","June","Number","661"
-"All Killed and Injured Casualties","2011","July","Number","704"
-"All Killed and Injured Casualties","2011","August","Number","700"
-"All Killed and Injured Casualties","2011","September","Number","652"
-"All Killed and Injured Casualties","2011","October","Number","674"
-"All Killed and Injured Casualties","2011","November","Number","673"
-"All Killed and Injured Casualties","2011","December","Number","559"
-"All Killed and Injured Casualties","2012","All months","Number","8104"
-"All Killed and Injured Casualties","2012","January","Number","652"
-"All Killed and Injured Casualties","2012","February","Number","609"
-"All Killed and Injured Casualties","2012","March","Number","719"
-"All Killed and Injured Casualties","2012","April","Number","710"
-"All Killed and Injured Casualties","2012","May","Number","643"
-"All Killed and Injured Casualties","2012","June","Number","708"
-"All Killed and Injured Casualties","2012","July","Number","694"
-"All Killed and Injured Casualties","2012","August","Number","682"
-"All Killed and Injured Casualties","2012","September","Number","649"
-"All Killed and Injured Casualties","2012","October","Number","733"
-"All Killed and Injured Casualties","2012","November","Number","678"
-"All Killed and Injured Casualties","2012","December","Number","627"
-"All Killed and Injured Casualties","2013","All months","Number","7068"
-"All Killed and Injured Casualties","2013","January","Number","642"
-"All Killed and Injured Casualties","2013","February","Number","505"
-"All Killed and Injured Casualties","2013","March","Number","538"
-"All Killed and Injured Casualties","2013","April","Number","464"
-"All Killed and Injured Casualties","2013","May","Number","550"
-"All Killed and Injured Casualties","2013","June","Number","600"
-"All Killed and Injured Casualties","2013","July","Number","695"
-"All Killed and Injured Casualties","2013","August","Number","619"
-"All Killed and Injured Casualties","2013","September","Number","618"
-"All Killed and Injured Casualties","2013","October","Number","648"
-"All Killed and Injured Casualties","2013","November","Number","575"
-"All Killed and Injured Casualties","2013","December","Number","614"
-"All Killed and Injured Casualties","2014","All months","Number","8271"
-"All Killed and Injured Casualties","2014","January","Number","652"
-"All Killed and Injured Casualties","2014","February","Number","590"
-"All Killed and Injured Casualties","2014","March","Number","590"
-"All Killed and Injured Casualties","2014","April","Number","656"
-"All Killed and Injured Casualties","2014","May","Number","671"
-"All Killed and Injured Casualties","2014","June","Number","698"
-"All Killed and Injured Casualties","2014","July","Number","703"
-"All Killed and Injured Casualties","2014","August","Number","756"
-"All Killed and Injured Casualties","2014","September","Number","692"
-"All Killed and Injured Casualties","2014","October","Number","743"
-"All Killed and Injured Casualties","2014","November","Number","811"
-"All Killed and Injured Casualties","2014","December","Number","709"
-"All Killed and Injured Casualties","2015","All months","Number","8002"
-"All Killed and Injured Casualties","2015","January","Number","690"
-"All Killed and Injured Casualties","2015","February","Number","569"
-"All Killed and Injured Casualties","2015","March","Number","654"
-"All Killed and Injured Casualties","2015","April","Number","542"
-"All Killed and Injured Casualties","2015","May","Number","702"
-"All Killed and Injured Casualties","2015","June","Number","659"
-"All Killed and Injured Casualties","2015","July","Number","686"
-"All Killed and Injured Casualties","2015","August","Number","690"
-"All Killed and Injured Casualties","2015","September","Number","705"
-"All Killed and Injured Casualties","2015","October","Number","676"
-"All Killed and Injured Casualties","2015","November","Number","682"
-"All Killed and Injured Casualties","2015","December","Number","747"
-"All Killed and Injured Casualties","2016","All months","Number","7896"
-"All Killed and Injured Casualties","2016","January","Number","711"
-"All Killed and Injured Casualties","2016","February","Number","620"
-"All Killed and Injured Casualties","2016","March","Number","614"
-"All Killed and Injured Casualties","2016","April","Number","544"
-"All Killed and Injured Casualties","2016","May","Number","642"
-"All Killed and Injured Casualties","2016","June","Number","654"
-"All Killed and Injured Casualties","2016","July","Number","743"
-"All Killed and Injured Casualties","2016","August","Number","639"
-"All Killed and Injured Casualties","2016","September","Number","738"
-"All Killed and Injured Casualties","2016","October","Number","638"
-"All Killed and Injured Casualties","2016","November","Number","659"
-"All Killed and Injured Casualties","2016","December","Number","694"
-"All Killed and Injured Casualties","2017","All months","Number","7934"
-"All Killed and Injured Casualties","2017","January","Number","592"
-"All Killed and Injured Casualties","2017","February","Number","533"
-"All Killed and Injured Casualties","2017","March","Number","692"
-"All Killed and Injured Casualties","2017","April","Number","543"
-"All Killed and Injured Casualties","2017","May","Number","712"
-"All Killed and Injured Casualties","2017","June","Number","637"
-"All Killed and Injured Casualties","2017","July","Number","671"
-"All Killed and Injured Casualties","2017","August","Number","645"
-"All Killed and Injured Casualties","2017","September","Number","711"
-"All Killed and Injured Casualties","2017","October","Number","647"
-"All Killed and Injured Casualties","2017","November","Number","819"
-"All Killed and Injured Casualties","2017","December","Number","732"
-"All Killed and Injured Casualties","2018","All months","Number","8150"
-"All Killed and Injured Casualties","2018","January","Number","610"
-"All Killed and Injured Casualties","2018","February","Number","585"
-"All Killed and Injured Casualties","2018","March","Number","609"
-"All Killed and Injured Casualties","2018","April","Number","619"
-"All Killed and Injured Casualties","2018","May","Number","737"
-"All Killed and Injured Casualties","2018","June","Number","722"
-"All Killed and Injured Casualties","2018","July","Number","738"
-"All Killed and Injured Casualties","2018","August","Number","646"
-"All Killed and Injured Casualties","2018","September","Number","695"
-"All Killed and Injured Casualties","2018","October","Number","732"
-"All Killed and Injured Casualties","2018","November","Number","737"
-"All Killed and Injured Casualties","2018","December","Number","720"
-"All Killed and Injured Casualties","2019","All months","Number","7719"
-"All Killed and Injured Casualties","2019","January","Number","639"
-"All Killed and Injured Casualties","2019","February","Number","520"
-"All Killed and Injured Casualties","2019","March","Number","655"
-"All Killed and Injured Casualties","2019","April","Number","535"
-"All Killed and Injured Casualties","2019","May","Number","627"
-"All Killed and Injured Casualties","2019","June","Number","658"
-"All Killed and Injured Casualties","2019","July","Number","688"
-"All Killed and Injured Casualties","2019","August","Number","661"
-"All Killed and Injured Casualties","2019","September","Number","737"
-"All Killed and Injured Casualties","2019","October","Number","689"
-"All Killed and Injured Casualties","2019","November","Number","702"
-"All Killed and Injured Casualties","2019","December","Number","608"
+,Statistic,Year,Month of Year,UNIT,VALUE
+1,Fatal Collisions,2005,January,Number,31
+2,Fatal Collisions,2005,February,Number,34
+3,Fatal Collisions,2005,March,Number,23
+4,Fatal Collisions,2005,April,Number,20
+5,Fatal Collisions,2005,May,Number,36
+6,Fatal Collisions,2005,June,Number,20
+7,Fatal Collisions,2005,July,Number,38
+8,Fatal Collisions,2005,August,Number,23
+9,Fatal Collisions,2005,September,Number,29
+10,Fatal Collisions,2005,October,Number,38
+11,Fatal Collisions,2005,November,Number,31
+12,Fatal Collisions,2005,December,Number,37
+14,Fatal Collisions,2006,January,Number,34
+15,Fatal Collisions,2006,February,Number,26
+16,Fatal Collisions,2006,March,Number,25
+17,Fatal Collisions,2006,April,Number,29
+18,Fatal Collisions,2006,May,Number,25
+19,Fatal Collisions,2006,June,Number,31
+20,Fatal Collisions,2006,July,Number,33
+21,Fatal Collisions,2006,August,Number,17
+22,Fatal Collisions,2006,September,Number,21
+23,Fatal Collisions,2006,October,Number,25
+24,Fatal Collisions,2006,November,Number,24
+25,Fatal Collisions,2006,December,Number,31
+27,Fatal Collisions,2007,January,Number,21
+28,Fatal Collisions,2007,February,Number,24
+29,Fatal Collisions,2007,March,Number,32
+30,Fatal Collisions,2007,April,Number,25
+31,Fatal Collisions,2007,May,Number,19
+32,Fatal Collisions,2007,June,Number,28
+33,Fatal Collisions,2007,July,Number,30
+34,Fatal Collisions,2007,August,Number,24
+35,Fatal Collisions,2007,September,Number,26
+36,Fatal Collisions,2007,October,Number,24
+37,Fatal Collisions,2007,November,Number,20
+38,Fatal Collisions,2007,December,Number,36
+40,Fatal Collisions,2008,January,Number,25
+41,Fatal Collisions,2008,February,Number,27
+42,Fatal Collisions,2008,March,Number,18
+43,Fatal Collisions,2008,April,Number,19
+44,Fatal Collisions,2008,May,Number,16
+45,Fatal Collisions,2008,June,Number,23
+46,Fatal Collisions,2008,July,Number,24
+47,Fatal Collisions,2008,August,Number,25
+48,Fatal Collisions,2008,September,Number,19
+49,Fatal Collisions,2008,October,Number,21
+50,Fatal Collisions,2008,November,Number,20
+51,Fatal Collisions,2008,December,Number,17
+53,Fatal Collisions,2009,January,Number,17
+54,Fatal Collisions,2009,February,Number,12
+55,Fatal Collisions,2009,March,Number,22
+56,Fatal Collisions,2009,April,Number,19
+57,Fatal Collisions,2009,May,Number,25
+58,Fatal Collisions,2009,June,Number,15
+59,Fatal Collisions,2009,July,Number,17
+60,Fatal Collisions,2009,August,Number,19
+61,Fatal Collisions,2009,September,Number,14
+62,Fatal Collisions,2009,October,Number,21
+63,Fatal Collisions,2009,November,Number,21
+64,Fatal Collisions,2009,December,Number,18
+66,Fatal Collisions,2010,January,Number,14
+67,Fatal Collisions,2010,February,Number,14
+68,Fatal Collisions,2010,March,Number,12
+69,Fatal Collisions,2010,April,Number,17
+70,Fatal Collisions,2010,May,Number,25
+71,Fatal Collisions,2010,June,Number,11
+72,Fatal Collisions,2010,July,Number,13
+73,Fatal Collisions,2010,August,Number,15
+74,Fatal Collisions,2010,September,Number,11
+75,Fatal Collisions,2010,October,Number,34
+76,Fatal Collisions,2010,November,Number,13
+77,Fatal Collisions,2010,December,Number,6
+79,Fatal Collisions,2011,January,Number,16
+80,Fatal Collisions,2011,February,Number,18
+81,Fatal Collisions,2011,March,Number,14
+82,Fatal Collisions,2011,April,Number,8
+83,Fatal Collisions,2011,May,Number,10
+84,Fatal Collisions,2011,June,Number,14
+85,Fatal Collisions,2011,July,Number,17
+86,Fatal Collisions,2011,August,Number,14
+87,Fatal Collisions,2011,September,Number,13
+88,Fatal Collisions,2011,October,Number,14
+89,Fatal Collisions,2011,November,Number,18
+90,Fatal Collisions,2011,December,Number,16
+92,Fatal Collisions,2012,January,Number,10
+93,Fatal Collisions,2012,February,Number,13
+94,Fatal Collisions,2012,March,Number,11
+95,Fatal Collisions,2012,April,Number,16
+96,Fatal Collisions,2012,May,Number,12
+97,Fatal Collisions,2012,June,Number,24
+98,Fatal Collisions,2012,July,Number,15
+99,Fatal Collisions,2012,August,Number,8
+100,Fatal Collisions,2012,September,Number,10
+101,Fatal Collisions,2012,October,Number,13
+102,Fatal Collisions,2012,November,Number,8
+103,Fatal Collisions,2012,December,Number,12
+105,Fatal Collisions,2013,January,Number,18
+106,Fatal Collisions,2013,February,Number,13
+107,Fatal Collisions,2013,March,Number,14
+108,Fatal Collisions,2013,April,Number,12
+109,Fatal Collisions,2013,May,Number,14
+110,Fatal Collisions,2013,June,Number,13
+111,Fatal Collisions,2013,July,Number,18
+112,Fatal Collisions,2013,August,Number,17
+113,Fatal Collisions,2013,September,Number,16
+114,Fatal Collisions,2013,October,Number,13
+115,Fatal Collisions,2013,November,Number,15
+116,Fatal Collisions,2013,December,Number,16
+118,Fatal Collisions,2014,January,Number,15
+119,Fatal Collisions,2014,February,Number,13
+120,Fatal Collisions,2014,March,Number,14
+121,Fatal Collisions,2014,April,Number,13
+122,Fatal Collisions,2014,May,Number,18
+123,Fatal Collisions,2014,June,Number,14
+124,Fatal Collisions,2014,July,Number,16
+125,Fatal Collisions,2014,August,Number,14
+126,Fatal Collisions,2014,September,Number,11
+127,Fatal Collisions,2014,October,Number,15
+128,Fatal Collisions,2014,November,Number,18
+129,Fatal Collisions,2014,December,Number,17
+131,Fatal Collisions,2015,January,Number,9
+132,Fatal Collisions,2015,February,Number,13
+133,Fatal Collisions,2015,March,Number,11
+134,Fatal Collisions,2015,April,Number,7
+135,Fatal Collisions,2015,May,Number,12
+136,Fatal Collisions,2015,June,Number,13
+137,Fatal Collisions,2015,July,Number,17
+138,Fatal Collisions,2015,August,Number,14
+139,Fatal Collisions,2015,September,Number,16
+140,Fatal Collisions,2015,October,Number,11
+141,Fatal Collisions,2015,November,Number,13
+142,Fatal Collisions,2015,December,Number,19
+144,Fatal Collisions,2016,January,Number,14
+145,Fatal Collisions,2016,February,Number,10
+146,Fatal Collisions,2016,March,Number,16
+147,Fatal Collisions,2016,April,Number,13
+148,Fatal Collisions,2016,May,Number,20
+149,Fatal Collisions,2016,June,Number,12
+150,Fatal Collisions,2016,July,Number,16
+151,Fatal Collisions,2016,August,Number,13
+152,Fatal Collisions,2016,September,Number,17
+153,Fatal Collisions,2016,October,Number,19
+154,Fatal Collisions,2016,November,Number,9
+155,Fatal Collisions,2016,December,Number,15
+157,Fatal Collisions,2017,January,Number,14
+158,Fatal Collisions,2017,February,Number,10
+159,Fatal Collisions,2017,March,Number,19
+160,Fatal Collisions,2017,April,Number,6
+161,Fatal Collisions,2017,May,Number,8
+162,Fatal Collisions,2017,June,Number,13
+163,Fatal Collisions,2017,July,Number,14
+164,Fatal Collisions,2017,August,Number,10
+165,Fatal Collisions,2017,September,Number,10
+166,Fatal Collisions,2017,October,Number,11
+167,Fatal Collisions,2017,November,Number,13
+168,Fatal Collisions,2017,December,Number,12
+170,Fatal Collisions,2018,January,Number,11
+171,Fatal Collisions,2018,February,Number,10
+172,Fatal Collisions,2018,March,Number,13
+173,Fatal Collisions,2018,April,Number,15
+174,Fatal Collisions,2018,May,Number,4
+175,Fatal Collisions,2018,June,Number,15
+176,Fatal Collisions,2018,July,Number,8
+177,Fatal Collisions,2018,August,Number,11
+178,Fatal Collisions,2018,September,Number,10
+179,Fatal Collisions,2018,October,Number,9
+180,Fatal Collisions,2018,November,Number,11
+181,Fatal Collisions,2018,December,Number,15
+183,Fatal Collisions,2019,January,Number,10
+184,Fatal Collisions,2019,February,Number,14
+185,Fatal Collisions,2019,March,Number,9
+186,Fatal Collisions,2019,April,Number,9
+187,Fatal Collisions,2019,May,Number,8
+188,Fatal Collisions,2019,June,Number,11
+189,Fatal Collisions,2019,July,Number,8
+190,Fatal Collisions,2019,August,Number,8
+191,Fatal Collisions,2019,September,Number,17
+192,Fatal Collisions,2019,October,Number,10
+193,Fatal Collisions,2019,November,Number,11
+194,Fatal Collisions,2019,December,Number,14
+196,Injury Collisions,2005,January,Number,442
+197,Injury Collisions,2005,February,Number,427
+198,Injury Collisions,2005,March,Number,475
+199,Injury Collisions,2005,April,Number,509
+200,Injury Collisions,2005,May,Number,525
+201,Injury Collisions,2005,June,Number,504
+202,Injury Collisions,2005,July,Number,534
+203,Injury Collisions,2005,August,Number,535
+204,Injury Collisions,2005,September,Number,539
+205,Injury Collisions,2005,October,Number,566
+206,Injury Collisions,2005,November,Number,572
+207,Injury Collisions,2005,December,Number,545
+209,Injury Collisions,2006,January,Number,488
+210,Injury Collisions,2006,February,Number,380
+211,Injury Collisions,2006,March,Number,442
+212,Injury Collisions,2006,April,Number,373
+213,Injury Collisions,2006,May,Number,462
+214,Injury Collisions,2006,June,Number,440
+215,Injury Collisions,2006,July,Number,479
+216,Injury Collisions,2006,August,Number,506
+217,Injury Collisions,2006,September,Number,497
+218,Injury Collisions,2006,October,Number,537
+219,Injury Collisions,2006,November,Number,514
+220,Injury Collisions,2006,December,Number,579
+222,Injury Collisions,2007,January,Number,438
+223,Injury Collisions,2007,February,Number,397
+224,Injury Collisions,2007,March,Number,438
+225,Injury Collisions,2007,April,Number,361
+226,Injury Collisions,2007,May,Number,423
+227,Injury Collisions,2007,June,Number,420
+228,Injury Collisions,2007,July,Number,471
+229,Injury Collisions,2007,August,Number,462
+230,Injury Collisions,2007,September,Number,430
+231,Injury Collisions,2007,October,Number,451
+232,Injury Collisions,2007,November,Number,449
+233,Injury Collisions,2007,December,Number,418
+235,Injury Collisions,2008,January,Number,544
+236,Injury Collisions,2008,February,Number,563
+237,Injury Collisions,2008,March,Number,535
+238,Injury Collisions,2008,April,Number,518
+239,Injury Collisions,2008,May,Number,574
+240,Injury Collisions,2008,June,Number,508
+241,Injury Collisions,2008,July,Number,501
+242,Injury Collisions,2008,August,Number,483
+243,Injury Collisions,2008,September,Number,542
+244,Injury Collisions,2008,October,Number,558
+245,Injury Collisions,2008,November,Number,585
+246,Injury Collisions,2008,December,Number,571
+248,Injury Collisions,2009,January,Number,548
+249,Injury Collisions,2009,February,Number,421
+250,Injury Collisions,2009,March,Number,471
+251,Injury Collisions,2009,April,Number,517
+252,Injury Collisions,2009,May,Number,558
+253,Injury Collisions,2009,June,Number,519
+254,Injury Collisions,2009,July,Number,611
+255,Injury Collisions,2009,August,Number,572
+256,Injury Collisions,2009,September,Number,520
+257,Injury Collisions,2009,October,Number,561
+258,Injury Collisions,2009,November,Number,561
+259,Injury Collisions,2009,December,Number,536
+261,Injury Collisions,2010,January,Number,405
+262,Injury Collisions,2010,February,Number,417
+263,Injury Collisions,2010,March,Number,474
+264,Injury Collisions,2010,April,Number,454
+265,Injury Collisions,2010,May,Number,502
+266,Injury Collisions,2010,June,Number,463
+267,Injury Collisions,2010,July,Number,509
+268,Injury Collisions,2010,August,Number,493
+269,Injury Collisions,2010,September,Number,520
+270,Injury Collisions,2010,October,Number,566
+271,Injury Collisions,2010,November,Number,495
+272,Injury Collisions,2010,December,Number,297
+274,Injury Collisions,2011,January,Number,411
+275,Injury Collisions,2011,February,Number,387
+276,Injury Collisions,2011,March,Number,407
+277,Injury Collisions,2011,April,Number,373
+278,Injury Collisions,2011,May,Number,358
+279,Injury Collisions,2011,June,Number,451
+280,Injury Collisions,2011,July,Number,444
+281,Injury Collisions,2011,August,Number,468
+282,Injury Collisions,2011,September,Number,443
+283,Injury Collisions,2011,October,Number,468
+284,Injury Collisions,2011,November,Number,455
+285,Injury Collisions,2011,December,Number,393
+287,Injury Collisions,2012,January,Number,447
+288,Injury Collisions,2012,February,Number,396
+289,Injury Collisions,2012,March,Number,478
+290,Injury Collisions,2012,April,Number,455
+291,Injury Collisions,2012,May,Number,442
+292,Injury Collisions,2012,June,Number,446
+293,Injury Collisions,2012,July,Number,460
+294,Injury Collisions,2012,August,Number,464
+295,Injury Collisions,2012,September,Number,469
+296,Injury Collisions,2012,October,Number,487
+297,Injury Collisions,2012,November,Number,468
+298,Injury Collisions,2012,December,Number,446
+300,Injury Collisions,2013,January,Number,427
+301,Injury Collisions,2013,February,Number,341
+302,Injury Collisions,2013,March,Number,349
+303,Injury Collisions,2013,April,Number,328
+304,Injury Collisions,2013,May,Number,377
+305,Injury Collisions,2013,June,Number,408
+306,Injury Collisions,2013,July,Number,446
+307,Injury Collisions,2013,August,Number,398
+308,Injury Collisions,2013,September,Number,419
+309,Injury Collisions,2013,October,Number,455
+310,Injury Collisions,2013,November,Number,420
+311,Injury Collisions,2013,December,Number,429
+313,Injury Collisions,2014,January,Number,430
+314,Injury Collisions,2014,February,Number,397
+315,Injury Collisions,2014,March,Number,407
+316,Injury Collisions,2014,April,Number,443
+317,Injury Collisions,2014,May,Number,452
+318,Injury Collisions,2014,June,Number,466
+319,Injury Collisions,2014,July,Number,470
+320,Injury Collisions,2014,August,Number,480
+321,Injury Collisions,2014,September,Number,496
+322,Injury Collisions,2014,October,Number,504
+323,Injury Collisions,2014,November,Number,569
+324,Injury Collisions,2014,December,Number,504
+326,Injury Collisions,2015,January,Number,478
+327,Injury Collisions,2015,February,Number,417
+328,Injury Collisions,2015,March,Number,460
+329,Injury Collisions,2015,April,Number,396
+330,Injury Collisions,2015,May,Number,488
+331,Injury Collisions,2015,June,Number,465
+332,Injury Collisions,2015,July,Number,471
+333,Injury Collisions,2015,August,Number,470
+334,Injury Collisions,2015,September,Number,502
+335,Injury Collisions,2015,October,Number,499
+336,Injury Collisions,2015,November,Number,502
+337,Injury Collisions,2015,December,Number,528
+339,Injury Collisions,2016,January,Number,516
+340,Injury Collisions,2016,February,Number,456
+341,Injury Collisions,2016,March,Number,415
+342,Injury Collisions,2016,April,Number,397
+343,Injury Collisions,2016,May,Number,460
+344,Injury Collisions,2016,June,Number,475
+345,Injury Collisions,2016,July,Number,524
+346,Injury Collisions,2016,August,Number,459
+347,Injury Collisions,2016,September,Number,527
+348,Injury Collisions,2016,October,Number,484
+349,Injury Collisions,2016,November,Number,493
+350,Injury Collisions,2016,December,Number,511
+352,Injury Collisions,2017,January,Number,449
+353,Injury Collisions,2017,February,Number,409
+354,Injury Collisions,2017,March,Number,510
+355,Injury Collisions,2017,April,Number,387
+356,Injury Collisions,2017,May,Number,522
+357,Injury Collisions,2017,June,Number,483
+358,Injury Collisions,2017,July,Number,482
+359,Injury Collisions,2017,August,Number,475
+360,Injury Collisions,2017,September,Number,546
+361,Injury Collisions,2017,October,Number,508
+362,Injury Collisions,2017,November,Number,597
+363,Injury Collisions,2017,December,Number,546
+365,Injury Collisions,2018,January,Number,461
+366,Injury Collisions,2018,February,Number,436
+367,Injury Collisions,2018,March,Number,428
+368,Injury Collisions,2018,April,Number,446
+369,Injury Collisions,2018,May,Number,533
+370,Injury Collisions,2018,June,Number,521
+371,Injury Collisions,2018,July,Number,540
+372,Injury Collisions,2018,August,Number,474
+373,Injury Collisions,2018,September,Number,508
+374,Injury Collisions,2018,October,Number,544
+375,Injury Collisions,2018,November,Number,549
+376,Injury Collisions,2018,December,Number,534
+378,Injury Collisions,2019,January,Number,493
+379,Injury Collisions,2019,February,Number,385
+380,Injury Collisions,2019,March,Number,483
+381,Injury Collisions,2019,April,Number,391
+382,Injury Collisions,2019,May,Number,468
+383,Injury Collisions,2019,June,Number,466
+384,Injury Collisions,2019,July,Number,504
+385,Injury Collisions,2019,August,Number,479
+386,Injury Collisions,2019,September,Number,534
+387,Injury Collisions,2019,October,Number,509
+388,Injury Collisions,2019,November,Number,535
+389,Injury Collisions,2019,December,Number,451
+391,All Fatal and Injury Collisions,2005,January,Number,473
+392,All Fatal and Injury Collisions,2005,February,Number,461
+393,All Fatal and Injury Collisions,2005,March,Number,498
+394,All Fatal and Injury Collisions,2005,April,Number,529
+395,All Fatal and Injury Collisions,2005,May,Number,561
+396,All Fatal and Injury Collisions,2005,June,Number,524
+397,All Fatal and Injury Collisions,2005,July,Number,572
+398,All Fatal and Injury Collisions,2005,August,Number,558
+399,All Fatal and Injury Collisions,2005,September,Number,568
+400,All Fatal and Injury Collisions,2005,October,Number,604
+401,All Fatal and Injury Collisions,2005,November,Number,603
+402,All Fatal and Injury Collisions,2005,December,Number,582
+404,All Fatal and Injury Collisions,2006,January,Number,522
+405,All Fatal and Injury Collisions,2006,February,Number,406
+406,All Fatal and Injury Collisions,2006,March,Number,467
+407,All Fatal and Injury Collisions,2006,April,Number,402
+408,All Fatal and Injury Collisions,2006,May,Number,487
+409,All Fatal and Injury Collisions,2006,June,Number,471
+410,All Fatal and Injury Collisions,2006,July,Number,512
+411,All Fatal and Injury Collisions,2006,August,Number,523
+412,All Fatal and Injury Collisions,2006,September,Number,518
+413,All Fatal and Injury Collisions,2006,October,Number,562
+414,All Fatal and Injury Collisions,2006,November,Number,538
+415,All Fatal and Injury Collisions,2006,December,Number,610
+417,All Fatal and Injury Collisions,2007,January,Number,459
+418,All Fatal and Injury Collisions,2007,February,Number,421
+419,All Fatal and Injury Collisions,2007,March,Number,470
+420,All Fatal and Injury Collisions,2007,April,Number,386
+421,All Fatal and Injury Collisions,2007,May,Number,442
+422,All Fatal and Injury Collisions,2007,June,Number,448
+423,All Fatal and Injury Collisions,2007,July,Number,501
+424,All Fatal and Injury Collisions,2007,August,Number,486
+425,All Fatal and Injury Collisions,2007,September,Number,456
+426,All Fatal and Injury Collisions,2007,October,Number,475
+427,All Fatal and Injury Collisions,2007,November,Number,469
+428,All Fatal and Injury Collisions,2007,December,Number,454
+430,All Fatal and Injury Collisions,2008,January,Number,569
+431,All Fatal and Injury Collisions,2008,February,Number,590
+432,All Fatal and Injury Collisions,2008,March,Number,553
+433,All Fatal and Injury Collisions,2008,April,Number,537
+434,All Fatal and Injury Collisions,2008,May,Number,590
+435,All Fatal and Injury Collisions,2008,June,Number,531
+436,All Fatal and Injury Collisions,2008,July,Number,525
+437,All Fatal and Injury Collisions,2008,August,Number,508
+438,All Fatal and Injury Collisions,2008,September,Number,561
+439,All Fatal and Injury Collisions,2008,October,Number,579
+440,All Fatal and Injury Collisions,2008,November,Number,605
+441,All Fatal and Injury Collisions,2008,December,Number,588
+443,All Fatal and Injury Collisions,2009,January,Number,565
+444,All Fatal and Injury Collisions,2009,February,Number,433
+445,All Fatal and Injury Collisions,2009,March,Number,493
+446,All Fatal and Injury Collisions,2009,April,Number,536
+447,All Fatal and Injury Collisions,2009,May,Number,583
+448,All Fatal and Injury Collisions,2009,June,Number,534
+449,All Fatal and Injury Collisions,2009,July,Number,628
+450,All Fatal and Injury Collisions,2009,August,Number,591
+451,All Fatal and Injury Collisions,2009,September,Number,534
+452,All Fatal and Injury Collisions,2009,October,Number,582
+453,All Fatal and Injury Collisions,2009,November,Number,582
+454,All Fatal and Injury Collisions,2009,December,Number,554
+456,All Fatal and Injury Collisions,2010,January,Number,419
+457,All Fatal and Injury Collisions,2010,February,Number,431
+458,All Fatal and Injury Collisions,2010,March,Number,486
+459,All Fatal and Injury Collisions,2010,April,Number,471
+460,All Fatal and Injury Collisions,2010,May,Number,527
+461,All Fatal and Injury Collisions,2010,June,Number,474
+462,All Fatal and Injury Collisions,2010,July,Number,522
+463,All Fatal and Injury Collisions,2010,August,Number,508
+464,All Fatal and Injury Collisions,2010,September,Number,531
+465,All Fatal and Injury Collisions,2010,October,Number,600
+466,All Fatal and Injury Collisions,2010,November,Number,508
+467,All Fatal and Injury Collisions,2010,December,Number,303
+469,All Fatal and Injury Collisions,2011,January,Number,427
+470,All Fatal and Injury Collisions,2011,February,Number,405
+471,All Fatal and Injury Collisions,2011,March,Number,421
+472,All Fatal and Injury Collisions,2011,April,Number,381
+473,All Fatal and Injury Collisions,2011,May,Number,368
+474,All Fatal and Injury Collisions,2011,June,Number,465
+475,All Fatal and Injury Collisions,2011,July,Number,461
+476,All Fatal and Injury Collisions,2011,August,Number,482
+477,All Fatal and Injury Collisions,2011,September,Number,456
+478,All Fatal and Injury Collisions,2011,October,Number,482
+479,All Fatal and Injury Collisions,2011,November,Number,473
+480,All Fatal and Injury Collisions,2011,December,Number,409
+482,All Fatal and Injury Collisions,2012,January,Number,457
+483,All Fatal and Injury Collisions,2012,February,Number,409
+484,All Fatal and Injury Collisions,2012,March,Number,489
+485,All Fatal and Injury Collisions,2012,April,Number,471
+486,All Fatal and Injury Collisions,2012,May,Number,454
+487,All Fatal and Injury Collisions,2012,June,Number,470
+488,All Fatal and Injury Collisions,2012,July,Number,475
+489,All Fatal and Injury Collisions,2012,August,Number,472
+490,All Fatal and Injury Collisions,2012,September,Number,479
+491,All Fatal and Injury Collisions,2012,October,Number,500
+492,All Fatal and Injury Collisions,2012,November,Number,476
+493,All Fatal and Injury Collisions,2012,December,Number,458
+495,All Fatal and Injury Collisions,2013,January,Number,445
+496,All Fatal and Injury Collisions,2013,February,Number,354
+497,All Fatal and Injury Collisions,2013,March,Number,363
+498,All Fatal and Injury Collisions,2013,April,Number,340
+499,All Fatal and Injury Collisions,2013,May,Number,391
+500,All Fatal and Injury Collisions,2013,June,Number,421
+501,All Fatal and Injury Collisions,2013,July,Number,464
+502,All Fatal and Injury Collisions,2013,August,Number,415
+503,All Fatal and Injury Collisions,2013,September,Number,435
+504,All Fatal and Injury Collisions,2013,October,Number,468
+505,All Fatal and Injury Collisions,2013,November,Number,435
+506,All Fatal and Injury Collisions,2013,December,Number,445
+508,All Fatal and Injury Collisions,2014,January,Number,445
+509,All Fatal and Injury Collisions,2014,February,Number,410
+510,All Fatal and Injury Collisions,2014,March,Number,421
+511,All Fatal and Injury Collisions,2014,April,Number,456
+512,All Fatal and Injury Collisions,2014,May,Number,470
+513,All Fatal and Injury Collisions,2014,June,Number,480
+514,All Fatal and Injury Collisions,2014,July,Number,486
+515,All Fatal and Injury Collisions,2014,August,Number,494
+516,All Fatal and Injury Collisions,2014,September,Number,507
+517,All Fatal and Injury Collisions,2014,October,Number,519
+518,All Fatal and Injury Collisions,2014,November,Number,587
+519,All Fatal and Injury Collisions,2014,December,Number,521
+521,All Fatal and Injury Collisions,2015,January,Number,487
+522,All Fatal and Injury Collisions,2015,February,Number,430
+523,All Fatal and Injury Collisions,2015,March,Number,471
+524,All Fatal and Injury Collisions,2015,April,Number,403
+525,All Fatal and Injury Collisions,2015,May,Number,500
+526,All Fatal and Injury Collisions,2015,June,Number,478
+527,All Fatal and Injury Collisions,2015,July,Number,488
+528,All Fatal and Injury Collisions,2015,August,Number,484
+529,All Fatal and Injury Collisions,2015,September,Number,518
+530,All Fatal and Injury Collisions,2015,October,Number,510
+531,All Fatal and Injury Collisions,2015,November,Number,515
+532,All Fatal and Injury Collisions,2015,December,Number,547
+534,All Fatal and Injury Collisions,2016,January,Number,530
+535,All Fatal and Injury Collisions,2016,February,Number,466
+536,All Fatal and Injury Collisions,2016,March,Number,431
+537,All Fatal and Injury Collisions,2016,April,Number,410
+538,All Fatal and Injury Collisions,2016,May,Number,480
+539,All Fatal and Injury Collisions,2016,June,Number,487
+540,All Fatal and Injury Collisions,2016,July,Number,540
+541,All Fatal and Injury Collisions,2016,August,Number,472
+542,All Fatal and Injury Collisions,2016,September,Number,544
+543,All Fatal and Injury Collisions,2016,October,Number,503
+544,All Fatal and Injury Collisions,2016,November,Number,502
+545,All Fatal and Injury Collisions,2016,December,Number,526
+547,All Fatal and Injury Collisions,2017,January,Number,463
+548,All Fatal and Injury Collisions,2017,February,Number,419
+549,All Fatal and Injury Collisions,2017,March,Number,529
+550,All Fatal and Injury Collisions,2017,April,Number,393
+551,All Fatal and Injury Collisions,2017,May,Number,530
+552,All Fatal and Injury Collisions,2017,June,Number,496
+553,All Fatal and Injury Collisions,2017,July,Number,496
+554,All Fatal and Injury Collisions,2017,August,Number,485
+555,All Fatal and Injury Collisions,2017,September,Number,556
+556,All Fatal and Injury Collisions,2017,October,Number,519
+557,All Fatal and Injury Collisions,2017,November,Number,610
+558,All Fatal and Injury Collisions,2017,December,Number,558
+560,All Fatal and Injury Collisions,2018,January,Number,472
+561,All Fatal and Injury Collisions,2018,February,Number,446
+562,All Fatal and Injury Collisions,2018,March,Number,441
+563,All Fatal and Injury Collisions,2018,April,Number,461
+564,All Fatal and Injury Collisions,2018,May,Number,537
+565,All Fatal and Injury Collisions,2018,June,Number,536
+566,All Fatal and Injury Collisions,2018,July,Number,548
+567,All Fatal and Injury Collisions,2018,August,Number,485
+568,All Fatal and Injury Collisions,2018,September,Number,518
+569,All Fatal and Injury Collisions,2018,October,Number,553
+570,All Fatal and Injury Collisions,2018,November,Number,560
+571,All Fatal and Injury Collisions,2018,December,Number,549
+573,All Fatal and Injury Collisions,2019,January,Number,503
+574,All Fatal and Injury Collisions,2019,February,Number,399
+575,All Fatal and Injury Collisions,2019,March,Number,492
+576,All Fatal and Injury Collisions,2019,April,Number,400
+577,All Fatal and Injury Collisions,2019,May,Number,476
+578,All Fatal and Injury Collisions,2019,June,Number,477
+579,All Fatal and Injury Collisions,2019,July,Number,512
+580,All Fatal and Injury Collisions,2019,August,Number,487
+581,All Fatal and Injury Collisions,2019,September,Number,551
+582,All Fatal and Injury Collisions,2019,October,Number,519
+583,All Fatal and Injury Collisions,2019,November,Number,546
+584,All Fatal and Injury Collisions,2019,December,Number,465
+586,Killed Casualties,2005,January,Number,33
+587,Killed Casualties,2005,February,Number,37
+588,Killed Casualties,2005,March,Number,26
+589,Killed Casualties,2005,April,Number,23
+590,Killed Casualties,2005,May,Number,41
+591,Killed Casualties,2005,June,Number,22
+592,Killed Casualties,2005,July,Number,41
+593,Killed Casualties,2005,August,Number,24
+594,Killed Casualties,2005,September,Number,31
+595,Killed Casualties,2005,October,Number,44
+596,Killed Casualties,2005,November,Number,34
+597,Killed Casualties,2005,December,Number,40
+599,Killed Casualties,2006,January,Number,40
+600,Killed Casualties,2006,February,Number,31
+601,Killed Casualties,2006,March,Number,27
+602,Killed Casualties,2006,April,Number,37
+603,Killed Casualties,2006,May,Number,30
+604,Killed Casualties,2006,June,Number,32
+605,Killed Casualties,2006,July,Number,38
+606,Killed Casualties,2006,August,Number,17
+607,Killed Casualties,2006,September,Number,23
+608,Killed Casualties,2006,October,Number,32
+609,Killed Casualties,2006,November,Number,27
+610,Killed Casualties,2006,December,Number,31
+612,Killed Casualties,2007,January,Number,22
+613,Killed Casualties,2007,February,Number,25
+614,Killed Casualties,2007,March,Number,34
+615,Killed Casualties,2007,April,Number,30
+616,Killed Casualties,2007,May,Number,24
+617,Killed Casualties,2007,June,Number,29
+618,Killed Casualties,2007,July,Number,31
+619,Killed Casualties,2007,August,Number,28
+620,Killed Casualties,2007,September,Number,28
+621,Killed Casualties,2007,October,Number,26
+622,Killed Casualties,2007,November,Number,23
+623,Killed Casualties,2007,December,Number,38
+625,Killed Casualties,2008,January,Number,25
+626,Killed Casualties,2008,February,Number,32
+627,Killed Casualties,2008,March,Number,20
+628,Killed Casualties,2008,April,Number,19
+629,Killed Casualties,2008,May,Number,19
+630,Killed Casualties,2008,June,Number,28
+631,Killed Casualties,2008,July,Number,26
+632,Killed Casualties,2008,August,Number,28
+633,Killed Casualties,2008,September,Number,19
+634,Killed Casualties,2008,October,Number,22
+635,Killed Casualties,2008,November,Number,22
+636,Killed Casualties,2008,December,Number,19
+638,Killed Casualties,2009,January,Number,18
+639,Killed Casualties,2009,February,Number,15
+640,Killed Casualties,2009,March,Number,24
+641,Killed Casualties,2009,April,Number,20
+642,Killed Casualties,2009,May,Number,28
+643,Killed Casualties,2009,June,Number,15
+644,Killed Casualties,2009,July,Number,19
+645,Killed Casualties,2009,August,Number,20
+646,Killed Casualties,2009,September,Number,14
+647,Killed Casualties,2009,October,Number,22
+648,Killed Casualties,2009,November,Number,25
+649,Killed Casualties,2009,December,Number,18
+651,Killed Casualties,2010,January,Number,15
+652,Killed Casualties,2010,February,Number,14
+653,Killed Casualties,2010,March,Number,12
+654,Killed Casualties,2010,April,Number,19
+655,Killed Casualties,2010,May,Number,28
+656,Killed Casualties,2010,June,Number,11
+657,Killed Casualties,2010,July,Number,21
+658,Killed Casualties,2010,August,Number,19
+659,Killed Casualties,2010,September,Number,13
+660,Killed Casualties,2010,October,Number,36
+661,Killed Casualties,2010,November,Number,14
+662,Killed Casualties,2010,December,Number,10
+664,Killed Casualties,2011,January,Number,21
+665,Killed Casualties,2011,February,Number,18
+666,Killed Casualties,2011,March,Number,15
+667,Killed Casualties,2011,April,Number,8
+668,Killed Casualties,2011,May,Number,11
+669,Killed Casualties,2011,June,Number,15
+670,Killed Casualties,2011,July,Number,18
+671,Killed Casualties,2011,August,Number,16
+672,Killed Casualties,2011,September,Number,13
+673,Killed Casualties,2011,October,Number,15
+674,Killed Casualties,2011,November,Number,18
+675,Killed Casualties,2011,December,Number,18
+677,Killed Casualties,2012,January,Number,10
+678,Killed Casualties,2012,February,Number,13
+679,Killed Casualties,2012,March,Number,12
+680,Killed Casualties,2012,April,Number,16
+681,Killed Casualties,2012,May,Number,13
+682,Killed Casualties,2012,June,Number,26
+683,Killed Casualties,2012,July,Number,15
+684,Killed Casualties,2012,August,Number,12
+685,Killed Casualties,2012,September,Number,10
+686,Killed Casualties,2012,October,Number,15
+687,Killed Casualties,2012,November,Number,8
+688,Killed Casualties,2012,December,Number,12
+690,Killed Casualties,2013,January,Number,19
+691,Killed Casualties,2013,February,Number,14
+692,Killed Casualties,2013,March,Number,15
+693,Killed Casualties,2013,April,Number,12
+694,Killed Casualties,2013,May,Number,17
+695,Killed Casualties,2013,June,Number,13
+696,Killed Casualties,2013,July,Number,18
+697,Killed Casualties,2013,August,Number,19
+698,Killed Casualties,2013,September,Number,17
+699,Killed Casualties,2013,October,Number,13
+700,Killed Casualties,2013,November,Number,15
+701,Killed Casualties,2013,December,Number,16
+703,Killed Casualties,2014,January,Number,16
+704,Killed Casualties,2014,February,Number,13
+705,Killed Casualties,2014,March,Number,15
+706,Killed Casualties,2014,April,Number,14
+707,Killed Casualties,2014,May,Number,18
+708,Killed Casualties,2014,June,Number,18
+709,Killed Casualties,2014,July,Number,18
+710,Killed Casualties,2014,August,Number,15
+711,Killed Casualties,2014,September,Number,11
+712,Killed Casualties,2014,October,Number,17
+713,Killed Casualties,2014,November,Number,20
+714,Killed Casualties,2014,December,Number,17
+716,Killed Casualties,2015,January,Number,12
+717,Killed Casualties,2015,February,Number,13
+718,Killed Casualties,2015,March,Number,11
+719,Killed Casualties,2015,April,Number,7
+720,Killed Casualties,2015,May,Number,12
+721,Killed Casualties,2015,June,Number,13
+722,Killed Casualties,2015,July,Number,19
+723,Killed Casualties,2015,August,Number,14
+724,Killed Casualties,2015,September,Number,16
+725,Killed Casualties,2015,October,Number,11
+726,Killed Casualties,2015,November,Number,14
+727,Killed Casualties,2015,December,Number,20
+729,Killed Casualties,2016,January,Number,15
+730,Killed Casualties,2016,February,Number,10
+731,Killed Casualties,2016,March,Number,17
+732,Killed Casualties,2016,April,Number,14
+733,Killed Casualties,2016,May,Number,20
+734,Killed Casualties,2016,June,Number,12
+735,Killed Casualties,2016,July,Number,21
+736,Killed Casualties,2016,August,Number,13
+737,Killed Casualties,2016,September,Number,18
+738,Killed Casualties,2016,October,Number,20
+739,Killed Casualties,2016,November,Number,9
+740,Killed Casualties,2016,December,Number,17
+742,Killed Casualties,2017,January,Number,16
+743,Killed Casualties,2017,February,Number,11
+744,Killed Casualties,2017,March,Number,20
+745,Killed Casualties,2017,April,Number,7
+746,Killed Casualties,2017,May,Number,8
+747,Killed Casualties,2017,June,Number,14
+748,Killed Casualties,2017,July,Number,16
+749,Killed Casualties,2017,August,Number,10
+750,Killed Casualties,2017,September,Number,13
+751,Killed Casualties,2017,October,Number,11
+752,Killed Casualties,2017,November,Number,14
+753,Killed Casualties,2017,December,Number,16
+755,Killed Casualties,2018,January,Number,12
+756,Killed Casualties,2018,February,Number,10
+757,Killed Casualties,2018,March,Number,14
+758,Killed Casualties,2018,April,Number,17
+759,Killed Casualties,2018,May,Number,4
+760,Killed Casualties,2018,June,Number,16
+761,Killed Casualties,2018,July,Number,8
+762,Killed Casualties,2018,August,Number,12
+763,Killed Casualties,2018,September,Number,10
+764,Killed Casualties,2018,October,Number,9
+765,Killed Casualties,2018,November,Number,12
+766,Killed Casualties,2018,December,Number,15
+768,Killed Casualties,2019,January,Number,14
+769,Killed Casualties,2019,February,Number,14
+770,Killed Casualties,2019,March,Number,11
+771,Killed Casualties,2019,April,Number,9
+772,Killed Casualties,2019,May,Number,11
+773,Killed Casualties,2019,June,Number,11
+774,Killed Casualties,2019,July,Number,8
+775,Killed Casualties,2019,August,Number,8
+776,Killed Casualties,2019,September,Number,18
+777,Killed Casualties,2019,October,Number,10
+778,Killed Casualties,2019,November,Number,11
+779,Killed Casualties,2019,December,Number,15
+781,Injured Casualties,2005,January,Number,683
+782,Injured Casualties,2005,February,Number,591
+783,Injured Casualties,2005,March,Number,718
+784,Injured Casualties,2005,April,Number,726
+785,Injured Casualties,2005,May,Number,800
+786,Injured Casualties,2005,June,Number,752
+787,Injured Casualties,2005,July,Number,886
+788,Injured Casualties,2005,August,Number,876
+789,Injured Casualties,2005,September,Number,826
+790,Injured Casualties,2005,October,Number,892
+791,Injured Casualties,2005,November,Number,826
+792,Injured Casualties,2005,December,Number,742
+794,Injured Casualties,2006,January,Number,723
+795,Injured Casualties,2006,February,Number,547
+796,Injured Casualties,2006,March,Number,633
+797,Injured Casualties,2006,April,Number,602
+798,Injured Casualties,2006,May,Number,709
+799,Injured Casualties,2006,June,Number,674
+800,Injured Casualties,2006,July,Number,762
+801,Injured Casualties,2006,August,Number,767
+802,Injured Casualties,2006,September,Number,746
+803,Injured Casualties,2006,October,Number,797
+804,Injured Casualties,2006,November,Number,750
+805,Injured Casualties,2006,December,Number,865
+807,Injured Casualties,2007,January,Number,639
+808,Injured Casualties,2007,February,Number,564
+809,Injured Casualties,2007,March,Number,666
+810,Injured Casualties,2007,April,Number,565
+811,Injured Casualties,2007,May,Number,625
+812,Injured Casualties,2007,June,Number,693
+813,Injured Casualties,2007,July,Number,721
+814,Injured Casualties,2007,August,Number,741
+815,Injured Casualties,2007,September,Number,657
+816,Injured Casualties,2007,October,Number,654
+817,Injured Casualties,2007,November,Number,661
+818,Injured Casualties,2007,December,Number,620
+820,Injured Casualties,2008,January,Number,818
+821,Injured Casualties,2008,February,Number,845
+822,Injured Casualties,2008,March,Number,808
+823,Injured Casualties,2008,April,Number,783
+824,Injured Casualties,2008,May,Number,919
+825,Injured Casualties,2008,June,Number,794
+826,Injured Casualties,2008,July,Number,770
+827,Injured Casualties,2008,August,Number,757
+828,Injured Casualties,2008,September,Number,778
+829,Injured Casualties,2008,October,Number,815
+830,Injured Casualties,2008,November,Number,833
+831,Injured Casualties,2008,December,Number,838
+833,Injured Casualties,2009,January,Number,812
+834,Injured Casualties,2009,February,Number,588
+835,Injured Casualties,2009,March,Number,755
+836,Injured Casualties,2009,April,Number,809
+837,Injured Casualties,2009,May,Number,827
+838,Injured Casualties,2009,June,Number,763
+839,Injured Casualties,2009,July,Number,976
+840,Injured Casualties,2009,August,Number,879
+841,Injured Casualties,2009,September,Number,812
+842,Injured Casualties,2009,October,Number,856
+843,Injured Casualties,2009,November,Number,878
+844,Injured Casualties,2009,December,Number,787
+846,Injured Casualties,2010,January,Number,571
+847,Injured Casualties,2010,February,Number,622
+848,Injured Casualties,2010,March,Number,686
+849,Injured Casualties,2010,April,Number,687
+850,Injured Casualties,2010,May,Number,755
+851,Injured Casualties,2010,June,Number,669
+852,Injured Casualties,2010,July,Number,755
+853,Injured Casualties,2010,August,Number,747
+854,Injured Casualties,2010,September,Number,801
+855,Injured Casualties,2010,October,Number,853
+856,Injured Casualties,2010,November,Number,717
+857,Injured Casualties,2010,December,Number,407
+859,Injured Casualties,2011,January,Number,548
+860,Injured Casualties,2011,February,Number,540
+861,Injured Casualties,2011,March,Number,563
+862,Injured Casualties,2011,April,Number,547
+863,Injured Casualties,2011,May,Number,527
+864,Injured Casualties,2011,June,Number,646
+865,Injured Casualties,2011,July,Number,686
+866,Injured Casualties,2011,August,Number,684
+867,Injured Casualties,2011,September,Number,639
+868,Injured Casualties,2011,October,Number,659
+869,Injured Casualties,2011,November,Number,655
+870,Injured Casualties,2011,December,Number,541
+872,Injured Casualties,2012,January,Number,642
+873,Injured Casualties,2012,February,Number,596
+874,Injured Casualties,2012,March,Number,707
+875,Injured Casualties,2012,April,Number,694
+876,Injured Casualties,2012,May,Number,630
+877,Injured Casualties,2012,June,Number,682
+878,Injured Casualties,2012,July,Number,679
+879,Injured Casualties,2012,August,Number,670
+880,Injured Casualties,2012,September,Number,639
+881,Injured Casualties,2012,October,Number,718
+882,Injured Casualties,2012,November,Number,670
+883,Injured Casualties,2012,December,Number,615
+885,Injured Casualties,2013,January,Number,623
+886,Injured Casualties,2013,February,Number,491
+887,Injured Casualties,2013,March,Number,523
+888,Injured Casualties,2013,April,Number,452
+889,Injured Casualties,2013,May,Number,533
+890,Injured Casualties,2013,June,Number,587
+891,Injured Casualties,2013,July,Number,677
+892,Injured Casualties,2013,August,Number,600
+893,Injured Casualties,2013,September,Number,601
+894,Injured Casualties,2013,October,Number,635
+895,Injured Casualties,2013,November,Number,560
+896,Injured Casualties,2013,December,Number,598
+898,Injured Casualties,2014,January,Number,636
+899,Injured Casualties,2014,February,Number,577
+900,Injured Casualties,2014,March,Number,575
+901,Injured Casualties,2014,April,Number,642
+902,Injured Casualties,2014,May,Number,653
+903,Injured Casualties,2014,June,Number,680
+904,Injured Casualties,2014,July,Number,685
+905,Injured Casualties,2014,August,Number,741
+906,Injured Casualties,2014,September,Number,681
+907,Injured Casualties,2014,October,Number,726
+908,Injured Casualties,2014,November,Number,791
+909,Injured Casualties,2014,December,Number,692
+911,Injured Casualties,2015,January,Number,678
+912,Injured Casualties,2015,February,Number,556
+913,Injured Casualties,2015,March,Number,643
+914,Injured Casualties,2015,April,Number,535
+915,Injured Casualties,2015,May,Number,690
+916,Injured Casualties,2015,June,Number,646
+917,Injured Casualties,2015,July,Number,667
+918,Injured Casualties,2015,August,Number,676
+919,Injured Casualties,2015,September,Number,689
+920,Injured Casualties,2015,October,Number,665
+921,Injured Casualties,2015,November,Number,668
+922,Injured Casualties,2015,December,Number,727
+924,Injured Casualties,2016,January,Number,696
+925,Injured Casualties,2016,February,Number,610
+926,Injured Casualties,2016,March,Number,597
+927,Injured Casualties,2016,April,Number,530
+928,Injured Casualties,2016,May,Number,622
+929,Injured Casualties,2016,June,Number,642
+930,Injured Casualties,2016,July,Number,722
+931,Injured Casualties,2016,August,Number,626
+932,Injured Casualties,2016,September,Number,720
+933,Injured Casualties,2016,October,Number,618
+934,Injured Casualties,2016,November,Number,650
+935,Injured Casualties,2016,December,Number,677
+937,Injured Casualties,2017,January,Number,576
+938,Injured Casualties,2017,February,Number,522
+939,Injured Casualties,2017,March,Number,672
+940,Injured Casualties,2017,April,Number,536
+941,Injured Casualties,2017,May,Number,704
+942,Injured Casualties,2017,June,Number,623
+943,Injured Casualties,2017,July,Number,655
+944,Injured Casualties,2017,August,Number,635
+945,Injured Casualties,2017,September,Number,698
+946,Injured Casualties,2017,October,Number,636
+947,Injured Casualties,2017,November,Number,805
+948,Injured Casualties,2017,December,Number,716
+950,Injured Casualties,2018,January,Number,598
+951,Injured Casualties,2018,February,Number,575
+952,Injured Casualties,2018,March,Number,595
+953,Injured Casualties,2018,April,Number,602
+954,Injured Casualties,2018,May,Number,733
+955,Injured Casualties,2018,June,Number,706
+956,Injured Casualties,2018,July,Number,730
+957,Injured Casualties,2018,August,Number,634
+958,Injured Casualties,2018,September,Number,685
+959,Injured Casualties,2018,October,Number,723
+960,Injured Casualties,2018,November,Number,725
+961,Injured Casualties,2018,December,Number,705
+963,Injured Casualties,2019,January,Number,625
+964,Injured Casualties,2019,February,Number,506
+965,Injured Casualties,2019,March,Number,644
+966,Injured Casualties,2019,April,Number,526
+967,Injured Casualties,2019,May,Number,616
+968,Injured Casualties,2019,June,Number,647
+969,Injured Casualties,2019,July,Number,680
+970,Injured Casualties,2019,August,Number,653
+971,Injured Casualties,2019,September,Number,719
+972,Injured Casualties,2019,October,Number,679
+973,Injured Casualties,2019,November,Number,691
+974,Injured Casualties,2019,December,Number,593
+976,All Killed and Injured Casualties,2005,January,Number,716
+977,All Killed and Injured Casualties,2005,February,Number,628
+978,All Killed and Injured Casualties,2005,March,Number,744
+979,All Killed and Injured Casualties,2005,April,Number,749
+980,All Killed and Injured Casualties,2005,May,Number,841
+981,All Killed and Injured Casualties,2005,June,Number,774
+982,All Killed and Injured Casualties,2005,July,Number,927
+983,All Killed and Injured Casualties,2005,August,Number,900
+984,All Killed and Injured Casualties,2005,September,Number,857
+985,All Killed and Injured Casualties,2005,October,Number,936
+986,All Killed and Injured Casualties,2005,November,Number,860
+987,All Killed and Injured Casualties,2005,December,Number,782
+989,All Killed and Injured Casualties,2006,January,Number,763
+990,All Killed and Injured Casualties,2006,February,Number,578
+991,All Killed and Injured Casualties,2006,March,Number,660
+992,All Killed and Injured Casualties,2006,April,Number,639
+993,All Killed and Injured Casualties,2006,May,Number,739
+994,All Killed and Injured Casualties,2006,June,Number,706
+995,All Killed and Injured Casualties,2006,July,Number,800
+996,All Killed and Injured Casualties,2006,August,Number,784
+997,All Killed and Injured Casualties,2006,September,Number,769
+998,All Killed and Injured Casualties,2006,October,Number,829
+999,All Killed and Injured Casualties,2006,November,Number,777
+1000,All Killed and Injured Casualties,2006,December,Number,896
+1002,All Killed and Injured Casualties,2007,January,Number,661
+1003,All Killed and Injured Casualties,2007,February,Number,589
+1004,All Killed and Injured Casualties,2007,March,Number,700
+1005,All Killed and Injured Casualties,2007,April,Number,595
+1006,All Killed and Injured Casualties,2007,May,Number,649
+1007,All Killed and Injured Casualties,2007,June,Number,722
+1008,All Killed and Injured Casualties,2007,July,Number,752
+1009,All Killed and Injured Casualties,2007,August,Number,769
+1010,All Killed and Injured Casualties,2007,September,Number,685
+1011,All Killed and Injured Casualties,2007,October,Number,680
+1012,All Killed and Injured Casualties,2007,November,Number,684
+1013,All Killed and Injured Casualties,2007,December,Number,658
+1015,All Killed and Injured Casualties,2008,January,Number,843
+1016,All Killed and Injured Casualties,2008,February,Number,877
+1017,All Killed and Injured Casualties,2008,March,Number,828
+1018,All Killed and Injured Casualties,2008,April,Number,802
+1019,All Killed and Injured Casualties,2008,May,Number,938
+1020,All Killed and Injured Casualties,2008,June,Number,822
+1021,All Killed and Injured Casualties,2008,July,Number,796
+1022,All Killed and Injured Casualties,2008,August,Number,785
+1023,All Killed and Injured Casualties,2008,September,Number,797
+1024,All Killed and Injured Casualties,2008,October,Number,837
+1025,All Killed and Injured Casualties,2008,November,Number,855
+1026,All Killed and Injured Casualties,2008,December,Number,857
+1028,All Killed and Injured Casualties,2009,January,Number,830
+1029,All Killed and Injured Casualties,2009,February,Number,603
+1030,All Killed and Injured Casualties,2009,March,Number,779
+1031,All Killed and Injured Casualties,2009,April,Number,829
+1032,All Killed and Injured Casualties,2009,May,Number,855
+1033,All Killed and Injured Casualties,2009,June,Number,778
+1034,All Killed and Injured Casualties,2009,July,Number,995
+1035,All Killed and Injured Casualties,2009,August,Number,899
+1036,All Killed and Injured Casualties,2009,September,Number,826
+1037,All Killed and Injured Casualties,2009,October,Number,878
+1038,All Killed and Injured Casualties,2009,November,Number,903
+1039,All Killed and Injured Casualties,2009,December,Number,805
+1041,All Killed and Injured Casualties,2010,January,Number,586
+1042,All Killed and Injured Casualties,2010,February,Number,636
+1043,All Killed and Injured Casualties,2010,March,Number,698
+1044,All Killed and Injured Casualties,2010,April,Number,706
+1045,All Killed and Injured Casualties,2010,May,Number,783
+1046,All Killed and Injured Casualties,2010,June,Number,680
+1047,All Killed and Injured Casualties,2010,July,Number,776
+1048,All Killed and Injured Casualties,2010,August,Number,766
+1049,All Killed and Injured Casualties,2010,September,Number,814
+1050,All Killed and Injured Casualties,2010,October,Number,889
+1051,All Killed and Injured Casualties,2010,November,Number,731
+1052,All Killed and Injured Casualties,2010,December,Number,417
+1054,All Killed and Injured Casualties,2011,January,Number,569
+1055,All Killed and Injured Casualties,2011,February,Number,558
+1056,All Killed and Injured Casualties,2011,March,Number,578
+1057,All Killed and Injured Casualties,2011,April,Number,555
+1058,All Killed and Injured Casualties,2011,May,Number,538
+1059,All Killed and Injured Casualties,2011,June,Number,661
+1060,All Killed and Injured Casualties,2011,July,Number,704
+1061,All Killed and Injured Casualties,2011,August,Number,700
+1062,All Killed and Injured Casualties,2011,September,Number,652
+1063,All Killed and Injured Casualties,2011,October,Number,674
+1064,All Killed and Injured Casualties,2011,November,Number,673
+1065,All Killed and Injured Casualties,2011,December,Number,559
+1067,All Killed and Injured Casualties,2012,January,Number,652
+1068,All Killed and Injured Casualties,2012,February,Number,609
+1069,All Killed and Injured Casualties,2012,March,Number,719
+1070,All Killed and Injured Casualties,2012,April,Number,710
+1071,All Killed and Injured Casualties,2012,May,Number,643
+1072,All Killed and Injured Casualties,2012,June,Number,708
+1073,All Killed and Injured Casualties,2012,July,Number,694
+1074,All Killed and Injured Casualties,2012,August,Number,682
+1075,All Killed and Injured Casualties,2012,September,Number,649
+1076,All Killed and Injured Casualties,2012,October,Number,733
+1077,All Killed and Injured Casualties,2012,November,Number,678
+1078,All Killed and Injured Casualties,2012,December,Number,627
+1080,All Killed and Injured Casualties,2013,January,Number,642
+1081,All Killed and Injured Casualties,2013,February,Number,505
+1082,All Killed and Injured Casualties,2013,March,Number,538
+1083,All Killed and Injured Casualties,2013,April,Number,464
+1084,All Killed and Injured Casualties,2013,May,Number,550
+1085,All Killed and Injured Casualties,2013,June,Number,600
+1086,All Killed and Injured Casualties,2013,July,Number,695
+1087,All Killed and Injured Casualties,2013,August,Number,619
+1088,All Killed and Injured Casualties,2013,September,Number,618
+1089,All Killed and Injured Casualties,2013,October,Number,648
+1090,All Killed and Injured Casualties,2013,November,Number,575
+1091,All Killed and Injured Casualties,2013,December,Number,614
+1093,All Killed and Injured Casualties,2014,January,Number,652
+1094,All Killed and Injured Casualties,2014,February,Number,590
+1095,All Killed and Injured Casualties,2014,March,Number,590
+1096,All Killed and Injured Casualties,2014,April,Number,656
+1097,All Killed and Injured Casualties,2014,May,Number,671
+1098,All Killed and Injured Casualties,2014,June,Number,698
+1099,All Killed and Injured Casualties,2014,July,Number,703
+1100,All Killed and Injured Casualties,2014,August,Number,756
+1101,All Killed and Injured Casualties,2014,September,Number,692
+1102,All Killed and Injured Casualties,2014,October,Number,743
+1103,All Killed and Injured Casualties,2014,November,Number,811
+1104,All Killed and Injured Casualties,2014,December,Number,709
+1106,All Killed and Injured Casualties,2015,January,Number,690
+1107,All Killed and Injured Casualties,2015,February,Number,569
+1108,All Killed and Injured Casualties,2015,March,Number,654
+1109,All Killed and Injured Casualties,2015,April,Number,542
+1110,All Killed and Injured Casualties,2015,May,Number,702
+1111,All Killed and Injured Casualties,2015,June,Number,659
+1112,All Killed and Injured Casualties,2015,July,Number,686
+1113,All Killed and Injured Casualties,2015,August,Number,690
+1114,All Killed and Injured Casualties,2015,September,Number,705
+1115,All Killed and Injured Casualties,2015,October,Number,676
+1116,All Killed and Injured Casualties,2015,November,Number,682
+1117,All Killed and Injured Casualties,2015,December,Number,747
+1119,All Killed and Injured Casualties,2016,January,Number,711
+1120,All Killed and Injured Casualties,2016,February,Number,620
+1121,All Killed and Injured Casualties,2016,March,Number,614
+1122,All Killed and Injured Casualties,2016,April,Number,544
+1123,All Killed and Injured Casualties,2016,May,Number,642
+1124,All Killed and Injured Casualties,2016,June,Number,654
+1125,All Killed and Injured Casualties,2016,July,Number,743
+1126,All Killed and Injured Casualties,2016,August,Number,639
+1127,All Killed and Injured Casualties,2016,September,Number,738
+1128,All Killed and Injured Casualties,2016,October,Number,638
+1129,All Killed and Injured Casualties,2016,November,Number,659
+1130,All Killed and Injured Casualties,2016,December,Number,694
+1132,All Killed and Injured Casualties,2017,January,Number,592
+1133,All Killed and Injured Casualties,2017,February,Number,533
+1134,All Killed and Injured Casualties,2017,March,Number,692
+1135,All Killed and Injured Casualties,2017,April,Number,543
+1136,All Killed and Injured Casualties,2017,May,Number,712
+1137,All Killed and Injured Casualties,2017,June,Number,637
+1138,All Killed and Injured Casualties,2017,July,Number,671
+1139,All Killed and Injured Casualties,2017,August,Number,645
+1140,All Killed and Injured Casualties,2017,September,Number,711
+1141,All Killed and Injured Casualties,2017,October,Number,647
+1142,All Killed and Injured Casualties,2017,November,Number,819
+1143,All Killed and Injured Casualties,2017,December,Number,732
+1145,All Killed and Injured Casualties,2018,January,Number,610
+1146,All Killed and Injured Casualties,2018,February,Number,585
+1147,All Killed and Injured Casualties,2018,March,Number,609
+1148,All Killed and Injured Casualties,2018,April,Number,619
+1149,All Killed and Injured Casualties,2018,May,Number,737
+1150,All Killed and Injured Casualties,2018,June,Number,722
+1151,All Killed and Injured Casualties,2018,July,Number,738
+1152,All Killed and Injured Casualties,2018,August,Number,646
+1153,All Killed and Injured Casualties,2018,September,Number,695
+1154,All Killed and Injured Casualties,2018,October,Number,732
+1155,All Killed and Injured Casualties,2018,November,Number,737
+1156,All Killed and Injured Casualties,2018,December,Number,720
+1158,All Killed and Injured Casualties,2019,January,Number,639
+1159,All Killed and Injured Casualties,2019,February,Number,520
+1160,All Killed and Injured Casualties,2019,March,Number,655
+1161,All Killed and Injured Casualties,2019,April,Number,535
+1162,All Killed and Injured Casualties,2019,May,Number,627
+1163,All Killed and Injured Casualties,2019,June,Number,658
+1164,All Killed and Injured Casualties,2019,July,Number,688
+1165,All Killed and Injured Casualties,2019,August,Number,661
+1166,All Killed and Injured Casualties,2019,September,Number,737
+1167,All Killed and Injured Casualties,2019,October,Number,689
+1168,All Killed and Injured Casualties,2019,November,Number,702
+1169,All Killed and Injured Casualties,2019,December,Number,608
