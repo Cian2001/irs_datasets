@@ -1,6 +1,4 @@
 ,Statistic,Year,Age Group,Sex,Road User Type,UNIT,VALUE
-0,Killed Casualties,2005,All ages,Male,All road users,Number,286
-8,Killed Casualties,2005,All ages,Female,All road users,Number,102
 16,Killed Casualties,2005,0 - 5 years,Male,All road users,Number,3
 24,Killed Casualties,2005,0 - 5 years,Female,All road users,Number,0
 32,Killed Casualties,2005,6 - 9 years,Male,All road users,Number,1
@@ -25,8 +23,6 @@
 184,Killed Casualties,2005,65 years and over,Female,All road users,Number,22
 192,Killed Casualties,2005,Age unknown,Male,All road users,Number,1
 200,Killed Casualties,2005,Age unknown,Female,All road users,Number,1
-208,Killed Casualties,2006,All ages,Male,All road users,Number,262
-216,Killed Casualties,2006,All ages,Female,All road users,Number,97
 224,Killed Casualties,2006,0 - 5 years,Male,All road users,Number,5
 232,Killed Casualties,2006,0 - 5 years,Female,All road users,Number,4
 240,Killed Casualties,2006,6 - 9 years,Male,All road users,Number,3
@@ -51,8 +47,6 @@
 392,Killed Casualties,2006,65 years and over,Female,All road users,Number,32
 400,Killed Casualties,2006,Age unknown,Male,All road users,Number,0
 408,Killed Casualties,2006,Age unknown,Female,All road users,Number,0
-416,Killed Casualties,2007,All ages,Male,All road users,Number,250
-424,Killed Casualties,2007,All ages,Female,All road users,Number,85
 432,Killed Casualties,2007,0 - 5 years,Male,All road users,Number,2
 440,Killed Casualties,2007,0 - 5 years,Female,All road users,Number,6
 448,Killed Casualties,2007,6 - 9 years,Male,All road users,Number,0
@@ -77,8 +71,6 @@
 600,Killed Casualties,2007,65 years and over,Female,All road users,Number,24
 608,Killed Casualties,2007,Age unknown,Male,All road users,Number,5
 616,Killed Casualties,2007,Age unknown,Female,All road users,Number,0
-624,Killed Casualties,2008,All ages,Male,All road users,Number,199
-632,Killed Casualties,2008,All ages,Female,All road users,Number,75
 640,Killed Casualties,2008,0 - 5 years,Male,All road users,Number,3
 648,Killed Casualties,2008,0 - 5 years,Female,All road users,Number,1
 656,Killed Casualties,2008,6 - 9 years,Male,All road users,Number,3
@@ -103,8 +95,6 @@
 808,Killed Casualties,2008,65 years and over,Female,All road users,Number,19
 816,Killed Casualties,2008,Age unknown,Male,All road users,Number,1
 824,Killed Casualties,2008,Age unknown,Female,All road users,Number,0
-832,Killed Casualties,2009,All ages,Male,All road users,Number,182
-840,Killed Casualties,2009,All ages,Female,All road users,Number,56
 848,Killed Casualties,2009,0 - 5 years,Male,All road users,Number,5
 856,Killed Casualties,2009,0 - 5 years,Female,All road users,Number,2
 864,Killed Casualties,2009,6 - 9 years,Male,All road users,Number,1
@@ -129,8 +119,6 @@
 1016,Killed Casualties,2009,65 years and over,Female,All road users,Number,12
 1024,Killed Casualties,2009,Age unknown,Male,All road users,Number,0
 1032,Killed Casualties,2009,Age unknown,Female,All road users,Number,0
-1040,Killed Casualties,2010,All ages,Male,All road users,Number,161
-1048,Killed Casualties,2010,All ages,Female,All road users,Number,46
 1056,Killed Casualties,2010,0 - 5 years,Male,All road users,Number,3
 1064,Killed Casualties,2010,0 - 5 years,Female,All road users,Number,0
 1072,Killed Casualties,2010,6 - 9 years,Male,All road users,Number,2
@@ -155,8 +143,6 @@
 1224,Killed Casualties,2010,65 years and over,Female,All road users,Number,8
 1232,Killed Casualties,2010,Age unknown,Male,All road users,Number,0
 1240,Killed Casualties,2010,Age unknown,Female,All road users,Number,0
-1248,Killed Casualties,2011,All ages,Male,All road users,Number,130
-1256,Killed Casualties,2011,All ages,Female,All road users,Number,56
 1264,Killed Casualties,2011,0 - 5 years,Male,All road users,Number,2
 1272,Killed Casualties,2011,0 - 5 years,Female,All road users,Number,0
 1280,Killed Casualties,2011,6 - 9 years,Male,All road users,Number,2
@@ -181,8 +167,6 @@
 1432,Killed Casualties,2011,65 years and over,Female,All road users,Number,19
 1440,Killed Casualties,2011,Age unknown,Male,All road users,Number,0
 1448,Killed Casualties,2011,Age unknown,Female,All road users,Number,0
-1456,Killed Casualties,2012,All ages,Male,All road users,Number,108
-1464,Killed Casualties,2012,All ages,Female,All road users,Number,54
 1472,Killed Casualties,2012,0 - 5 years,Male,All road users,Number,0
 1480,Killed Casualties,2012,0 - 5 years,Female,All road users,Number,2
 1488,Killed Casualties,2012,6 - 9 years,Male,All road users,Number,1
@@ -207,8 +191,6 @@
 1640,Killed Casualties,2012,65 years and over,Female,All road users,Number,19
 1648,Killed Casualties,2012,Age unknown,Male,All road users,Number,0
 1656,Killed Casualties,2012,Age unknown,Female,All road users,Number,0
-1664,Killed Casualties,2013,All ages,Male,All road users,Number,142
-1672,Killed Casualties,2013,All ages,Female,All road users,Number,46
 1680,Killed Casualties,2013,0 - 5 years,Male,All road users,Number,1
 1688,Killed Casualties,2013,0 - 5 years,Female,All road users,Number,3
 1696,Killed Casualties,2013,6 - 9 years,Male,All road users,Number,0
@@ -233,8 +215,6 @@
 1848,Killed Casualties,2013,65 years and over,Female,All road users,Number,15
 1856,Killed Casualties,2013,Age unknown,Male,All road users,Number,0
 1864,Killed Casualties,2013,Age unknown,Female,All road users,Number,0
-1872,Killed Casualties,2014,All ages,Male,All road users,Number,132
-1880,Killed Casualties,2014,All ages,Female,All road users,Number,58
 1888,Killed Casualties,2014,0 - 5 years,Male,All road users,Number,2
 1896,Killed Casualties,2014,0 - 5 years,Female,All road users,Number,2
 1904,Killed Casualties,2014,6 - 9 years,Male,All road users,Number,3
@@ -259,8 +239,6 @@
 2056,Killed Casualties,2014,65 years and over,Female,All road users,Number,17
 2064,Killed Casualties,2014,Age unknown,Male,All road users,Number,1
 2072,Killed Casualties,2014,Age unknown,Female,All road users,Number,0
-2080,Killed Casualties,2015,All ages,Male,All road users,Number,122
-2088,Killed Casualties,2015,All ages,Female,All road users,Number,40
 2096,Killed Casualties,2015,0 - 5 years,Male,All road users,Number,1
 2104,Killed Casualties,2015,0 - 5 years,Female,All road users,Number,1
 2112,Killed Casualties,2015,6 - 9 years,Male,All road users,Number,0
@@ -285,8 +263,6 @@
 2264,Killed Casualties,2015,65 years and over,Female,All road users,Number,8
 2272,Killed Casualties,2015,Age unknown,Male,All road users,Number,0
 2280,Killed Casualties,2015,Age unknown,Female,All road users,Number,0
-2288,Killed Casualties,2016,All ages,Male,All road users,Number,138
-2296,Killed Casualties,2016,All ages,Female,All road users,Number,48
 2304,Killed Casualties,2016,0 - 5 years,Male,All road users,Number,1
 2312,Killed Casualties,2016,0 - 5 years,Female,All road users,Number,1
 2320,Killed Casualties,2016,6 - 9 years,Male,All road users,Number,0
@@ -311,8 +287,6 @@
 2472,Killed Casualties,2016,65 years and over,Female,All road users,Number,17
 2480,Killed Casualties,2016,Age unknown,Male,All road users,Number,0
 2488,Killed Casualties,2016,Age unknown,Female,All road users,Number,0
-2496,Killed Casualties,2017,All ages,Male,All road users,Number,116
-2504,Killed Casualties,2017,All ages,Female,All road users,Number,40
 2512,Killed Casualties,2017,0 - 5 years,Male,All road users,Number,0
 2520,Killed Casualties,2017,0 - 5 years,Female,All road users,Number,1
 2528,Killed Casualties,2017,6 - 9 years,Male,All road users,Number,3
@@ -337,8 +311,6 @@
 2680,Killed Casualties,2017,65 years and over,Female,All road users,Number,18
 2688,Killed Casualties,2017,Age unknown,Male,All road users,Number,0
 2696,Killed Casualties,2017,Age unknown,Female,All road users,Number,0
-2704,Killed Casualties,2018,All ages,Male,All road users,Number,109
-2712,Killed Casualties,2018,All ages,Female,All road users,Number,30
 2720,Killed Casualties,2018,0 - 5 years,Male,All road users,Number,0
 2728,Killed Casualties,2018,0 - 5 years,Female,All road users,Number,1
 2736,Killed Casualties,2018,6 - 9 years,Male,All road users,Number,0
@@ -363,8 +335,6 @@
 2888,Killed Casualties,2018,65 years and over,Female,All road users,Number,10
 2896,Killed Casualties,2018,Age unknown,Male,All road users,Number,0
 2904,Killed Casualties,2018,Age unknown,Female,All road users,Number,0
-2912,Killed Casualties,2019,All ages,Male,All road users,Number,105
-2920,Killed Casualties,2019,All ages,Female,All road users,Number,35
 2928,Killed Casualties,2019,0 - 5 years,Male,All road users,Number,2
 2936,Killed Casualties,2019,0 - 5 years,Female,All road users,Number,0
 2944,Killed Casualties,2019,6 - 9 years,Male,All road users,Number,1
@@ -389,8 +359,6 @@
 3096,Killed Casualties,2019,65 years and over,Female,All road users,Number,15
 3104,Killed Casualties,2019,Age unknown,Male,All road users,Number,0
 3112,Killed Casualties,2019,Age unknown,Female,All road users,Number,0
-3120,Injured Cassualties,2005,All ages,Male,All road users,Number,4688
-3128,Injured Cassualties,2005,All ages,Female,All road users,Number,3131
 3136,Injured Cassualties,2005,0 - 5 years,Male,All road users,Number,93
 3144,Injured Cassualties,2005,0 - 5 years,Female,All road users,Number,72
 3152,Injured Cassualties,2005,6 - 9 years,Male,All road users,Number,96
@@ -415,8 +383,6 @@
 3304,Injured Cassualties,2005,65 years and over,Female,All road users,Number,248
 3312,Injured Cassualties,2005,Age unknown,Male,All road users,Number,129
 3320,Injured Cassualties,2005,Age unknown,Female,All road users,Number,100
-3328,Injured Cassualties,2006,All ages,Male,All road users,Number,4466
-3336,Injured Cassualties,2006,All ages,Female,All road users,Number,3268
 3344,Injured Cassualties,2006,0 - 5 years,Male,All road users,Number,89
 3352,Injured Cassualties,2006,0 - 5 years,Female,All road users,Number,73
 3360,Injured Cassualties,2006,6 - 9 years,Male,All road users,Number,80
@@ -441,8 +407,6 @@
 3512,Injured Cassualties,2006,65 years and over,Female,All road users,Number,269
 3520,Injured Cassualties,2006,Age unknown,Male,All road users,Number,135
 3528,Injured Cassualties,2006,Age unknown,Female,All road users,Number,111
-3536,Injured Cassualties,2007,All ages,Male,All road users,Number,4124
-3544,Injured Cassualties,2007,All ages,Female,All road users,Number,3157
 3552,Injured Cassualties,2007,0 - 5 years,Male,All road users,Number,101
 3560,Injured Cassualties,2007,0 - 5 years,Female,All road users,Number,96
 3568,Injured Cassualties,2007,6 - 9 years,Male,All road users,Number,101
@@ -467,8 +431,6 @@
 3720,Injured Cassualties,2007,65 years and over,Female,All road users,Number,246
 3728,Injured Cassualties,2007,Age unknown,Male,All road users,Number,78
 3736,Injured Cassualties,2007,Age unknown,Female,All road users,Number,57
-3744,Injured Cassualties,2008,All ages,Male,All road users,Number,5236
-3752,Injured Cassualties,2008,All ages,Female,All road users,Number,3908
 3760,Injured Cassualties,2008,0 - 5 years,Male,All road users,Number,154
 3768,Injured Cassualties,2008,0 - 5 years,Female,All road users,Number,124
 3776,Injured Cassualties,2008,6 - 9 years,Male,All road users,Number,131
@@ -493,8 +455,6 @@
 3928,Injured Cassualties,2008,65 years and over,Female,All road users,Number,298
 3936,Injured Cassualties,2008,Age unknown,Male,All road users,Number,574
 3944,Injured Cassualties,2008,Age unknown,Female,All road users,Number,356
-3952,Injured Cassualties,2009,All ages,Male,All road users,Number,5242
-3960,Injured Cassualties,2009,All ages,Female,All road users,Number,3962
 3968,Injured Cassualties,2009,0 - 5 years,Male,All road users,Number,124
 3976,Injured Cassualties,2009,0 - 5 years,Female,All road users,Number,124
 3984,Injured Cassualties,2009,6 - 9 years,Male,All road users,Number,127
@@ -519,8 +479,6 @@
 4136,Injured Cassualties,2009,65 years and over,Female,All road users,Number,313
 4144,Injured Cassualties,2009,Age unknown,Male,All road users,Number,165
 4152,Injured Cassualties,2009,Age unknown,Female,All road users,Number,84
-4160,Injured Cassualties,2010,All ages,Male,All road users,Number,4410
-4168,Injured Cassualties,2010,All ages,Female,All road users,Number,3440
 4176,Injured Cassualties,2010,0 - 5 years,Male,All road users,Number,121
 4184,Injured Cassualties,2010,0 - 5 years,Female,All road users,Number,109
 4192,Injured Cassualties,2010,6 - 9 years,Male,All road users,Number,107
@@ -545,8 +503,6 @@
 4344,Injured Cassualties,2010,65 years and over,Female,All road users,Number,266
 4352,Injured Cassualties,2010,Age unknown,Male,All road users,Number,42
 4360,Injured Cassualties,2010,Age unknown,Female,All road users,Number,26
-4368,Injured Cassualties,2011,All ages,Male,All road users,Number,3969
-4376,Injured Cassualties,2011,All ages,Female,All road users,Number,2936
 4384,Injured Cassualties,2011,0 - 5 years,Male,All road users,Number,98
 4392,Injured Cassualties,2011,0 - 5 years,Female,All road users,Number,93
 4400,Injured Cassualties,2011,6 - 9 years,Male,All road users,Number,111
@@ -571,8 +527,6 @@
 4552,Injured Cassualties,2011,65 years and over,Female,All road users,Number,260
 4560,Injured Cassualties,2011,Age unknown,Male,All road users,Number,46
 4568,Injured Cassualties,2011,Age unknown,Female,All road users,Number,22
-4576,Injured Cassualties,2012,All ages,Male,All road users,Number,4425
-4584,Injured Cassualties,2012,All ages,Female,All road users,Number,3250
 4592,Injured Cassualties,2012,0 - 5 years,Male,All road users,Number,126
 4600,Injured Cassualties,2012,0 - 5 years,Female,All road users,Number,88
 4608,Injured Cassualties,2012,6 - 9 years,Male,All road users,Number,109
@@ -597,8 +551,6 @@
 4760,Injured Cassualties,2012,65 years and over,Female,All road users,Number,288
 4768,Injured Cassualties,2012,Age unknown,Male,All road users,Number,46
 4776,Injured Cassualties,2012,Age unknown,Female,All road users,Number,23
-4784,Injured Cassualties,2013,All ages,Male,All road users,Number,3816
-4792,Injured Cassualties,2013,All ages,Female,All road users,Number,2803
 4800,Injured Cassualties,2013,0 - 5 years,Male,All road users,Number,88
 4808,Injured Cassualties,2013,0 - 5 years,Female,All road users,Number,79
 4816,Injured Cassualties,2013,6 - 9 years,Male,All road users,Number,91
@@ -623,8 +575,6 @@
 4968,Injured Cassualties,2013,65 years and over,Female,All road users,Number,262
 4976,Injured Cassualties,2013,Age unknown,Male,All road users,Number,40
 4984,Injured Cassualties,2013,Age unknown,Female,All road users,Number,13
-4992,Injured Cassualties,2014,All ages,Male,All road users,Number,4512
-5000,Injured Cassualties,2014,All ages,Female,All road users,Number,3389
 5008,Injured Cassualties,2014,0 - 5 years,Male,All road users,Number,118
 5016,Injured Cassualties,2014,0 - 5 years,Female,All road users,Number,82
 5024,Injured Cassualties,2014,6 - 9 years,Male,All road users,Number,123
@@ -649,8 +599,6 @@
 5176,Injured Cassualties,2014,65 years and over,Female,All road users,Number,343
 5184,Injured Cassualties,2014,Age unknown,Male,All road users,Number,37
 5192,Injured Cassualties,2014,Age unknown,Female,All road users,Number,17
-5200,Injured Cassualties,2015,All ages,Male,All road users,Number,4375
-5208,Injured Cassualties,2015,All ages,Female,All road users,Number,3295
 5216,Injured Cassualties,2015,0 - 5 years,Male,All road users,Number,105
 5224,Injured Cassualties,2015,0 - 5 years,Female,All road users,Number,77
 5232,Injured Cassualties,2015,6 - 9 years,Male,All road users,Number,95
@@ -675,8 +623,6 @@
 5384,Injured Cassualties,2015,65 years and over,Female,All road users,Number,342
 5392,Injured Cassualties,2015,Age unknown,Male,All road users,Number,19
 5400,Injured Cassualties,2015,Age unknown,Female,All road users,Number,13
-5408,Injured Cassualties,2016,All ages,Male,All road users,Number,4344
-5416,Injured Cassualties,2016,All ages,Female,All road users,Number,3238
 5424,Injured Cassualties,2016,0 - 5 years,Male,All road users,Number,97
 5432,Injured Cassualties,2016,0 - 5 years,Female,All road users,Number,77
 5440,Injured Cassualties,2016,6 - 9 years,Male,All road users,Number,84
@@ -701,8 +647,6 @@
 5592,Injured Cassualties,2016,65 years and over,Female,All road users,Number,325
 5600,Injured Cassualties,2016,Age unknown,Male,All road users,Number,0
 5608,Injured Cassualties,2016,Age unknown,Female,All road users,Number,0
-5616,Injured Cassualties,2017,All ages,Male,All road users,Number,4476
-5624,Injured Cassualties,2017,All ages,Female,All road users,Number,3283
 5632,Injured Cassualties,2017,0 - 5 years,Male,All road users,Number,89
 5640,Injured Cassualties,2017,0 - 5 years,Female,All road users,Number,72
 5648,Injured Cassualties,2017,6 - 9 years,Male,All road users,Number,90
@@ -727,8 +671,6 @@
 5800,Injured Cassualties,2017,65 years and over,Female,All road users,Number,342
 5808,Injured Cassualties,2017,Age unknown,Male,All road users,Number,1
 5816,Injured Cassualties,2017,Age unknown,Female,All road users,Number,2
-5824,Injured Cassualties,2018,All ages,Male,All road users,Number,4581
-5832,Injured Cassualties,2018,All ages,Female,All road users,Number,3385
 5840,Injured Cassualties,2018,0 - 5 years,Male,All road users,Number,76
 5848,Injured Cassualties,2018,0 - 5 years,Female,All road users,Number,57
 5856,Injured Cassualties,2018,6 - 9 years,Male,All road users,Number,92
@@ -753,8 +695,6 @@
 6008,Injured Cassualties,2018,65 years and over,Female,All road users,Number,423
 6016,Injured Cassualties,2018,Age unknown,Male,All road users,Number,7
 6024,Injured Cassualties,2018,Age unknown,Female,All road users,Number,1
-6032,Injured Cassualties,2019,All ages,Male,All road users,Number,4430
-6040,Injured Cassualties,2019,All ages,Female,All road users,Number,3124
 6048,Injured Cassualties,2019,0 - 5 years,Male,All road users,Number,90
 6056,Injured Cassualties,2019,0 - 5 years,Female,All road users,Number,82
 6064,Injured Cassualties,2019,6 - 9 years,Male,All road users,Number,101
