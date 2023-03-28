@@ -1,0 +1,631 @@
+,Statistic,Year,Age Group,Sex,Road User Type,UNIT,VALUE
+1,Killed Casualties,2005,All ages,Male,Pedestrians,Number,51
+2,Killed Casualties,2005,All ages,Male,Pedal cyclists,Number,7
+3,Killed Casualties,2005,All ages,Male,Motor cyclists,Number,53
+4,Killed Casualties,2005,All ages,Male,All Car users,Number,148
+5,Killed Casualties,2005,All ages,Male,Car drivers,Number,104
+6,Killed Casualties,2005,All ages,Male,Car passengers,Number,44
+7,Killed Casualties,2005,All ages,Male,Other road users,Number,27
+9,Killed Casualties,2005,All ages,Female,Pedestrians,Number,21
+10,Killed Casualties,2005,All ages,Female,Pedal cyclists,Number,2
+11,Killed Casualties,2005,All ages,Female,Motor cyclists,Number,2
+12,Killed Casualties,2005,All ages,Female,All Car users,Number,70
+13,Killed Casualties,2005,All ages,Female,Car drivers,Number,38
+14,Killed Casualties,2005,All ages,Female,Car passengers,Number,32
+15,Killed Casualties,2005,All ages,Female,Other road users,Number,7
+209,Killed Casualties,2006,All ages,Male,Pedestrians,Number,48
+210,Killed Casualties,2006,All ages,Male,Pedal cyclists,Number,7
+211,Killed Casualties,2006,All ages,Male,Motor cyclists,Number,26
+212,Killed Casualties,2006,All ages,Male,All Car users,Number,156
+213,Killed Casualties,2006,All ages,Male,Car drivers,Number,109
+214,Killed Casualties,2006,All ages,Male,Car passengers,Number,47
+215,Killed Casualties,2006,All ages,Male,Other road users,Number,25
+217,Killed Casualties,2006,All ages,Female,Pedestrians,Number,22
+218,Killed Casualties,2006,All ages,Female,Pedal cyclists,Number,2
+219,Killed Casualties,2006,All ages,Female,Motor cyclists,Number,3
+220,Killed Casualties,2006,All ages,Female,All Car users,Number,67
+221,Killed Casualties,2006,All ages,Female,Car drivers,Number,36
+222,Killed Casualties,2006,All ages,Female,Car passengers,Number,31
+223,Killed Casualties,2006,All ages,Female,Other road users,Number,3
+417,Killed Casualties,2007,All ages,Male,Pedestrians,Number,52
+418,Killed Casualties,2007,All ages,Male,Pedal cyclists,Number,10
+419,Killed Casualties,2007,All ages,Male,Motor cyclists,Number,33
+420,Killed Casualties,2007,All ages,Male,All Car users,Number,118
+421,Killed Casualties,2007,All ages,Male,Car drivers,Number,85
+422,Killed Casualties,2007,All ages,Male,Car passengers,Number,33
+423,Killed Casualties,2007,All ages,Male,Other road users,Number,37
+425,Killed Casualties,2007,All ages,Female,Pedestrians,Number,28
+426,Killed Casualties,2007,All ages,Female,Pedal cyclists,Number,4
+427,Killed Casualties,2007,All ages,Female,Motor cyclists,Number,0
+428,Killed Casualties,2007,All ages,Female,All Car users,Number,53
+429,Killed Casualties,2007,All ages,Female,Car drivers,Number,25
+430,Killed Casualties,2007,All ages,Female,Car passengers,Number,28
+431,Killed Casualties,2007,All ages,Female,Other road users,Number,0
+625,Killed Casualties,2008,All ages,Male,Pedestrians,Number,31
+626,Killed Casualties,2008,All ages,Male,Pedal cyclists,Number,11
+627,Killed Casualties,2008,All ages,Male,Motor cyclists,Number,28
+628,Killed Casualties,2008,All ages,Male,All Car users,Number,102
+629,Killed Casualties,2008,All ages,Male,Car drivers,Number,75
+630,Killed Casualties,2008,All ages,Male,Car passengers,Number,27
+631,Killed Casualties,2008,All ages,Male,Other road users,Number,27
+633,Killed Casualties,2008,All ages,Female,Pedestrians,Number,17
+634,Killed Casualties,2008,All ages,Female,Pedal cyclists,Number,2
+635,Killed Casualties,2008,All ages,Female,Motor cyclists,Number,1
+636,Killed Casualties,2008,All ages,Female,All Car users,Number,55
+637,Killed Casualties,2008,All ages,Female,Car drivers,Number,34
+638,Killed Casualties,2008,All ages,Female,Car passengers,Number,21
+639,Killed Casualties,2008,All ages,Female,Other road users,Number,0
+833,Killed Casualties,2009,All ages,Male,Pedestrians,Number,26
+834,Killed Casualties,2009,All ages,Male,Pedal cyclists,Number,7
+835,Killed Casualties,2009,All ages,Male,Motor cyclists,Number,25
+836,Killed Casualties,2009,All ages,Male,All Car users,Number,106
+837,Killed Casualties,2009,All ages,Male,Car drivers,Number,76
+838,Killed Casualties,2009,All ages,Male,Car passengers,Number,30
+839,Killed Casualties,2009,All ages,Male,Other road users,Number,18
+841,Killed Casualties,2009,All ages,Female,Pedestrians,Number,14
+842,Killed Casualties,2009,All ages,Female,Pedal cyclists,Number,0
+843,Killed Casualties,2009,All ages,Female,Motor cyclists,Number,0
+844,Killed Casualties,2009,All ages,Female,All Car users,Number,40
+845,Killed Casualties,2009,All ages,Female,Car drivers,Number,31
+846,Killed Casualties,2009,All ages,Female,Car passengers,Number,9
+847,Killed Casualties,2009,All ages,Female,Other road users,Number,2
+1041,Killed Casualties,2010,All ages,Male,Pedestrians,Number,32
+1042,Killed Casualties,2010,All ages,Male,Pedal cyclists,Number,4
+1043,Killed Casualties,2010,All ages,Male,Motor cyclists,Number,16
+1044,Killed Casualties,2010,All ages,Male,All Car users,Number,94
+1045,Killed Casualties,2010,All ages,Male,Car drivers,Number,60
+1046,Killed Casualties,2010,All ages,Male,Car passengers,Number,34
+1047,Killed Casualties,2010,All ages,Male,Other road users,Number,15
+1049,Killed Casualties,2010,All ages,Female,Pedestrians,Number,12
+1050,Killed Casualties,2010,All ages,Female,Pedal cyclists,Number,1
+1051,Killed Casualties,2010,All ages,Female,Motor cyclists,Number,1
+1052,Killed Casualties,2010,All ages,Female,All Car users,Number,31
+1053,Killed Casualties,2010,All ages,Female,Car drivers,Number,19
+1054,Killed Casualties,2010,All ages,Female,Car passengers,Number,12
+1055,Killed Casualties,2010,All ages,Female,Other road users,Number,1
+1249,Killed Casualties,2011,All ages,Male,Pedestrians,Number,33
+1250,Killed Casualties,2011,All ages,Male,Pedal cyclists,Number,9
+1251,Killed Casualties,2011,All ages,Male,Motor cyclists,Number,17
+1252,Killed Casualties,2011,All ages,Male,All Car users,Number,57
+1253,Killed Casualties,2011,All ages,Male,Car drivers,Number,42
+1254,Killed Casualties,2011,All ages,Male,Car passengers,Number,15
+1255,Killed Casualties,2011,All ages,Male,Other road users,Number,14
+1257,Killed Casualties,2011,All ages,Female,Pedestrians,Number,14
+1258,Killed Casualties,2011,All ages,Female,Pedal cyclists,Number,0
+1259,Killed Casualties,2011,All ages,Female,Motor cyclists,Number,1
+1260,Killed Casualties,2011,All ages,Female,All Car users,Number,38
+1261,Killed Casualties,2011,All ages,Female,Car drivers,Number,23
+1262,Killed Casualties,2011,All ages,Female,Car passengers,Number,15
+1263,Killed Casualties,2011,All ages,Female,Other road users,Number,3
+1457,Killed Casualties,2012,All ages,Male,Pedestrians,Number,20
+1458,Killed Casualties,2012,All ages,Male,Pedal cyclists,Number,4
+1459,Killed Casualties,2012,All ages,Male,Motor cyclists,Number,16
+1460,Killed Casualties,2012,All ages,Male,All Car users,Number,53
+1461,Killed Casualties,2012,All ages,Male,Car drivers,Number,36
+1462,Killed Casualties,2012,All ages,Male,Car passengers,Number,17
+1463,Killed Casualties,2012,All ages,Male,Other road users,Number,15
+1465,Killed Casualties,2012,All ages,Female,Pedestrians,Number,9
+1466,Killed Casualties,2012,All ages,Female,Pedal cyclists,Number,4
+1467,Killed Casualties,2012,All ages,Female,Motor cyclists,Number,3
+1468,Killed Casualties,2012,All ages,Female,All Car users,Number,36
+1469,Killed Casualties,2012,All ages,Female,Car drivers,Number,28
+1470,Killed Casualties,2012,All ages,Female,Car passengers,Number,8
+1471,Killed Casualties,2012,All ages,Female,Other road users,Number,2
+1665,Killed Casualties,2013,All ages,Male,Pedestrians,Number,18
+1666,Killed Casualties,2013,All ages,Male,Pedal cyclists,Number,4
+1667,Killed Casualties,2013,All ages,Male,Motor cyclists,Number,24
+1668,Killed Casualties,2013,All ages,Male,All Car users,Number,81
+1669,Killed Casualties,2013,All ages,Male,Car drivers,Number,61
+1670,Killed Casualties,2013,All ages,Male,Car passengers,Number,20
+1671,Killed Casualties,2013,All ages,Male,Other road users,Number,15
+1673,Killed Casualties,2013,All ages,Female,Pedestrians,Number,13
+1674,Killed Casualties,2013,All ages,Female,Pedal cyclists,Number,1
+1675,Killed Casualties,2013,All ages,Female,Motor cyclists,Number,2
+1676,Killed Casualties,2013,All ages,Female,All Car users,Number,26
+1677,Killed Casualties,2013,All ages,Female,Car drivers,Number,18
+1678,Killed Casualties,2013,All ages,Female,Car passengers,Number,8
+1679,Killed Casualties,2013,All ages,Female,Other road users,Number,4
+1873,Killed Casualties,2014,All ages,Male,Pedestrians,Number,20
+1874,Killed Casualties,2014,All ages,Male,Pedal cyclists,Number,10
+1875,Killed Casualties,2014,All ages,Male,Motor cyclists,Number,23
+1876,Killed Casualties,2014,All ages,Male,All Car users,Number,68
+1877,Killed Casualties,2014,All ages,Male,Car drivers,Number,46
+1878,Killed Casualties,2014,All ages,Male,Car passengers,Number,22
+1879,Killed Casualties,2014,All ages,Male,Other road users,Number,11
+1881,Killed Casualties,2014,All ages,Female,Pedestrians,Number,21
+1882,Killed Casualties,2014,All ages,Female,Pedal cyclists,Number,3
+1883,Killed Casualties,2014,All ages,Female,Motor cyclists,Number,1
+1884,Killed Casualties,2014,All ages,Female,All Car users,Number,33
+1885,Killed Casualties,2014,All ages,Female,Car drivers,Number,20
+1886,Killed Casualties,2014,All ages,Female,Car passengers,Number,13
+1887,Killed Casualties,2014,All ages,Female,Other road users,Number,0
+2081,Killed Casualties,2015,All ages,Male,Pedestrians,Number,22
+2082,Killed Casualties,2015,All ages,Male,Pedal cyclists,Number,9
+2083,Killed Casualties,2015,All ages,Male,Motor cyclists,Number,21
+2084,Killed Casualties,2015,All ages,Male,All Car users,Number,60
+2085,Killed Casualties,2015,All ages,Male,Car drivers,Number,46
+2086,Killed Casualties,2015,All ages,Male,Car passengers,Number,14
+2087,Killed Casualties,2015,All ages,Male,Other road users,Number,10
+2089,Killed Casualties,2015,All ages,Female,Pedestrians,Number,9
+2090,Killed Casualties,2015,All ages,Female,Pedal cyclists,Number,1
+2091,Killed Casualties,2015,All ages,Female,Motor cyclists,Number,1
+2092,Killed Casualties,2015,All ages,Female,All Car users,Number,29
+2093,Killed Casualties,2015,All ages,Female,Car drivers,Number,17
+2094,Killed Casualties,2015,All ages,Female,Car passengers,Number,12
+2095,Killed Casualties,2015,All ages,Female,Other road users,Number,0
+2289,Killed Casualties,2016,All ages,Male,Pedestrians,Number,25
+2290,Killed Casualties,2016,All ages,Male,Pedal cyclists,Number,8
+2291,Killed Casualties,2016,All ages,Male,Motor cyclists,Number,20
+2292,Killed Casualties,2016,All ages,Male,All Car users,Number,77
+2293,Killed Casualties,2016,All ages,Male,Car drivers,Number,60
+2294,Killed Casualties,2016,All ages,Male,Car passengers,Number,17
+2295,Killed Casualties,2016,All ages,Male,Other road users,Number,8
+2297,Killed Casualties,2016,All ages,Female,Pedestrians,Number,10
+2298,Killed Casualties,2016,All ages,Female,Pedal cyclists,Number,2
+2299,Killed Casualties,2016,All ages,Female,Motor cyclists,Number,2
+2300,Killed Casualties,2016,All ages,Female,All Car users,Number,33
+2301,Killed Casualties,2016,All ages,Female,Car drivers,Number,16
+2302,Killed Casualties,2016,All ages,Female,Car passengers,Number,17
+2303,Killed Casualties,2016,All ages,Female,Other road users,Number,1
+2497,Killed Casualties,2017,All ages,Male,Pedestrians,Number,24
+2498,Killed Casualties,2017,All ages,Male,Pedal cyclists,Number,9
+2499,Killed Casualties,2017,All ages,Male,Motor cyclists,Number,19
+2500,Killed Casualties,2017,All ages,Male,All Car users,Number,52
+2501,Killed Casualties,2017,All ages,Male,Car drivers,Number,39
+2502,Killed Casualties,2017,All ages,Male,Car passengers,Number,13
+2503,Killed Casualties,2017,All ages,Male,Other road users,Number,12
+2505,Killed Casualties,2017,All ages,Female,Pedestrians,Number,7
+2506,Killed Casualties,2017,All ages,Female,Pedal cyclists,Number,5
+2507,Killed Casualties,2017,All ages,Female,Motor cyclists,Number,1
+2508,Killed Casualties,2017,All ages,Female,All Car users,Number,27
+2509,Killed Casualties,2017,All ages,Female,Car drivers,Number,15
+2510,Killed Casualties,2017,All ages,Female,Car passengers,Number,12
+2511,Killed Casualties,2017,All ages,Female,Other road users,Number,0
+2705,Killed Casualties,2018,All ages,Male,Pedestrians,Number,29
+2706,Killed Casualties,2018,All ages,Male,Pedal cyclists,Number,9
+2707,Killed Casualties,2018,All ages,Male,Motor cyclists,Number,15
+2708,Killed Casualties,2018,All ages,Male,All Car users,Number,47
+2709,Killed Casualties,2018,All ages,Male,Car drivers,Number,37
+2710,Killed Casualties,2018,All ages,Male,Car passengers,Number,10
+2711,Killed Casualties,2018,All ages,Male,Other road users,Number,9
+2713,Killed Casualties,2018,All ages,Female,Pedestrians,Number,13
+2714,Killed Casualties,2018,All ages,Female,Pedal cyclists,Number,0
+2715,Killed Casualties,2018,All ages,Female,Motor cyclists,Number,0
+2716,Killed Casualties,2018,All ages,Female,All Car users,Number,14
+2717,Killed Casualties,2018,All ages,Female,Car drivers,Number,8
+2718,Killed Casualties,2018,All ages,Female,Car passengers,Number,6
+2719,Killed Casualties,2018,All ages,Female,Other road users,Number,3
+2913,Killed Casualties,2019,All ages,Male,Pedestrians,Number,20
+2914,Killed Casualties,2019,All ages,Male,Pedal cyclists,Number,6
+2915,Killed Casualties,2019,All ages,Male,Motor cyclists,Number,16
+2916,Killed Casualties,2019,All ages,Male,All Car users,Number,55
+2917,Killed Casualties,2019,All ages,Male,Car drivers,Number,45
+2918,Killed Casualties,2019,All ages,Male,Car passengers,Number,10
+2919,Killed Casualties,2019,All ages,Male,Other road users,Number,8
+2921,Killed Casualties,2019,All ages,Female,Pedestrians,Number,7
+2922,Killed Casualties,2019,All ages,Female,Pedal cyclists,Number,2
+2923,Killed Casualties,2019,All ages,Female,Motor cyclists,Number,0
+2924,Killed Casualties,2019,All ages,Female,All Car users,Number,26
+2925,Killed Casualties,2019,All ages,Female,Car drivers,Number,21
+2926,Killed Casualties,2019,All ages,Female,Car passengers,Number,5
+2927,Killed Casualties,2019,All ages,Female,Other road users,Number,0
+3121,Injured Cassualties,2005,All ages,Male,Pedestrians,Number,512
+3122,Injured Cassualties,2005,All ages,Male,Pedal cyclists,Number,145
+3123,Injured Cassualties,2005,All ages,Male,Motor cyclists,Number,443
+3124,Injured Cassualties,2005,All ages,Male,All Car users,Number,2843
+3125,Injured Cassualties,2005,All ages,Male,Car drivers,Number,1977
+3126,Injured Cassualties,2005,All ages,Male,Car passengers,Number,866
+3127,Injured Cassualties,2005,All ages,Male,Other road users,Number,745
+3129,Injured Cassualties,2005,All ages,Female,Pedestrians,Number,398
+3130,Injured Cassualties,2005,All ages,Female,Pedal cyclists,Number,43
+3131,Injured Cassualties,2005,All ages,Female,Motor cyclists,Number,43
+3132,Injured Cassualties,2005,All ages,Female,All Car users,Number,2502
+3133,Injured Cassualties,2005,All ages,Female,Car drivers,Number,1549
+3134,Injured Cassualties,2005,All ages,Female,Car passengers,Number,953
+3135,Injured Cassualties,2005,All ages,Female,Other road users,Number,145
+3329,Injured Cassualties,2006,All ages,Male,Pedestrians,Number,492
+3330,Injured Cassualties,2006,All ages,Male,Pedal cyclists,Number,147
+3331,Injured Cassualties,2006,All ages,Male,Motor cyclists,Number,420
+3332,Injured Cassualties,2006,All ages,Male,All Car users,Number,2674
+3333,Injured Cassualties,2006,All ages,Male,Car drivers,Number,1888
+3334,Injured Cassualties,2006,All ages,Male,Car passengers,Number,786
+3335,Injured Cassualties,2006,All ages,Male,Other road users,Number,733
+3337,Injured Cassualties,2006,All ages,Female,Pedestrians,Number,384
+3338,Injured Cassualties,2006,All ages,Female,Pedal cyclists,Number,42
+3339,Injured Cassualties,2006,All ages,Female,Motor cyclists,Number,43
+3340,Injured Cassualties,2006,All ages,Female,All Car users,Number,2646
+3341,Injured Cassualties,2006,All ages,Female,Car drivers,Number,1640
+3342,Injured Cassualties,2006,All ages,Female,Car passengers,Number,1006
+3343,Injured Cassualties,2006,All ages,Female,Other road users,Number,153
+3537,Injured Cassualties,2007,All ages,Male,Pedestrians,Number,487
+3538,Injured Cassualties,2007,All ages,Male,Pedal cyclists,Number,187
+3539,Injured Cassualties,2007,All ages,Male,Motor cyclists,Number,329
+3540,Injured Cassualties,2007,All ages,Male,All Car users,Number,2508
+3541,Injured Cassualties,2007,All ages,Male,Car drivers,Number,1712
+3542,Injured Cassualties,2007,All ages,Male,Car passengers,Number,796
+3543,Injured Cassualties,2007,All ages,Male,Other road users,Number,613
+3545,Injured Cassualties,2007,All ages,Female,Pedestrians,Number,362
+3546,Injured Cassualties,2007,All ages,Female,Pedal cyclists,Number,59
+3547,Injured Cassualties,2007,All ages,Female,Motor cyclists,Number,28
+3548,Injured Cassualties,2007,All ages,Female,All Car users,Number,2597
+3549,Injured Cassualties,2007,All ages,Female,Car drivers,Number,1531
+3550,Injured Cassualties,2007,All ages,Female,Car passengers,Number,1066
+3551,Injured Cassualties,2007,All ages,Female,Other road users,Number,111
+3745,Injured Cassualties,2008,All ages,Male,Pedestrians,Number,612
+3746,Injured Cassualties,2008,All ages,Male,Pedal cyclists,Number,238
+3747,Injured Cassualties,2008,All ages,Male,Motor cyclists,Number,432
+3748,Injured Cassualties,2008,All ages,Male,All Car users,Number,3320
+3749,Injured Cassualties,2008,All ages,Male,Car drivers,Number,2190
+3750,Injured Cassualties,2008,All ages,Male,Car passengers,Number,1130
+3751,Injured Cassualties,2008,All ages,Male,Other road users,Number,634
+3753,Injured Cassualties,2008,All ages,Female,Pedestrians,Number,480
+3754,Injured Cassualties,2008,All ages,Female,Pedal cyclists,Number,81
+3755,Injured Cassualties,2008,All ages,Female,Motor cyclists,Number,36
+3756,Injured Cassualties,2008,All ages,Female,All Car users,Number,3186
+3757,Injured Cassualties,2008,All ages,Female,Car drivers,Number,1865
+3758,Injured Cassualties,2008,All ages,Female,Car passengers,Number,1321
+3759,Injured Cassualties,2008,All ages,Female,Other road users,Number,125
+3953,Injured Cassualties,2009,All ages,Male,Pedestrians,Number,592
+3954,Injured Cassualties,2009,All ages,Male,Pedal cyclists,Number,277
+3955,Injured Cassualties,2009,All ages,Male,Motor cyclists,Number,391
+3956,Injured Cassualties,2009,All ages,Male,All Car users,Number,3420
+3957,Injured Cassualties,2009,All ages,Male,Car drivers,Number,2155
+3958,Injured Cassualties,2009,All ages,Male,Car passengers,Number,1265
+3959,Injured Cassualties,2009,All ages,Male,Other road users,Number,562
+3961,Injured Cassualties,2009,All ages,Female,Pedestrians,Number,461
+3962,Injured Cassualties,2009,All ages,Female,Pedal cyclists,Number,77
+3963,Injured Cassualties,2009,All ages,Female,Motor cyclists,Number,29
+3964,Injured Cassualties,2009,All ages,Female,All Car users,Number,3280
+3965,Injured Cassualties,2009,All ages,Female,Car drivers,Number,1909
+3966,Injured Cassualties,2009,All ages,Female,Car passengers,Number,1371
+3967,Injured Cassualties,2009,All ages,Female,Other road users,Number,115
+4161,Injured Cassualties,2010,All ages,Male,Pedestrians,Number,512
+4162,Injured Cassualties,2010,All ages,Male,Pedal cyclists,Number,287
+4163,Injured Cassualties,2010,All ages,Male,Motor cyclists,Number,344
+4164,Injured Cassualties,2010,All ages,Male,All Car users,Number,2713
+4165,Injured Cassualties,2010,All ages,Male,Car drivers,Number,1702
+4166,Injured Cassualties,2010,All ages,Male,Car passengers,Number,1011
+4167,Injured Cassualties,2010,All ages,Male,Other road users,Number,554
+4169,Injured Cassualties,2010,All ages,Female,Pedestrians,Number,394
+4170,Injured Cassualties,2010,All ages,Female,Pedal cyclists,Number,94
+4171,Injured Cassualties,2010,All ages,Female,Motor cyclists,Number,27
+4172,Injured Cassualties,2010,All ages,Female,All Car users,Number,2801
+4173,Injured Cassualties,2010,All ages,Female,Car drivers,Number,1639
+4174,Injured Cassualties,2010,All ages,Female,Car passengers,Number,1162
+4175,Injured Cassualties,2010,All ages,Female,Other road users,Number,124
+4369,Injured Cassualties,2011,All ages,Male,Pedestrians,Number,534
+4370,Injured Cassualties,2011,All ages,Male,Pedal cyclists,Number,289
+4371,Injured Cassualties,2011,All ages,Male,Motor cyclists,Number,279
+4372,Injured Cassualties,2011,All ages,Male,All Car users,Number,2356
+4373,Injured Cassualties,2011,All ages,Male,Car drivers,Number,1481
+4374,Injured Cassualties,2011,All ages,Male,Car passengers,Number,875
+4375,Injured Cassualties,2011,All ages,Male,Other road users,Number,511
+4377,Injured Cassualties,2011,All ages,Female,Pedestrians,Number,383
+4378,Injured Cassualties,2011,All ages,Female,Pedal cyclists,Number,89
+4379,Injured Cassualties,2011,All ages,Female,Motor cyclists,Number,32
+4380,Injured Cassualties,2011,All ages,Female,All Car users,Number,2323
+4381,Injured Cassualties,2011,All ages,Female,Car drivers,Number,1365
+4382,Injured Cassualties,2011,All ages,Female,Car passengers,Number,958
+4383,Injured Cassualties,2011,All ages,Female,Other road users,Number,109
+4577,Injured Cassualties,2012,All ages,Male,Pedestrians,Number,572
+4578,Injured Cassualties,2012,All ages,Male,Pedal cyclists,Number,455
+4579,Injured Cassualties,2012,All ages,Male,Motor cyclists,Number,300
+4580,Injured Cassualties,2012,All ages,Male,All Car users,Number,2654
+4581,Injured Cassualties,2012,All ages,Male,Car drivers,Number,1640
+4582,Injured Cassualties,2012,All ages,Male,Car passengers,Number,1014
+4583,Injured Cassualties,2012,All ages,Male,Other road users,Number,444
+4585,Injured Cassualties,2012,All ages,Female,Pedestrians,Number,424
+4586,Injured Cassualties,2012,All ages,Female,Pedal cyclists,Number,158
+4587,Injured Cassualties,2012,All ages,Female,Motor cyclists,Number,29
+4588,Injured Cassualties,2012,All ages,Female,All Car users,Number,2540
+4589,Injured Cassualties,2012,All ages,Female,Car drivers,Number,1508
+4590,Injured Cassualties,2012,All ages,Female,Car passengers,Number,1032
+4591,Injured Cassualties,2012,All ages,Female,Other road users,Number,99
+4785,Injured Cassualties,2013,All ages,Male,Pedestrians,Number,499
+4786,Injured Cassualties,2013,All ages,Male,Pedal cyclists,Number,468
+4787,Injured Cassualties,2013,All ages,Male,Motor cyclists,Number,244
+4788,Injured Cassualties,2013,All ages,Male,All Car users,Number,2194
+4789,Injured Cassualties,2013,All ages,Male,Car drivers,Number,1353
+4790,Injured Cassualties,2013,All ages,Male,Car passengers,Number,841
+4791,Injured Cassualties,2013,All ages,Male,Other road users,Number,411
+4793,Injured Cassualties,2013,All ages,Female,Pedestrians,Number,381
+4794,Injured Cassualties,2013,All ages,Female,Pedal cyclists,Number,144
+4795,Injured Cassualties,2013,All ages,Female,Motor cyclists,Number,18
+4796,Injured Cassualties,2013,All ages,Female,All Car users,Number,2165
+4797,Injured Cassualties,2013,All ages,Female,Car drivers,Number,1295
+4798,Injured Cassualties,2013,All ages,Female,Car passengers,Number,870
+4799,Injured Cassualties,2013,All ages,Female,Other road users,Number,95
+4993,Injured Cassualties,2014,All ages,Male,Pedestrians,Number,604
+4994,Injured Cassualties,2014,All ages,Male,Pedal cyclists,Number,655
+4995,Injured Cassualties,2014,All ages,Male,Motor cyclists,Number,262
+4996,Injured Cassualties,2014,All ages,Male,All Car users,Number,2511
+4997,Injured Cassualties,2014,All ages,Male,Car drivers,Number,1617
+4998,Injured Cassualties,2014,All ages,Male,Car passengers,Number,894
+4999,Injured Cassualties,2014,All ages,Male,Other road users,Number,480
+5001,Injured Cassualties,2014,All ages,Female,Pedestrians,Number,455
+5002,Injured Cassualties,2014,All ages,Female,Pedal cyclists,Number,195
+5003,Injured Cassualties,2014,All ages,Female,Motor cyclists,Number,27
+5004,Injured Cassualties,2014,All ages,Female,All Car users,Number,2624
+5005,Injured Cassualties,2014,All ages,Female,Car drivers,Number,1485
+5006,Injured Cassualties,2014,All ages,Female,Car passengers,Number,1139
+5007,Injured Cassualties,2014,All ages,Female,Other road users,Number,88
+5201,Injured Cassualties,2015,All ages,Male,Pedestrians,Number,557
+5202,Injured Cassualties,2015,All ages,Male,Pedal cyclists,Number,692
+5203,Injured Cassualties,2015,All ages,Male,Motor cyclists,Number,300
+5204,Injured Cassualties,2015,All ages,Male,All Car users,Number,2362
+5205,Injured Cassualties,2015,All ages,Male,Car drivers,Number,1555
+5206,Injured Cassualties,2015,All ages,Male,Car passengers,Number,807
+5207,Injured Cassualties,2015,All ages,Male,Other road users,Number,464
+5209,Injured Cassualties,2015,All ages,Female,Pedestrians,Number,475
+5210,Injured Cassualties,2015,All ages,Female,Pedal cyclists,Number,228
+5211,Injured Cassualties,2015,All ages,Female,Motor cyclists,Number,31
+5212,Injured Cassualties,2015,All ages,Female,All Car users,Number,2456
+5213,Injured Cassualties,2015,All ages,Female,Car drivers,Number,1480
+5214,Injured Cassualties,2015,All ages,Female,Car passengers,Number,976
+5215,Injured Cassualties,2015,All ages,Female,Other road users,Number,105
+5409,Injured Cassualties,2016,All ages,Male,Pedestrians,Number,540
+5410,Injured Cassualties,2016,All ages,Male,Pedal cyclists,Number,693
+5411,Injured Cassualties,2016,All ages,Male,Motor cyclists,Number,333
+5412,Injured Cassualties,2016,All ages,Male,All Car users,Number,2277
+5413,Injured Cassualties,2016,All ages,Male,Car drivers,Number,1551
+5414,Injured Cassualties,2016,All ages,Male,Car passengers,Number,726
+5415,Injured Cassualties,2016,All ages,Male,Other road users,Number,501
+5417,Injured Cassualties,2016,All ages,Female,Pedestrians,Number,481
+5418,Injured Cassualties,2016,All ages,Female,Pedal cyclists,Number,253
+5419,Injured Cassualties,2016,All ages,Female,Motor cyclists,Number,31
+5420,Injured Cassualties,2016,All ages,Female,All Car users,Number,2387
+5421,Injured Cassualties,2016,All ages,Female,Car drivers,Number,1484
+5422,Injured Cassualties,2016,All ages,Female,Car passengers,Number,903
+5423,Injured Cassualties,2016,All ages,Female,Other road users,Number,86
+5617,Injured Cassualties,2017,All ages,Male,Pedestrians,Number,630
+5618,Injured Cassualties,2017,All ages,Male,Pedal cyclists,Number,783
+5619,Injured Cassualties,2017,All ages,Male,Motor cyclists,Number,323
+5620,Injured Cassualties,2017,All ages,Male,All Car users,Number,2285
+5621,Injured Cassualties,2017,All ages,Male,Car drivers,Number,1603
+5622,Injured Cassualties,2017,All ages,Male,Car passengers,Number,682
+5623,Injured Cassualties,2017,All ages,Male,Other road users,Number,455
+5625,Injured Cassualties,2017,All ages,Female,Pedestrians,Number,498
+5626,Injured Cassualties,2017,All ages,Female,Pedal cyclists,Number,275
+5627,Injured Cassualties,2017,All ages,Female,Motor cyclists,Number,31
+5628,Injured Cassualties,2017,All ages,Female,All Car users,Number,2387
+5629,Injured Cassualties,2017,All ages,Female,Car drivers,Number,1495
+5630,Injured Cassualties,2017,All ages,Female,Car passengers,Number,892
+5631,Injured Cassualties,2017,All ages,Female,Other road users,Number,92
+5825,Injured Cassualties,2018,All ages,Male,Pedestrians,Number,587
+5826,Injured Cassualties,2018,All ages,Male,Pedal cyclists,Number,802
+5827,Injured Cassualties,2018,All ages,Male,Motor cyclists,Number,426
+5828,Injured Cassualties,2018,All ages,Male,All Car users,Number,2234
+5829,Injured Cassualties,2018,All ages,Male,Car drivers,Number,1603
+5830,Injured Cassualties,2018,All ages,Male,Car passengers,Number,631
+5831,Injured Cassualties,2018,All ages,Male,Other road users,Number,532
+5833,Injured Cassualties,2018,All ages,Female,Pedestrians,Number,510
+5834,Injured Cassualties,2018,All ages,Female,Pedal cyclists,Number,261
+5835,Injured Cassualties,2018,All ages,Female,Motor cyclists,Number,41
+5836,Injured Cassualties,2018,All ages,Female,All Car users,Number,2438
+5837,Injured Cassualties,2018,All ages,Female,Car drivers,Number,1523
+5838,Injured Cassualties,2018,All ages,Female,Car passengers,Number,915
+5839,Injured Cassualties,2018,All ages,Female,Other road users,Number,135
+6033,Injured Cassualties,2019,All ages,Male,Pedestrians,Number,567
+6034,Injured Cassualties,2019,All ages,Male,Pedal cyclists,Number,873
+6035,Injured Cassualties,2019,All ages,Male,Motor cyclists,Number,403
+6036,Injured Cassualties,2019,All ages,Male,All Car users,Number,2097
+6037,Injured Cassualties,2019,All ages,Male,Car drivers,Number,1474
+6038,Injured Cassualties,2019,All ages,Male,Car passengers,Number,623
+6039,Injured Cassualties,2019,All ages,Male,Other road users,Number,490
+6041,Injured Cassualties,2019,All ages,Female,Pedestrians,Number,513
+6042,Injured Cassualties,2019,All ages,Female,Pedal cyclists,Number,252
+6043,Injured Cassualties,2019,All ages,Female,Motor cyclists,Number,44
+6044,Injured Cassualties,2019,All ages,Female,All Car users,Number,2177
+6045,Injured Cassualties,2019,All ages,Female,Car drivers,Number,1352
+6046,Injured Cassualties,2019,All ages,Female,Car passengers,Number,825
+6047,Injured Cassualties,2019,All ages,Female,Other road users,Number,138
+6241,All Killed and Injured Casualties,2005,All ages,Male,Pedestrians,Number,563
+6242,All Killed and Injured Casualties,2005,All ages,Male,Pedal cyclists,Number,152
+6243,All Killed and Injured Casualties,2005,All ages,Male,Motor cyclists,Number,496
+6244,All Killed and Injured Casualties,2005,All ages,Male,All Car users,Number,2991
+6245,All Killed and Injured Casualties,2005,All ages,Male,Car drivers,Number,2081
+6246,All Killed and Injured Casualties,2005,All ages,Male,Car passengers,Number,910
+6247,All Killed and Injured Casualties,2005,All ages,Male,Other road users,Number,772
+6249,All Killed and Injured Casualties,2005,All ages,Female,Pedestrians,Number,419
+6250,All Killed and Injured Casualties,2005,All ages,Female,Pedal cyclists,Number,45
+6251,All Killed and Injured Casualties,2005,All ages,Female,Motor cyclists,Number,45
+6252,All Killed and Injured Casualties,2005,All ages,Female,All Car users,Number,2572
+6253,All Killed and Injured Casualties,2005,All ages,Female,Car drivers,Number,1587
+6254,All Killed and Injured Casualties,2005,All ages,Female,Car passengers,Number,985
+6255,All Killed and Injured Casualties,2005,All ages,Female,Other road users,Number,152
+6449,All Killed and Injured Casualties,2006,All ages,Male,Pedestrians,Number,540
+6450,All Killed and Injured Casualties,2006,All ages,Male,Pedal cyclists,Number,154
+6451,All Killed and Injured Casualties,2006,All ages,Male,Motor cyclists,Number,446
+6452,All Killed and Injured Casualties,2006,All ages,Male,All Car users,Number,2830
+6453,All Killed and Injured Casualties,2006,All ages,Male,Car drivers,Number,1997
+6454,All Killed and Injured Casualties,2006,All ages,Male,Car passengers,Number,833
+6455,All Killed and Injured Casualties,2006,All ages,Male,Other road users,Number,758
+6457,All Killed and Injured Casualties,2006,All ages,Female,Pedestrians,Number,406
+6458,All Killed and Injured Casualties,2006,All ages,Female,Pedal cyclists,Number,44
+6459,All Killed and Injured Casualties,2006,All ages,Female,Motor cyclists,Number,46
+6460,All Killed and Injured Casualties,2006,All ages,Female,All Car users,Number,2713
+6461,All Killed and Injured Casualties,2006,All ages,Female,Car drivers,Number,1676
+6462,All Killed and Injured Casualties,2006,All ages,Female,Car passengers,Number,1037
+6463,All Killed and Injured Casualties,2006,All ages,Female,Other road users,Number,156
+6657,All Killed and Injured Casualties,2007,All ages,Male,Pedestrians,Number,539
+6658,All Killed and Injured Casualties,2007,All ages,Male,Pedal cyclists,Number,197
+6659,All Killed and Injured Casualties,2007,All ages,Male,Motor cyclists,Number,362
+6660,All Killed and Injured Casualties,2007,All ages,Male,All Car users,Number,2626
+6661,All Killed and Injured Casualties,2007,All ages,Male,Car drivers,Number,1797
+6662,All Killed and Injured Casualties,2007,All ages,Male,Car passengers,Number,829
+6663,All Killed and Injured Casualties,2007,All ages,Male,Other road users,Number,650
+6665,All Killed and Injured Casualties,2007,All ages,Female,Pedestrians,Number,390
+6666,All Killed and Injured Casualties,2007,All ages,Female,Pedal cyclists,Number,63
+6667,All Killed and Injured Casualties,2007,All ages,Female,Motor cyclists,Number,28
+6668,All Killed and Injured Casualties,2007,All ages,Female,All Car users,Number,2650
+6669,All Killed and Injured Casualties,2007,All ages,Female,Car drivers,Number,1556
+6670,All Killed and Injured Casualties,2007,All ages,Female,Car passengers,Number,1094
+6671,All Killed and Injured Casualties,2007,All ages,Female,Other road users,Number,111
+6865,All Killed and Injured Casualties,2008,All ages,Male,Pedestrians,Number,643
+6866,All Killed and Injured Casualties,2008,All ages,Male,Pedal cyclists,Number,249
+6867,All Killed and Injured Casualties,2008,All ages,Male,Motor cyclists,Number,460
+6868,All Killed and Injured Casualties,2008,All ages,Male,All Car users,Number,3422
+6869,All Killed and Injured Casualties,2008,All ages,Male,Car drivers,Number,2265
+6870,All Killed and Injured Casualties,2008,All ages,Male,Car passengers,Number,1157
+6871,All Killed and Injured Casualties,2008,All ages,Male,Other road users,Number,661
+6873,All Killed and Injured Casualties,2008,All ages,Female,Pedestrians,Number,497
+6874,All Killed and Injured Casualties,2008,All ages,Female,Pedal cyclists,Number,83
+6875,All Killed and Injured Casualties,2008,All ages,Female,Motor cyclists,Number,37
+6876,All Killed and Injured Casualties,2008,All ages,Female,All Car users,Number,3241
+6877,All Killed and Injured Casualties,2008,All ages,Female,Car drivers,Number,1899
+6878,All Killed and Injured Casualties,2008,All ages,Female,Car passengers,Number,1342
+6879,All Killed and Injured Casualties,2008,All ages,Female,Other road users,Number,125
+7073,All Killed and Injured Casualties,2009,All ages,Male,Pedestrians,Number,618
+7074,All Killed and Injured Casualties,2009,All ages,Male,Pedal cyclists,Number,284
+7075,All Killed and Injured Casualties,2009,All ages,Male,Motor cyclists,Number,416
+7076,All Killed and Injured Casualties,2009,All ages,Male,All Car users,Number,3526
+7077,All Killed and Injured Casualties,2009,All ages,Male,Car drivers,Number,2231
+7078,All Killed and Injured Casualties,2009,All ages,Male,Car passengers,Number,1295
+7079,All Killed and Injured Casualties,2009,All ages,Male,Other road users,Number,580
+7081,All Killed and Injured Casualties,2009,All ages,Female,Pedestrians,Number,475
+7082,All Killed and Injured Casualties,2009,All ages,Female,Pedal cyclists,Number,77
+7083,All Killed and Injured Casualties,2009,All ages,Female,Motor cyclists,Number,29
+7084,All Killed and Injured Casualties,2009,All ages,Female,All Car users,Number,3320
+7085,All Killed and Injured Casualties,2009,All ages,Female,Car drivers,Number,1940
+7086,All Killed and Injured Casualties,2009,All ages,Female,Car passengers,Number,1380
+7087,All Killed and Injured Casualties,2009,All ages,Female,Other road users,Number,117
+7281,All Killed and Injured Casualties,2010,All ages,Male,Pedestrians,Number,544
+7282,All Killed and Injured Casualties,2010,All ages,Male,Pedal cyclists,Number,291
+7283,All Killed and Injured Casualties,2010,All ages,Male,Motor cyclists,Number,360
+7284,All Killed and Injured Casualties,2010,All ages,Male,All Car users,Number,2807
+7285,All Killed and Injured Casualties,2010,All ages,Male,Car drivers,Number,1762
+7286,All Killed and Injured Casualties,2010,All ages,Male,Car passengers,Number,1045
+7287,All Killed and Injured Casualties,2010,All ages,Male,Other road users,Number,569
+7289,All Killed and Injured Casualties,2010,All ages,Female,Pedestrians,Number,406
+7290,All Killed and Injured Casualties,2010,All ages,Female,Pedal cyclists,Number,95
+7291,All Killed and Injured Casualties,2010,All ages,Female,Motor cyclists,Number,28
+7292,All Killed and Injured Casualties,2010,All ages,Female,All Car users,Number,2832
+7293,All Killed and Injured Casualties,2010,All ages,Female,Car drivers,Number,1658
+7294,All Killed and Injured Casualties,2010,All ages,Female,Car passengers,Number,1174
+7295,All Killed and Injured Casualties,2010,All ages,Female,Other road users,Number,125
+7489,All Killed and Injured Casualties,2011,All ages,Male,Pedestrians,Number,567
+7490,All Killed and Injured Casualties,2011,All ages,Male,Pedal cyclists,Number,298
+7491,All Killed and Injured Casualties,2011,All ages,Male,Motor cyclists,Number,296
+7492,All Killed and Injured Casualties,2011,All ages,Male,All Car users,Number,2413
+7493,All Killed and Injured Casualties,2011,All ages,Male,Car drivers,Number,1523
+7494,All Killed and Injured Casualties,2011,All ages,Male,Car passengers,Number,890
+7495,All Killed and Injured Casualties,2011,All ages,Male,Other road users,Number,525
+7497,All Killed and Injured Casualties,2011,All ages,Female,Pedestrians,Number,397
+7498,All Killed and Injured Casualties,2011,All ages,Female,Pedal cyclists,Number,89
+7499,All Killed and Injured Casualties,2011,All ages,Female,Motor cyclists,Number,33
+7500,All Killed and Injured Casualties,2011,All ages,Female,All Car users,Number,2361
+7501,All Killed and Injured Casualties,2011,All ages,Female,Car drivers,Number,1388
+7502,All Killed and Injured Casualties,2011,All ages,Female,Car passengers,Number,973
+7503,All Killed and Injured Casualties,2011,All ages,Female,Other road users,Number,112
+7697,All Killed and Injured Casualties,2012,All ages,Male,Pedestrians,Number,592
+7698,All Killed and Injured Casualties,2012,All ages,Male,Pedal cyclists,Number,459
+7699,All Killed and Injured Casualties,2012,All ages,Male,Motor cyclists,Number,316
+7700,All Killed and Injured Casualties,2012,All ages,Male,All Car users,Number,2707
+7701,All Killed and Injured Casualties,2012,All ages,Male,Car drivers,Number,1676
+7702,All Killed and Injured Casualties,2012,All ages,Male,Car passengers,Number,1031
+7703,All Killed and Injured Casualties,2012,All ages,Male,Other road users,Number,459
+7705,All Killed and Injured Casualties,2012,All ages,Female,Pedestrians,Number,433
+7706,All Killed and Injured Casualties,2012,All ages,Female,Pedal cyclists,Number,162
+7707,All Killed and Injured Casualties,2012,All ages,Female,Motor cyclists,Number,32
+7708,All Killed and Injured Casualties,2012,All ages,Female,All Car users,Number,2576
+7709,All Killed and Injured Casualties,2012,All ages,Female,Car drivers,Number,1536
+7710,All Killed and Injured Casualties,2012,All ages,Female,Car passengers,Number,1040
+7711,All Killed and Injured Casualties,2012,All ages,Female,Other road users,Number,101
+7905,All Killed and Injured Casualties,2013,All ages,Male,Pedestrians,Number,517
+7906,All Killed and Injured Casualties,2013,All ages,Male,Pedal cyclists,Number,472
+7907,All Killed and Injured Casualties,2013,All ages,Male,Motor cyclists,Number,268
+7908,All Killed and Injured Casualties,2013,All ages,Male,All Car users,Number,2275
+7909,All Killed and Injured Casualties,2013,All ages,Male,Car drivers,Number,1414
+7910,All Killed and Injured Casualties,2013,All ages,Male,Car passengers,Number,861
+7911,All Killed and Injured Casualties,2013,All ages,Male,Other road users,Number,426
+7913,All Killed and Injured Casualties,2013,All ages,Female,Pedestrians,Number,394
+7914,All Killed and Injured Casualties,2013,All ages,Female,Pedal cyclists,Number,145
+7915,All Killed and Injured Casualties,2013,All ages,Female,Motor cyclists,Number,20
+7916,All Killed and Injured Casualties,2013,All ages,Female,All Car users,Number,2191
+7917,All Killed and Injured Casualties,2013,All ages,Female,Car drivers,Number,1313
+7918,All Killed and Injured Casualties,2013,All ages,Female,Car passengers,Number,878
+7919,All Killed and Injured Casualties,2013,All ages,Female,Other road users,Number,99
+8113,All Killed and Injured Casualties,2014,All ages,Male,Pedestrians,Number,624
+8114,All Killed and Injured Casualties,2014,All ages,Male,Pedal cyclists,Number,665
+8115,All Killed and Injured Casualties,2014,All ages,Male,Motor cyclists,Number,285
+8116,All Killed and Injured Casualties,2014,All ages,Male,All Car users,Number,2579
+8117,All Killed and Injured Casualties,2014,All ages,Male,Car drivers,Number,1663
+8118,All Killed and Injured Casualties,2014,All ages,Male,Car passengers,Number,916
+8119,All Killed and Injured Casualties,2014,All ages,Male,Other road users,Number,491
+8121,All Killed and Injured Casualties,2014,All ages,Female,Pedestrians,Number,476
+8122,All Killed and Injured Casualties,2014,All ages,Female,Pedal cyclists,Number,198
+8123,All Killed and Injured Casualties,2014,All ages,Female,Motor cyclists,Number,28
+8124,All Killed and Injured Casualties,2014,All ages,Female,All Car users,Number,2657
+8125,All Killed and Injured Casualties,2014,All ages,Female,Car drivers,Number,1505
+8126,All Killed and Injured Casualties,2014,All ages,Female,Car passengers,Number,1152
+8127,All Killed and Injured Casualties,2014,All ages,Female,Other road users,Number,88
+8321,All Killed and Injured Casualties,2015,All ages,Male,Pedestrians,Number,579
+8322,All Killed and Injured Casualties,2015,All ages,Male,Pedal cyclists,Number,701
+8323,All Killed and Injured Casualties,2015,All ages,Male,Motor cyclists,Number,321
+8324,All Killed and Injured Casualties,2015,All ages,Male,All Car users,Number,2422
+8325,All Killed and Injured Casualties,2015,All ages,Male,Car drivers,Number,1601
+8326,All Killed and Injured Casualties,2015,All ages,Male,Car passengers,Number,821
+8327,All Killed and Injured Casualties,2015,All ages,Male,Other road users,Number,474
+8329,All Killed and Injured Casualties,2015,All ages,Female,Pedestrians,Number,484
+8330,All Killed and Injured Casualties,2015,All ages,Female,Pedal cyclists,Number,229
+8331,All Killed and Injured Casualties,2015,All ages,Female,Motor cyclists,Number,32
+8332,All Killed and Injured Casualties,2015,All ages,Female,All Car users,Number,2485
+8333,All Killed and Injured Casualties,2015,All ages,Female,Car drivers,Number,1497
+8334,All Killed and Injured Casualties,2015,All ages,Female,Car passengers,Number,988
+8335,All Killed and Injured Casualties,2015,All ages,Female,Other road users,Number,105
+8529,All Killed and Injured Casualties,2016,All ages,Male,Pedestrians,Number,565
+8530,All Killed and Injured Casualties,2016,All ages,Male,Pedal cyclists,Number,701
+8531,All Killed and Injured Casualties,2016,All ages,Male,Motor cyclists,Number,353
+8532,All Killed and Injured Casualties,2016,All ages,Male,All Car users,Number,2354
+8533,All Killed and Injured Casualties,2016,All ages,Male,Car drivers,Number,1611
+8534,All Killed and Injured Casualties,2016,All ages,Male,Car passengers,Number,743
+8535,All Killed and Injured Casualties,2016,All ages,Male,Other road users,Number,474
+8537,All Killed and Injured Casualties,2016,All ages,Female,Pedestrians,Number,491
+8538,All Killed and Injured Casualties,2016,All ages,Female,Pedal cyclists,Number,255
+8539,All Killed and Injured Casualties,2016,All ages,Female,Motor cyclists,Number,33
+8540,All Killed and Injured Casualties,2016,All ages,Female,All Car users,Number,2420
+8541,All Killed and Injured Casualties,2016,All ages,Female,Car drivers,Number,1500
+8542,All Killed and Injured Casualties,2016,All ages,Female,Car passengers,Number,920
+8543,All Killed and Injured Casualties,2016,All ages,Female,Other road users,Number,87
+8737,All Killed and Injured Casualties,2017,All ages,Male,Pedestrians,Number,654
+8738,All Killed and Injured Casualties,2017,All ages,Male,Pedal cyclists,Number,792
+8739,All Killed and Injured Casualties,2017,All ages,Male,Motor cyclists,Number,342
+8740,All Killed and Injured Casualties,2017,All ages,Male,All Car users,Number,2337
+8741,All Killed and Injured Casualties,2017,All ages,Male,Car drivers,Number,1642
+8742,All Killed and Injured Casualties,2017,All ages,Male,Car passengers,Number,695
+8743,All Killed and Injured Casualties,2017,All ages,Male,Other road users,Number,467
+8745,All Killed and Injured Casualties,2017,All ages,Female,Pedestrians,Number,505
+8746,All Killed and Injured Casualties,2017,All ages,Female,Pedal cyclists,Number,280
+8747,All Killed and Injured Casualties,2017,All ages,Female,Motor cyclists,Number,32
+8748,All Killed and Injured Casualties,2017,All ages,Female,All Car users,Number,2414
+8749,All Killed and Injured Casualties,2017,All ages,Female,Car drivers,Number,1510
+8750,All Killed and Injured Casualties,2017,All ages,Female,Car passengers,Number,904
+8751,All Killed and Injured Casualties,2017,All ages,Female,Other road users,Number,92
+8945,All Killed and Injured Casualties,2018,All ages,Male,Pedestrians,Number,616
+8946,All Killed and Injured Casualties,2018,All ages,Male,Pedal cyclists,Number,811
+8947,All Killed and Injured Casualties,2018,All ages,Male,Motor cyclists,Number,441
+8948,All Killed and Injured Casualties,2018,All ages,Male,All Car users,Number,2281
+8949,All Killed and Injured Casualties,2018,All ages,Male,Car drivers,Number,1640
+8950,All Killed and Injured Casualties,2018,All ages,Male,Car passengers,Number,641
+8951,All Killed and Injured Casualties,2018,All ages,Male,Other road users,Number,541
+8953,All Killed and Injured Casualties,2018,All ages,Female,Pedestrians,Number,523
+8954,All Killed and Injured Casualties,2018,All ages,Female,Pedal cyclists,Number,261
+8955,All Killed and Injured Casualties,2018,All ages,Female,Motor cyclists,Number,41
+8956,All Killed and Injured Casualties,2018,All ages,Female,All Car users,Number,2452
+8957,All Killed and Injured Casualties,2018,All ages,Female,Car drivers,Number,1531
+8958,All Killed and Injured Casualties,2018,All ages,Female,Car passengers,Number,921
+8959,All Killed and Injured Casualties,2018,All ages,Female,Other road users,Number,138
+9153,All Killed and Injured Casualties,2019,All ages,Male,Pedestrians,Number,587
+9154,All Killed and Injured Casualties,2019,All ages,Male,Pedal cyclists,Number,879
+9155,All Killed and Injured Casualties,2019,All ages,Male,Motor cyclists,Number,419
+9156,All Killed and Injured Casualties,2019,All ages,Male,All Car users,Number,2152
+9157,All Killed and Injured Casualties,2019,All ages,Male,Car drivers,Number,1519
+9158,All Killed and Injured Casualties,2019,All ages,Male,Car passengers,Number,633
+9159,All Killed and Injured Casualties,2019,All ages,Male,Other road users,Number,498
+9161,All Killed and Injured Casualties,2019,All ages,Female,Pedestrians,Number,520
+9162,All Killed and Injured Casualties,2019,All ages,Female,Pedal cyclists,Number,254
+9163,All Killed and Injured Casualties,2019,All ages,Female,Motor cyclists,Number,44
+9164,All Killed and Injured Casualties,2019,All ages,Female,All Car users,Number,2203
+9165,All Killed and Injured Casualties,2019,All ages,Female,Car drivers,Number,1373
+9166,All Killed and Injured Casualties,2019,All ages,Female,Car passengers,Number,830
+9167,All Killed and Injured Casualties,2019,All ages,Female,Other road users,Number,138
