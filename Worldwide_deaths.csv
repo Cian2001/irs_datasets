@@ -29,7 +29,7 @@ Cambodia,Asia,17.4,107.2,,2635,2013
 Cameroon,Africa,27.6,1385.1,,6136,2013
 Canada,North America,5.8,8.9,5.1,2118,2016
 Cape Verde,Africa,26.1,229,,130,2013
-Central African Republic,Africa,33.6,4484.4,,1546,2016
+Central African Rep.,Africa,33.6,4484.4,,1546,2016
 Chad,Africa,24.1,497,,3089,2013
 Chile,South America,12.4,51.1,,2179,2013
 China,Asia,18.8,104.5,,261367,2016
@@ -37,15 +37,15 @@ Colombia,South America,16.8,83.3,,8107,2013
 Congo,Africa,26.4,1063,,1174,2013
 Cook Islands,Oceania,24.2,40.2,,5,2013
 Costa Rica,North America,13.9,38.4,,676,2013
-Croatia,Europe,7.3,21.1,,340,2019[11]
+Croatia,Europe,7.3,21.1,,340,2019
 Cuba,North America,7.5,133.7,,840,2013
-Cyprus,Europe,5.9,9.2,,60,2019[11]
-Czech Republic,Europe,5.8,8.6,11.5,630,2019[11]
-Democratic Republic of the Congo,Africa,33.7,,,26529,2016
-Denmark,Europe,3.4,7.2,3.9,227,2019[11]
+Cyprus,Europe,5.9,9.2,,60,2019
+Czech Republic,Europe,5.8,8.6,11.5,630,2019
+Dem. Rep. Congo,Africa,33.7,,,26529,2016
+Denmark,Europe,3.4,7.2,3.9,227,2019
 Djibouti,Africa,24.7,,,216,2013
 Dominica,North America,15.3,44.7,,11,2013
-Dominican Republic,North America,29.3,94.9,,3052,2013
+Dominican Rep.,North America,29.3,94.9,,3052,2013
 Ecuador,South America,20.1,183.8,,3164,2013
 Egypt,Africa,12.8,148.7,,10466,2013
 El Salvador,North America,21.1,163.7,,1339,2013
@@ -53,14 +53,14 @@ Eritrea,Africa,24.1,2171.5,,1527,2013
 Estonia,Europe,7,12.8,,90,2016
 Ethiopia,Africa,26.7,385.7,,27326,2016
 Fiji,Oceania,5.8,58.9,,51,2013
-Finland,Europe,3.8,5,5.1,260,2019[11]
-France,Europe,5,8.4,5.8,3585,2019[11]
+Finland,Europe,3.8,5,5.1,260,2019
+France,Europe,5,8.4,5.8,3585,2019
 Gabon,Africa,22.9,196.4,,383,2013
 Gambia,Africa,29.4,998.7,,544,2013
 Georgia,Europe,11.8,32.6,,449,2021
-Germany,Europe,3.7,6.4,4.2,3327,2019[11]
+Germany,Europe,3.7,6.4,4.2,3327,2019
 Ghana,Africa,26.2,443.1,,6789,2013
-Greece,Europe,6.5,12.8,,699,2019[11]
+Greece,Europe,6.5,12.8,,699,2019
 Guatemala,North America,19,114.7,,2939,2013
 Guinea,Africa,28.2,1343.7,,3490,2016
 Guinea-Bissau,Africa,27.5,751.9,,468,2013
@@ -173,7 +173,7 @@ Uganda,Africa,27.4,836.8,,10280,2013
 Ukraine,Europe,13.7,42.2,,6089,2016
 United Arab Emirates,Asia,18.1,62.7,,1678,2013
 United Kingdom,Europe,2.9,5.7,3.8,2026,2019[11]
-United States,North America,12.4,14.2,7.3,39888,2018
+United States of America,North America,12.4,14.2,7.3,39888,2018
 Uruguay,South America,13.4,19.6,,460,2016
 Uzbekistan,Asia,11.5,,,3617,2016
 Vanuatu,Oceania,16.6,300,,42,2013
